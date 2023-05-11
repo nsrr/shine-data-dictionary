@@ -1,6 +1,7 @@
 {
   "id": "biofathht_cm_v1",
-  "display_name": "How tall is your baby's biological father? (cm)",
+  "display_name": "How tall is your baby's biological father?",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "centimeters"
 }
