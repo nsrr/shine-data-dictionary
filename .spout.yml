@@ -1,0 +1,9 @@
+slug: shine
+visit: visitnumber
+charts:
+
+webservers:
+  - name: production
+    url: https://sleepdata.org
+  - name: staging
+    url: https://staging.partners.org/sleepdata.org
