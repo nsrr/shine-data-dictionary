@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Sometimes",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Always",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "N/A (baby has not experienced winter yet)",
+    "description": ""
+  }
+]

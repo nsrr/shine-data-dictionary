@@ -1,0 +1,7 @@
+{
+  "id": "borncountry_f_v2",
+  "display_name": "In what country were you born?",
+  "description": "",
+  "type": "choices",
+  "domain": "borncountry_f_v2_"
+}

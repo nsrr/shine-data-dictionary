@@ -1,0 +1,7 @@
+{
+  "id": "sleepquality_f_v2",
+  "display_name": "Overall, how was your typical night's sleep during the LAST 4 WEEKS?",
+  "description": "",
+  "type": "choices",
+  "domain": "sleepquality_f_v2_"
+}

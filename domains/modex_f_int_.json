@@ -1,0 +1,87 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "1 time per week",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "2 times per week",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "3 times per week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "4 times per week",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "5 times per week",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "6 times per week",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "7 times per week",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "8 times per week",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "9 times per week",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "10 times per week",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "11 times per week",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "12 times per week",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "13 times per week",
+    "description": ""
+  },
+  {
+    "value": "14",
+    "display_name": "14 times per week",
+    "description": ""
+  },
+  {
+    "value": "15",
+    "display_name": "15 times per week",
+    "description": ""
+  },
+  {
+    "value": "16",
+    "display_name": "> 15 times per week",
+    "description": ""
+  }
+]

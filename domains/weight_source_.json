@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "CRC measurement",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Extracted from EHR",
+    "description": ""
+  }
+]

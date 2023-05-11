@@ -1,0 +1,32 @@
+[
+  {
+    "value": "1",
+    "display_name": "Less than 12th grade",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "High school degree or GED",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Some college or an associate's degree",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Bachelor's degree",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Graduate degree or higher",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Decline/Don't Know",
+    "description": ""
+  }
+]

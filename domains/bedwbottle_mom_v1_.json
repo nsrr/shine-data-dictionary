@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Only occasionally at bedtimes, including naps",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "At most naps, but not night bedtimes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "At most night bedtimes, but not naps",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "At most bedtimes, including naps",
+    "description": ""
+  }
+]

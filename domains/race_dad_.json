@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "White",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Black or African American",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Asian",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Hispanic or Latino",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Refused or don't know",
+    "description": ""
+  }
+]

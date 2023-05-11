@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes, at least half of the floor area",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, less than half of the floor area",
+    "description": ""
+  }
+]

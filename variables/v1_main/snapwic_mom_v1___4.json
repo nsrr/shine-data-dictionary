@@ -1,0 +1,7 @@
+{
+  "id": "snapwic_mom_v1___4",
+  "display_name": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Social Security Income)",
+  "description": "",
+  "type": "choices",
+  "domain": "snapwic_mom_v1___4_"
+}

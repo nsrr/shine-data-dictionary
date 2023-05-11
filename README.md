@@ -18,7 +18,7 @@ dictionary.
 ### Testing
 
 The shine-data-dictionary data dictionary is tested using the
-[Spout Gem](https://github.com/sleepepi/spout).
+[Spout Gem](https://github.com/nsrr/spout).
 
 Data dictionary tests can be run by typing:
 

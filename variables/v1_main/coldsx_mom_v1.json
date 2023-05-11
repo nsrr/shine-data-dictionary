@@ -1,0 +1,7 @@
+{
+  "id": "coldsx_mom_v1",
+  "display_name": "Cold symptoms, e.g., runny or stuffy nose or episodes of sneezing",
+  "description": "",
+  "type": "choices",
+  "domain": "coldsx_mom_v1_"
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Not sure",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Cries more than other babies",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Cries the same amount as other babies",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Cries less than other babies",
+    "description": ""
+  }
+]

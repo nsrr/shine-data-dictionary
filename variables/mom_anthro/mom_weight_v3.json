@@ -1,0 +1,7 @@
+{
+  "id": "mom_weight_v3",
+  "display_name": "Mother weight at visit 3 (kg)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "langspfrnd_mom_v1",
+  "display_name": "What language(s) do you usually speak with your friends?",
+  "description": "",
+  "type": "choices",
+  "domain": "langspfrnd_mom_v1_"
+}

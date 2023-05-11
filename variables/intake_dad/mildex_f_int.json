@@ -1,0 +1,7 @@
+{
+  "id": "mildex_f_int",
+  "display_name": "MILD EXERCISE (MINIMAL EFFORT)  (e.g., yoga, archery, fishing from river bank, bowling, horseshoes, golf, snow-mobiling, easy walking)",
+  "description": "",
+  "type": "choices",
+  "domain": "mildex_f_int_"
+}

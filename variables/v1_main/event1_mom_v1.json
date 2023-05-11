@@ -1,0 +1,7 @@
+{
+  "id": "event1_mom_v1",
+  "display_name": "Life-threatening illness or accidental injury to someone close to you",
+  "description": "",
+  "type": "choices",
+  "domain": "event1_mom_v1_"
+}

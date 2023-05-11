@@ -1,0 +1,7 @@
+{
+  "id": "mdd_mom_v1",
+  "display_name": "Depression",
+  "description": "",
+  "type": "choices",
+  "domain": "mdd_mom_v1_"
+}

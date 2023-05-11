@@ -1,0 +1,6 @@
+{
+  "id": "wt_f_int",
+  "display_name": "What is your weight (in pounds)?  Note: Please enter a 2-3 digit number.  Example: 210",
+  "description": "",
+  "type": "numeric"
+}
