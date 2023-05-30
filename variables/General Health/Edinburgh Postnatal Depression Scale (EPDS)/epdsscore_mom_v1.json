@@ -1,0 +1,12 @@
+{
+  "id": "epdsscore_mom_v1",
+  "display_name": "Edinburgh Postnatal Depression Scale (EPDS): Total score",
+  "description": "Summary score from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
+  "type": "numeric",
+  "other": {
+    "number": "132",
+    "source_folder": "v1_main",
+    "source_name": "Calculated - Total score based on a 10-item questionnaires identifying patients at risk for perinatal depression. [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/) Scale 0-3 for individual items; 0 to 30 for overall score. A score of 10 or greater indicates possible depression.<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
+    "label": "epds;epds_total"
+  }
+}

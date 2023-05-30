@@ -1,0 +1,13 @@
+{
+  "id": "babyfallaslp_mom_v1",
+  "display_name": "How does your baby fall asleep most of the time?",
+  "description": "",
+  "type": "choices",
+  "domain": "babyfallaslp_mom_v1_",
+  "other": {
+    "number": "78",
+    "source_folder": "v1_main",
+    "source_name": "How does your baby fall asleep most of the time?",
+    "label": null
+  }
+}

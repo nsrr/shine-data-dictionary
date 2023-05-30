@@ -1,0 +1,13 @@
+{
+  "id": "babyslpdark_mom_v1",
+  "display_name": "Is the room where your baby sleeps dark during the night?",
+  "description": "",
+  "type": "choices",
+  "domain": "babyslpdark_mom_v1_",
+  "other": {
+    "number": "83",
+    "source_folder": "v1_main",
+    "source_name": "Is the room where your baby sleeps dark during the night?",
+    "label": "sleep_environment"
+  }
+}

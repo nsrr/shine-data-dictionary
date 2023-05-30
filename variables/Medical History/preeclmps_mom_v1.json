@@ -1,0 +1,13 @@
+{
+  "id": "preeclmps_mom_v1",
+  "display_name": "Pre-eclampsia (hypertension of pregnancy) - Mother",
+  "description": "",
+  "type": "choices",
+  "domain": "preeclmps_mom_v1_",
+  "other": {
+    "number": "193",
+    "source_folder": "v1_main",
+    "source_name": "Pre-eclampsia (hypertension of pregnancy)",
+    "label": null
+  }
+}

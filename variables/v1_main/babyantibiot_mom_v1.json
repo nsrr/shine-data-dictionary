@@ -1,7 +1,0 @@
-{
-  "id": "babyantibiot_mom_v1",
-  "display_name": "Since birth, has your baby received oral, intravenous, topical or intramuscular antibiotics for any reason, including while in the hospital?",
-  "description": "",
-  "type": "choices",
-  "domain": "babyantibiot_mom_v1_"
-}

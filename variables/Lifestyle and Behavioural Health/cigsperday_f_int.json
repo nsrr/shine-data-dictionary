@@ -1,0 +1,13 @@
+{
+  "id": "cigsperday_f_int",
+  "display_name": "Average cigarettes smoked per day - Father",
+  "description": "On average, how many cigarettes per day do you currently smoke? (1 pack = 20 cigarettes)",
+  "type": "choices",
+  "domain": "cigsperday_f_int_",
+  "other": {
+    "number": "3",
+    "source_folder": "intake_dad",
+    "source_name": "On average, how many cigarettes per day do you currently smoke? (1 pack = 20 cigarettes)",
+    "label": "smoking"
+  }
+}

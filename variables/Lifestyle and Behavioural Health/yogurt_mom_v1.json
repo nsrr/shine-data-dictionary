@@ -1,0 +1,13 @@
+{
+  "id": "yogurt_mom_v1",
+  "display_name": "Average frequency of eating yogurt in the past 4 weeks - Mother",
+  "description": "In the past 4 weeks, on average, how often did you eat yogurt?",
+  "type": "choices",
+  "domain": "yogurt_mom_v1_",
+  "other": {
+    "number": "251",
+    "source_folder": "v1_main",
+    "source_name": "In the past 4 weeks, on average, how often did you eat yogurt?",
+    "label": null
+  }
+}

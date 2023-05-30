@@ -1,0 +1,13 @@
+{
+  "id": "internethome_f_int",
+  "display_name": "Internet access at home - Father",
+  "description": "",
+  "type": "choices",
+  "domain": "internethome_f_int_",
+  "other": {
+    "number": "18",
+    "source_folder": "intake_dad",
+    "source_name": "Do you have internet access in your home?",
+    "label": null
+  }
+}

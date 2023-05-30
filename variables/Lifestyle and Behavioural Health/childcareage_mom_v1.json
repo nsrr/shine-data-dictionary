@@ -1,0 +1,13 @@
+{
+  "id": "childcareage_mom_v1",
+  "display_name": "Age (in months) when baby started childcare",
+  "description": "How old was he/she when s/he started there? (in months)",
+  "type": "numeric",
+  "units": "months",
+  "other": {
+    "number": "105",
+    "source_folder": "v1_main",
+    "source_name": "How old was he/she when s/he started there? (in months)",
+    "label": null
+  }
+}

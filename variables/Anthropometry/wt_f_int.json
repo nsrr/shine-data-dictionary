@@ -1,0 +1,13 @@
+{
+  "id": "wt_f_int",
+  "display_name": "Weight in pounds - Father",
+  "description": "",
+  "type": "numeric",
+  "units": "pounds",
+  "other": {
+    "number": "31",
+    "source_folder": "intake_dad",
+    "source_name": "What is your weight (in pounds)?  Note: Please enter a 2-3 digit number.  Example: 210",
+    "label": null
+  }
+}

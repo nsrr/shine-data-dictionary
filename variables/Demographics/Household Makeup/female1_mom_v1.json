@@ -1,0 +1,13 @@
+{
+  "id": "female1_mom_v1",
+  "display_name": "Female caregiver lives in the household",
+  "description": "Does she live in your household?",
+  "type": "choices",
+  "domain": "female1_mom_v1_",
+  "other": {
+    "number": "147",
+    "source_folder": "v1_main",
+    "source_name": "Does she live in your household?",
+    "label": null
+  }
+}

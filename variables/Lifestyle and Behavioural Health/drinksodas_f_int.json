@@ -1,0 +1,13 @@
+{
+  "id": "drinksodas_f_int",
+  "display_name": "Average frequency of drinking any regular sodas or soft drinks, excluding diet sodas, over the last 4 weeks - Father",
+  "description": "In the past 4 weeks, on average, how often did you drink any regular sodas or soft drinks, including Manzanita, Penafiel, Coke, Pepsi, Dr. Pepper, or Mountain Dew? Do NOT include diet sodas.",
+  "type": "choices",
+  "domain": "drinksodas_f_int_",
+  "other": {
+    "number": "8",
+    "source_folder": "intake_dad",
+    "source_name": "In the past 4 weeks, on average, how often did you drink any regular sodas or soft drinks, including Manzanita, Penafiel, Coke, Pepsi, Dr. Pepper, or Mountain Dew? Do NOT include diet sodas.",
+    "label": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "income_f_v2",
+  "display_name": "Annual household income - Father",
+  "description": "What is your household annual income? Please include money from all sources such as salaries, tips, Social Security, Transitional ADFC (TADFC), retirement, and any other kind of income.",
+  "type": "choices",
+  "domain": "income_f_v2_",
+  "other": {
+    "number": "294",
+    "source_folder": "v2_dad",
+    "source_name": "What is your household annual income? Please include money from all sources such as salaries, tips, Social Security, Transitional ADFC (TADFC), retirement, and any other kind of income.",
+    "label": null
+  }
+}

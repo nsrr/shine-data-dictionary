@@ -1,0 +1,13 @@
+{
+  "id": "drinkjuice_f_v2",
+  "display_name": "Average frequency of drinking 100% pure fruit juices over the last 4 weeks - Father",
+  "description": "In the past 4 weeks, on average, how often did you drink 100% pure fruit juices such as orange, mango, apple, grape, and pineapple juices? Do NOT count punch, Kool-Aid®, Tampico, sports drinks, or Goya juice.",
+  "type": "choices",
+  "domain": "drinkjuice_f_v2_",
+  "other": {
+    "number": "276",
+    "source_folder": "v2_dad",
+    "source_name": "In the past 4 weeks, on average, how often did you drink 100% pure fruit juices such as orange, mango, apple, grape, and pineapple juices? Do NOT count punch, Kool-Aid®, Tampico, sports drinks, or Goya juice.",
+    "label": null
+  }
+}

@@ -1,7 +1,0 @@
-{
-  "id": "v1swaterdrnk",
-  "display_name": "In the past month, how many ounces of water did your baby drink in an average day (24-hour period)?",
-  "description": "",
-  "type": "choices",
-  "domain": "v1swaterdrnk_"
-}

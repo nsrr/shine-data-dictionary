@@ -1,0 +1,12 @@
+{
+  "id": "language_mom_v1",
+  "display_name": "Languages you primarily speak - Mother",
+  "description": "What language(s) do you primarily speak?",
+  "type": "text",
+  "other": {
+    "number": "162",
+    "source_folder": "v1_main",
+    "source_name": "What language(s) do you primarily speak?",
+    "label": null
+  }
+}

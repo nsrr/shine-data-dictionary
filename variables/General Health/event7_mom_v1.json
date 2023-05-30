@@ -1,0 +1,13 @@
+{
+  "id": "event7_mom_v1",
+  "display_name": "Being robbed or having home burglarized - Mother",
+  "description": "Has this event happened to you over the past year: Being robbed or having home burglarized - Mother",
+  "type": "choices",
+  "domain": "event7_mom_v1_",
+  "other": {
+    "number": "142",
+    "source_folder": "v1_main",
+    "source_name": "Being robbed or having home burglarized",
+    "label": null
+  }
+}

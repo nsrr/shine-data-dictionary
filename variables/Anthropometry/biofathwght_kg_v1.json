@@ -1,0 +1,13 @@
+{
+  "id": "biofathwght_kg_v1",
+  "display_name": "Weight of baby's biological father",
+  "description": "About how much does your baby's biological father weigh?",
+  "type": "numeric",
+  "units": "kilograms",
+  "other": {
+    "number": "99",
+    "source_folder": "v1_main",
+    "source_name": "About how much does your baby's biological father weigh?",
+    "label": null
+  }
+}

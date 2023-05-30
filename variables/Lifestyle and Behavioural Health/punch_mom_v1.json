@@ -1,0 +1,13 @@
+{
+  "id": "punch_mom_v1",
+  "display_name": "Average frequency of drinking punch, sweetened fruit drinks, sports drinks, Kool-Aid, Tampico, lemonade, Hi-C, cranberry drink, Goya, or Vitamin Water in the past 4 weeks (excluding 100% fruit juice or diet drinks) - Mother",
+  "description": "In the past 4 weeks, on average, how often did you drink punch, sweetened fruit drinks, sports drinks, Kool-Aid, Tampico, lemonade, Hi-C, cranberry drink, Goya, or Vitamin Water? Do not include 100% fruit juice or diet drinks.",
+  "type": "choices",
+  "domain": "punch_mom_v1_",
+  "other": {
+    "number": "195",
+    "source_folder": "v1_main",
+    "source_name": "In the past 4 weeks, on average, how often did you drink punch, sweetened fruit drinks, sports drinks, Kool-Aid, Tampico, lemonade, Hi-C, cranberry drink, Goya, or Vitamin Water? Do not include 100% fruit juice or diet drinks.",
+    "label": null
+  }
+}

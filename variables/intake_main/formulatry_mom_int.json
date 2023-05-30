@@ -1,7 +1,0 @@
-{
-  "id": "formulatry_mom_int",
-  "display_name": "Has your baby received any formula?",
-  "description": "",
-  "type": "choices",
-  "domain": "formulatry_mom_int_"
-}

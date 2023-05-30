@@ -1,0 +1,13 @@
+{
+  "id": "event2_mom_v1",
+  "display_name": "Death of someone close to you - Mother",
+  "description": "Has this event happened to you over the past year: Death of someone close to you - Mother",
+  "type": "choices",
+  "domain": "event2_mom_v1_",
+  "other": {
+    "number": "137",
+    "source_folder": "v1_main",
+    "source_name": "Death of someone close to you",
+    "label": null
+  }
+}

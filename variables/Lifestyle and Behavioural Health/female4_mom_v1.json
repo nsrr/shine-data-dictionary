@@ -1,0 +1,13 @@
+{
+  "id": "female4_mom_v1",
+  "display_name": "Number of hours female cargiver spent with the baby last week",
+  "description": "What is the total number of hours she spent with your baby last week without you being present? (hours)",
+  "type": "numeric",
+  "units": "hours",
+  "other": {
+    "number": "150",
+    "source_folder": "v1_main",
+    "source_name": "What is the total number of hours she spent with your baby last week without you being present? (hours)",
+    "label": null
+  }
+}

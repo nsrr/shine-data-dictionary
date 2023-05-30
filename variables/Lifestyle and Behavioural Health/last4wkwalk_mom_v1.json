@@ -1,0 +1,13 @@
+{
+  "id": "last4wkwalk_mom_v1",
+  "display_name": "Average hours per week engaged in walking activities in the last 4 weeks (including walking for fun or exercise, walking to work or school) - Mother",
+  "description": "Thinking back on the LAST 4 WEEKS, on average, how many hours per week did you spend engaged in...  Walking (include walking for fun or exercise, walking to work or school)?",
+  "type": "numeric",
+  "units": "hours",
+  "other": {
+    "number": "163",
+    "source_folder": "v1_main",
+    "source_name": "Thinking back on the LAST 4 WEEKS, on average, how many hours per week did you spend engaged in...  Walking (include walking for fun or exercise, walking to work or school)?",
+    "label": null
+  }
+}

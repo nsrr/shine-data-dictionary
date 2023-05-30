@@ -1,0 +1,13 @@
+{
+  "id": "babywake_f_v2",
+  "display_name": "Level of problem caused by the baby's night wakings - Father",
+  "description": "On a scale of 1 to 5, with 1 being 'not at all a problem' and 5 being 'definitely a problem', how much of a problem for you are your baby's night wakings?",
+  "type": "choices",
+  "domain": "babywake_f_v2_",
+  "other": {
+    "number": "253",
+    "source_folder": "v2_dad",
+    "source_name": "On a scale of 1 to 5, with 1 being 'not at all a problem' and 5 being 'definitely a problem', how much of a problem for you are your baby's night wakings?",
+    "label": "sleep_satisfaction"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "male4_mom_v1",
+  "display_name": "Number of hours male cargiver spent alone with the baby last week (mother not present)",
+  "description": "What is the total number of hours he spent with your baby last week? (hours)",
+  "type": "numeric",
+  "units": "hours",
+  "other": {
+    "number": "176",
+    "source_folder": "v1_main",
+    "source_name": "What is the total number of hours he spent with your baby last week? (hours)",
+    "label": null
+  }
+}

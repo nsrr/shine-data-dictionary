@@ -1,0 +1,13 @@
+{
+  "id": "timewbaby8_f_v2",
+  "display_name": "Frequency of washing or bathing the child in the past month - Father",
+  "description": "In the past month, how often did you wash or bathe your child?",
+  "type": "choices",
+  "domain": "timewbaby8_f_v2_",
+  "other": {
+    "number": "327",
+    "source_folder": "v2_dad",
+    "source_name": "In the past month, how often did you wash or bathe your child?",
+    "label": null
+  }
+}

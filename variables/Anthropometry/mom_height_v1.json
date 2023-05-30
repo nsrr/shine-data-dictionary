@@ -1,0 +1,13 @@
+{
+  "id": "mom_height_v1",
+  "display_name": "Mother height at visit 1",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters",
+  "other": {
+    "number": "62",
+    "source_folder": "mom_anthro",
+    "source_name": "Mother height at visit 1",
+    "label": null
+  }
+}

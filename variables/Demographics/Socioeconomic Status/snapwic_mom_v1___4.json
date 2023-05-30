@@ -1,0 +1,13 @@
+{
+  "id": "snapwic_mom_v1___4",
+  "display_name": "Household received Social Security Income in the past 12 months",
+  "description": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Social Security Income)",
+  "type": "choices",
+  "domain": "snapwic_mom_v1___4_",
+  "other": {
+    "number": "212",
+    "source_folder": "v1_main",
+    "source_name": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Social Security Income)",
+    "label": null
+  }
+}

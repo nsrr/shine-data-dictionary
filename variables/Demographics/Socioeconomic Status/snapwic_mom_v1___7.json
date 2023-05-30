@@ -1,0 +1,13 @@
+{
+  "id": "snapwic_mom_v1___7",
+  "display_name": "Household did not receive any listed form of assistance in the past 12 months",
+  "description": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Not Applicable)",
+  "type": "choices",
+  "domain": "snapwic_mom_v1___7_",
+  "other": {
+    "number": "215",
+    "source_folder": "v1_main",
+    "source_name": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Not Applicable)",
+    "label": null
+  }
+}

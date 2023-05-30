@@ -1,7 +1,0 @@
-{
-  "id": "smartphonedata_f_int",
-  "display_name": "Do you own a smartphone with a data plan?",
-  "description": "",
-  "type": "choices",
-  "domain": "smartphonedata_f_int_"
-}

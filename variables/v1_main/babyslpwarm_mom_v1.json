@@ -1,7 +1,0 @@
-{
-  "id": "babyslpwarm_mom_v1",
-  "display_name": "Is the room where your baby sleeps properly heated or warm enough at night (during the winter)?",
-  "description": "",
-  "type": "choices",
-  "domain": "babyslpwarm_mom_v1_"
-}

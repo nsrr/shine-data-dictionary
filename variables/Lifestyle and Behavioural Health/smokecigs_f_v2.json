@@ -1,0 +1,13 @@
+{
+  "id": "smokecigs_f_v2",
+  "display_name": "Currently smokes cigarettes - Father",
+  "description": "Do you currently smoke cigarettes?",
+  "type": "choices",
+  "domain": "smokecigs_f_v2_",
+  "other": {
+    "number": "311",
+    "source_folder": "v2_dad",
+    "source_name": "Do you currently smoke cigarettes?",
+    "label": "smoking"
+  }
+}

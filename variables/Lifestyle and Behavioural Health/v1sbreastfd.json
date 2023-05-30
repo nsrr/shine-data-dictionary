@@ -1,0 +1,13 @@
+{
+  "id": "v1sbreastfd",
+  "display_name": "Baby breastfed since birth",
+  "description": "Since your baby was born, has your baby been breast fed?",
+  "type": "choices",
+  "domain": "v1sbreastfd_",
+  "other": {
+    "number": "226",
+    "source_folder": "v1_main",
+    "source_name": "Since your baby was born, has your baby been breast fed?",
+    "label": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "stopbreathe_f_v2",
+  "display_name": "Frequency stop breathing during sleep, during the last 4 weeks - Father",
+  "description": "Thinking back on the LAST 4 WEEKS, how often did you stop breathing during your sleep?",
+  "type": "choices",
+  "domain": "stopbreathe_f_v2_",
+  "other": {
+    "number": "313",
+    "source_folder": "v2_dad",
+    "source_name": "Thinking back on the LAST 4 WEEKS, how often did you stop breathing during your sleep?",
+    "label": "sdb"
+  }
+}

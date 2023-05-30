@@ -1,0 +1,13 @@
+{
+  "id": "edu_f_int",
+  "display_name": "Highest level of education completed - Father",
+  "description": "What is the highest level of education you completed?",
+  "type": "choices",
+  "domain": "edu_f_int_",
+  "other": {
+    "number": "14",
+    "source_folder": "intake_dad",
+    "source_name": "What is the highest level of education you completed?",
+    "label": null
+  }
+}

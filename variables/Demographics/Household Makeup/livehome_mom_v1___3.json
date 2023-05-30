@@ -1,0 +1,13 @@
+{
+  "id": "livehome_mom_v1___3",
+  "display_name": "Mothers partner (other than the babys father/stepfather) living in the household with the baby",
+  "description": "Who is living in the household with the baby? (select all that apply) (choice=Your partner (other than the babys father/stepfather))",
+  "type": "choices",
+  "domain": "livehome_mom_v1___3_",
+  "other": {
+    "number": "167",
+    "source_folder": "v1_main",
+    "source_name": "Who is living in the household with the baby? (select all that apply) (choice=Your partner (other than the babys father/stepfather))",
+    "label": null
+  }
+}

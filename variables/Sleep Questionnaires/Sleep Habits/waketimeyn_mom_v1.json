@@ -1,0 +1,13 @@
+{
+  "id": "waketimeyn_mom_v1",
+  "display_name": "Baby's usual time of waking up in the morning",
+  "description": "Does your baby have a usual time of waking up in the morning?",
+  "type": "choices",
+  "domain": "waketimeyn_mom_v1_",
+  "other": {
+    "number": "247",
+    "source_folder": "v1_main",
+    "source_name": "Does your baby have a usual time of waking up in the morning?",
+    "label": "sleep_timing"
+  }
+}

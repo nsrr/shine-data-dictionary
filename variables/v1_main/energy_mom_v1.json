@@ -1,7 +1,0 @@
-{
-  "id": "energy_mom_v1",
-  "display_name": "In the past 4 weeks, on average, how often did you drink energy drinks such as Red Bull, Monster, or Rockstar?",
-  "description": "",
-  "type": "choices",
-  "domain": "energy_mom_v1_"
-}

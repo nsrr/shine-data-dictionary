@@ -1,0 +1,13 @@
+{
+  "id": "parentleave_f_int",
+  "display_name": "If employed full or part-time, are you taking parental leave? - Father",
+  "description": "",
+  "type": "choices",
+  "domain": "parentleave_f_int_",
+  "other": {
+    "number": "22",
+    "source_folder": "intake_dad",
+    "source_name": "If you are employed full or part-time, are you taking parental leave?",
+    "label": null
+  }
+}

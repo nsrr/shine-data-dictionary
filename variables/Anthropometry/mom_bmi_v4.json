@@ -1,0 +1,12 @@
+{
+  "id": "mom_bmi_v4",
+  "display_name": "Mother BMI at visit 4",
+  "description": "",
+  "type": "numeric",
+  "other": {
+    "number": "61",
+    "source_folder": "mom_anthro",
+    "source_name": "Mother BMI at visit 4",
+    "label": null
+  }
+}

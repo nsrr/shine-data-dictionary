@@ -1,0 +1,13 @@
+{
+  "id": "modexercise_f_v2",
+  "display_name": "Average weekly frequency of moderate exercise - Father",
+  "description": "During a typical 7-day period (a week), how many times on the average do you do the following kinds of exercise for more than 15 minutes during your free time: MODERATE EXERCISE (NOT EXHAUSTING)  (e.g., fast walking, baseball, tennis, easy bicycling, volleyball, badminton, easy swimming, alpine skiing, popular and folk dancing)",
+  "type": "choices",
+  "domain": "modexercise_f_v2_",
+  "other": {
+    "number": "296",
+    "source_folder": "v2_dad",
+    "source_name": "During a typical 7-day period (a week), how many times on the average do you do the following kinds of exercise for more than 15 minutes during your free time: MODERATE EXERCISE (NOT EXHAUSTING)  (e.g., fast walking, baseball, tennis, easy bicycling, volleyball, badminton, easy swimming, alpine skiing, popular and folk dancing)",
+    "label": null
+  }
+}

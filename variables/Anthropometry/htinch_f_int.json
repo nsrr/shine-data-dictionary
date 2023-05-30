@@ -1,0 +1,13 @@
+{
+  "id": "htinch_f_int",
+  "display_name": "Height (inches component) - Father",
+  "description": "",
+  "type": "choices",
+  "domain": "htinch_f_int_",
+  "other": {
+    "number": "16",
+    "source_folder": "intake_dad",
+    "source_name": "...in INCHES",
+    "label": null
+  }
+}

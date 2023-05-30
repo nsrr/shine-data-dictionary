@@ -1,0 +1,13 @@
+{
+  "id": "coldsx_mom_v1",
+  "display_name": "Since birth, has the baby had cold symptoms, e.g., runny or stuffy nose or episodes of sneezing",
+  "description": "",
+  "type": "choices",
+  "domain": "coldsx_mom_v1_",
+  "other": {
+    "number": "109",
+    "source_folder": "v1_main",
+    "source_name": "Cold symptoms, e.g., runny or stuffy nose or episodes of sneezing",
+    "label": null
+  }
+}

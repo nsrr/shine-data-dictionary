@@ -1,0 +1,13 @@
+{
+  "id": "mildex_f_int",
+  "display_name": "Frequency of mild exercise in the past 4 weeks - Father",
+  "description": "Mild exercise (minimal effort)  (e.g., yoga, archery, fishing from river bank, bowling, horseshoes, golf, snow-mobiling, easy walking)",
+  "type": "choices",
+  "domain": "mildex_f_int_",
+  "other": {
+    "number": "20",
+    "source_folder": "intake_dad",
+    "source_name": "MILD EXERCISE (MINIMAL EFFORT)  (e.g., yoga, archery, fishing from river bank, bowling, horseshoes, golf, snow-mobiling, easy walking)",
+    "label": null
+  }
+}

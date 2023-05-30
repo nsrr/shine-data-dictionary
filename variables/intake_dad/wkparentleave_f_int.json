@@ -1,7 +1,0 @@
-{
-  "id": "wkparentleave_f_int",
-  "display_name": "How many WEEKS? (between 0 and 52)",
-  "description": "",
-  "type": "numeric",
-  "units": "weeks"
-}

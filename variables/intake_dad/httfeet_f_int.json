@@ -1,7 +1,0 @@
-{
-  "id": "httfeet_f_int",
-  "display_name": "How tall are you?  ...in FEET  (Example: if you are 5 feet, 7 inches then please list 5 here and 7 in the following question)",
-  "description": "",
-  "type": "choices",
-  "domain": "httfeet_f_int_"
-}

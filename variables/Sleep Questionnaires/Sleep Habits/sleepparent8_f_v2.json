@@ -1,0 +1,13 @@
+{
+  "id": "sleepparent8_f_v2",
+  "display_name": "Baby falls asleep on his/her own after I have left the room - Father",
+  "description": "My baby falls asleep on his/her own after I have left the room",
+  "type": "choices",
+  "domain": "sleepparent8_f_v2_",
+  "other": {
+    "number": "306",
+    "source_folder": "v2_dad",
+    "source_name": "My baby falls asleep on his/her own after I have left the room",
+    "label": null
+  }
+}

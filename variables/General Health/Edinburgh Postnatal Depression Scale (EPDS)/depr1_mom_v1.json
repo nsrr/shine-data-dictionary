@@ -1,0 +1,13 @@
+{
+  "id": "depr1_mom_v1",
+  "display_name": "Edinburgh Postnatal Depression Scale (EPDS): I have blamed myself unnecessarily when things went wrong - Mother",
+  "description": "In the past 7 days I have blamed myself unnecessarily when things went wrong<br><br>Item from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
+  "type": "choices",
+  "domain": "depr1_mom_v1_",
+  "other": {
+    "number": "118",
+    "source_folder": "v1_main",
+    "source_name": "I have blamed myself unnecessarily when things went wrong",
+    "label": "epds;epds_03blame"
+  }
+}

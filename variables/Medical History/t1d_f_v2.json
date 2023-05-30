@@ -1,0 +1,13 @@
+{
+  "id": "t1d_f_v2",
+  "display_name": "Doctor diagnosed Type I Diabetes - Father",
+  "description": "Have you ever been told by your doctor that you have Type I Diabetes?",
+  "type": "choices",
+  "domain": "t1d_f_v2_",
+  "other": {
+    "number": "315",
+    "source_folder": "v2_dad",
+    "source_name": "Have you ever been told by your doctor that you have Type I Diabetes?",
+    "label": null
+  }
+}

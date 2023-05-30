@@ -1,7 +1,0 @@
-{
-  "id": "parentleave_f_int",
-  "display_name": "If you are employed full or part-time, are you taking parental leave?",
-  "description": "",
-  "type": "choices",
-  "domain": "parentleave_f_int_"
-}

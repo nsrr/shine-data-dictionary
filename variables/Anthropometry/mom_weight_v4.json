@@ -1,0 +1,13 @@
+{
+  "id": "mom_weight_v4",
+  "display_name": "Mother weight at visit 4",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms",
+  "other": {
+    "number": "69",
+    "source_folder": "mom_anthro",
+    "source_name": "Mother weight at visit 4 (kg)",
+    "label": null
+  }
+}

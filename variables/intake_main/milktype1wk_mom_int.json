@@ -1,7 +1,0 @@
-{
-  "id": "milktype1wk_mom_int",
-  "display_name": "What kind of milk do you plan to feed your baby in the next week ?",
-  "description": "",
-  "type": "choices",
-  "domain": "milktype1wk_mom_int_"
-}

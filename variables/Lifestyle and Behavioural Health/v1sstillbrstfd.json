@@ -1,0 +1,13 @@
+{
+  "id": "v1sstillbrstfd",
+  "display_name": "Baby still being breastfed",
+  "description": "Is your baby still being breastfed?",
+  "type": "choices",
+  "domain": "v1sstillbrstfd_",
+  "other": {
+    "number": "239",
+    "source_folder": "v1_main",
+    "source_name": "Is your baby still being breastfed?",
+    "label": null
+  }
+}

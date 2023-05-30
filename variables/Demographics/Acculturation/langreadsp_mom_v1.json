@@ -1,0 +1,13 @@
+{
+  "id": "langreadsp_mom_v1",
+  "display_name": "Languages you read and speak in general - Mother",
+  "description": "In general, what language(s) do you read and speak?",
+  "type": "choices",
+  "domain": "langreadsp_mom_v1_",
+  "other": {
+    "number": "158",
+    "source_folder": "v1_main",
+    "source_name": "In general, what language(s) do you read and speak?",
+    "label": null
+  }
+}

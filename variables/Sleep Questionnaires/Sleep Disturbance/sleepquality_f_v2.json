@@ -1,0 +1,13 @@
+{
+  "id": "sleepquality_f_v2",
+  "display_name": "Quality of typical night's sleep during the last 4 weeks - Father",
+  "description": "Overall, how was your typical night's sleep during the LAST 4 WEEKS?",
+  "type": "choices",
+  "domain": "sleepquality_f_v2_",
+  "other": {
+    "number": "308",
+    "source_folder": "v2_dad",
+    "source_name": "Overall, how was your typical night's sleep during the LAST 4 WEEKS?",
+    "label": "sleep_quality"
+  }
+}

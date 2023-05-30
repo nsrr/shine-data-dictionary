@@ -1,0 +1,13 @@
+{
+  "id": "livehome_mom_v1___2",
+  "display_name": "Stepfather living in the household with the baby",
+  "description": "Who is living in the household with the baby? (select all that apply) (choice=Stepfather)",
+  "type": "choices",
+  "domain": "livehome_mom_v1___2_",
+  "other": {
+    "number": "166",
+    "source_folder": "v1_main",
+    "source_name": "Who is living in the household with the baby? (select all that apply) (choice=Stepfather)",
+    "label": null
+  }
+}

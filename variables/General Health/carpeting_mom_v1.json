@@ -1,0 +1,13 @@
+{
+  "id": "carpeting_mom_v1",
+  "display_name": "Amount of carpeting in the home",
+  "description": "Do you have wall-to-wall carpeting in your home?",
+  "type": "choices",
+  "domain": "carpeting_mom_v1_",
+  "other": {
+    "number": "103",
+    "source_folder": "v1_main",
+    "source_name": "Do you have wall-to-wall carpeting in your home?",
+    "label": null
+  }
+}

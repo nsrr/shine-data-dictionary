@@ -1,0 +1,13 @@
+{
+  "id": "hourswbabynopartner_f_v2",
+  "display_name": "Hours spent with the baby last week without partner being present - Father",
+  "description": "What is the total number of hours you spent with your baby last week without your partner being present? (hours/week)",
+  "type": "numeric",
+  "units": "hours",
+  "other": {
+    "number": "292",
+    "source_folder": "v2_dad",
+    "source_name": "What is the total number of hours you spent with your baby last week without your partner being present? (hours/week)",
+    "label": null
+  }
+}

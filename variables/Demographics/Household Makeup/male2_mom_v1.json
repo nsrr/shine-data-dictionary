@@ -1,0 +1,13 @@
+{
+  "id": "male2_mom_v1",
+  "display_name": "Male caregiver is mother's partner",
+  "description": "Is he your partner? (i.e. Are the two of you in a relationship?)",
+  "type": "choices",
+  "domain": "male2_mom_v1_",
+  "other": {
+    "number": "174",
+    "source_folder": "v1_main",
+    "source_name": "Is he your partner? (i.e. Are the two of you in a relationship?)",
+    "label": null
+  }
+}

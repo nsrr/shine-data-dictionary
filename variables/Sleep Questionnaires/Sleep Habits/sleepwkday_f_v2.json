@@ -1,0 +1,13 @@
+{
+  "id": "sleepwkday_f_v2",
+  "display_name": "Average hours of sleep per night on weekends or non-workdays, over the last 4 weeks - Father",
+  "description": "Thinking back on the LAST 4 WEEKS, about how many hours of sleep per night did you usually get on weekdays or workdays?",
+  "type": "choices",
+  "domain": "sleepwkday_f_v2_",
+  "other": {
+    "number": "309",
+    "source_folder": "v2_dad",
+    "source_name": "Thinking back on the LAST 4 WEEKS, about how many hours of sleep per night did you usually get on weekdays or workdays?",
+    "label": "sleep_duration"
+  }
+}

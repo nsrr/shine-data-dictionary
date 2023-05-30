@@ -1,0 +1,13 @@
+{
+  "id": "caffne_mom_v1",
+  "display_name": "Average frequency of drinking iced or hot coffee or tea containing caffeine in the last 4 weeks (do not include decaffeinated coffee or tea) - Mother",
+  "description": "",
+  "type": "choices",
+  "domain": "caffne_mom_v1_",
+  "other": {
+    "number": "101",
+    "source_folder": "v1_main",
+    "source_name": "In the past 4 weeks, on average, how often did you drink iced or hot coffee or tea that contained caffeine? Do not include decaffeinated coffee or tea.",
+    "label": null
+  }
+}

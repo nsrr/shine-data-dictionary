@@ -1,0 +1,13 @@
+{
+  "id": "income_mom_int",
+  "display_name": "Household annual income (including money from all sources such as salaries, tips, Social Security, Transitional Alcohol and Drug-Free Community (TADFC), retirement, and any other kind of income)",
+  "description": "What is your household annual income? Please include money from all sources such as salaries, tips, Social Security, Transitional Alcohol and Drug Free Community (TADFC), retirement, and any other kind of income.",
+  "type": "choices",
+  "domain": "income_mom_int_",
+  "other": {
+    "number": "41",
+    "source_folder": "intake_main",
+    "source_name": "What is your household annual income? Please include money from all sources such as salaries, tips, Social Security, Transitional Alcohol and Drug Free Community (TADFC), retirement, and any other kind of income.",
+    "label": null
+  }
+}

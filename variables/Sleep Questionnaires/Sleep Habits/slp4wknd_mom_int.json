@@ -1,0 +1,13 @@
+{
+  "id": "slp4wknd_mom_int",
+  "display_name": "Average hours of sleep per night on weekends or days off during the last 4 weeks of pregnancy - Mother",
+  "description": "Thinking back on the LAST 4 WEEKS of your pregnancy, about how many hours of sleep per night did you usually get on WEEKENDS or DAYS OFF?",
+  "type": "numeric",
+  "units": "hours",
+  "other": {
+    "number": "50",
+    "source_folder": "intake_main",
+    "source_name": "Thinking back on the LAST 4 WEEKS of your pregnancy, about how many hours of sleep per night did you usually get on WEEKENDS or DAYS OFF?",
+    "label": "sleep_duration"
+  }
+}

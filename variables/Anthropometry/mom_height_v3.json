@@ -1,0 +1,13 @@
+{
+  "id": "mom_height_v3",
+  "display_name": "Mother height at visit 3 (cm)",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters",
+  "other": {
+    "number": "64",
+    "source_folder": "mom_anthro",
+    "source_name": "Mother height at visit 3 (cm)",
+    "label": null
+  }
+}

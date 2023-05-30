@@ -1,0 +1,13 @@
+{
+  "id": "specialobj_mom_v1",
+  "display_name": "Frequency of needing a special object to fall asleep (doll, special blanket, etc.) excluding pacifier",
+  "description": "In the past week, how often did your baby need a special object to fall asleep (doll, special blanket, etc.)?  Do NOT include a pacifier.",
+  "type": "choices",
+  "domain": "specialobj_mom_v1_",
+  "other": {
+    "number": "218",
+    "source_folder": "v1_main",
+    "source_name": "In the past week, how often did your baby need a special object to fall asleep (doll, special blanket, etc.)?  Do NOT include a pacifier.",
+    "label": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "depr5_f_v2",
+  "display_name": "Edinburgh Postnatal Depression Scale (EPDS): I have felt sad or miserable - Father",
+  "description": "In the past 7 days I have felt sad or miserable<br><br>Item from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
+  "type": "choices",
+  "domain": "depr5_f_v2_",
+  "other": {
+    "number": "269",
+    "source_folder": "v2_dad",
+    "source_name": "I have felt sad or miserable",
+    "label": "epds;epds_08sad"
+  }
+}

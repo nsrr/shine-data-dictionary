@@ -1,0 +1,13 @@
+{
+  "id": "mom_weight_v2",
+  "display_name": "Mother weight at visit 2",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms",
+  "other": {
+    "number": "67",
+    "source_folder": "mom_anthro",
+    "source_name": "Mother weight at visit 2",
+    "label": null
+  }
+}

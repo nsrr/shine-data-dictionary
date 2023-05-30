@@ -1,0 +1,13 @@
+{
+  "id": "v1sbrstbttle",
+  "display_name": "Baby fed breast milk by breast only, bottle only, or both",
+  "description": "Do you feed your baby breast milk by breast only, bottle only, or both?",
+  "type": "choices",
+  "domain": "v1sbrstbttle_",
+  "other": {
+    "number": "227",
+    "source_folder": "v1_main",
+    "source_name": "Do you feed your baby breast milk by breast only, bottle only, or both?",
+    "label": null
+  }
+}

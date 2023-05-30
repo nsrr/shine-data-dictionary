@@ -1,0 +1,13 @@
+{
+  "id": "childcaretime_mom_v1",
+  "display_name": "Hours the baby spent in childcare in the last 7 days",
+  "description": "In the past 7 days, how many hours/week did your baby spend there?",
+  "type": "numeric",
+  "units": "hours",
+  "other": {
+    "number": "106",
+    "source_folder": "v1_main",
+    "source_name": "In the past 7 days, how many hours/week did your baby spend there?",
+    "label": null
+  }
+}

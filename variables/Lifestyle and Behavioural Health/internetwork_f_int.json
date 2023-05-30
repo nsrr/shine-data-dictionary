@@ -1,0 +1,13 @@
+{
+  "id": "internetwork_f_int",
+  "display_name": "Internet access at work - Father",
+  "description": "",
+  "type": "choices",
+  "domain": "internetwork_f_int_",
+  "other": {
+    "number": "19",
+    "source_folder": "intake_dad",
+    "source_name": "Do you have internet access at work?",
+    "label": null
+  }
+}

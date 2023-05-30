@@ -1,0 +1,12 @@
+{
+  "id": "timeswakenght_mom_v1",
+  "display_name": "Typical number of time baby wakes during the night - Mother",
+  "description": "How many times does your baby typically wake during the night?",
+  "type": "numeric",
+  "other": {
+    "number": "223",
+    "source_folder": "v1_main",
+    "source_name": "How many times does your baby typically wake during the night?",
+    "label": null
+  }
+}

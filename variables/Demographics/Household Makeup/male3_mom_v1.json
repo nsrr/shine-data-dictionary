@@ -1,0 +1,13 @@
+{
+  "id": "male3_mom_v1",
+  "display_name": "Male caregiver is the biological father of the baby",
+  "description": "Is he the biological father of your baby?",
+  "type": "choices",
+  "domain": "male3_mom_v1_",
+  "other": {
+    "number": "175",
+    "source_folder": "v1_main",
+    "source_name": "Is he the biological father of your baby?",
+    "label": null
+  }
+}

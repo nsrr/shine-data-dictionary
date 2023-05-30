@@ -1,7 +1,0 @@
-{
-  "id": "v1ssolidfoodage_day",
-  "display_name": "How old was your baby when you first fed him/her any solid food - such as baby cereal, fruits, vegetables, yogurt - or anything besides breast milk or formula? (age in days)",
-  "description": "",
-  "type": "numeric",
-  "units": "days"
-}

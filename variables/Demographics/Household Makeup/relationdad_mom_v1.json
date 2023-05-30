@@ -1,0 +1,13 @@
+{
+  "id": "relationdad_mom_v1",
+  "display_name": "Mothers relationship with the baby's biological father",
+  "description": "",
+  "type": "choices",
+  "domain": "relationdad_mom_v1_",
+  "other": {
+    "number": "197",
+    "source_folder": "v1_main",
+    "source_name": "What is your relationship with your baby's biological father?",
+    "label": null
+  }
+}

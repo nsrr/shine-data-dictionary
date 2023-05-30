@@ -1,0 +1,13 @@
+{
+  "id": "maternleave_mom_v1",
+  "display_name": "Maternity leave taken, if employed full or part-time - Mother",
+  "description": "If you are employed full or part-time, are you taking maternity leave?",
+  "type": "choices",
+  "domain": "maternleave_mom_v1_",
+  "other": {
+    "number": "178",
+    "source_folder": "v1_main",
+    "source_name": "If you are employed full or part-time, are you taking maternity leave?",
+    "label": null
+  }
+}

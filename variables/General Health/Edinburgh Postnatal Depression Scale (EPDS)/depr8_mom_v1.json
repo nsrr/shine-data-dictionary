@@ -1,0 +1,13 @@
+{
+  "id": "depr8_mom_v1",
+  "display_name": "Edinburgh Postnatal Depression Scale (EPDS): I have been able to laugh and see the funny side of things - Mother",
+  "description": "In the past 7 days I have been able to laugh and see the funny side of things <br><br>Item from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
+  "type": "choices",
+  "domain": "depr8_mom_v1_",
+  "other": {
+    "number": "126",
+    "source_folder": "v1_main",
+    "source_name": "I have been able to laugh and see the funny side of things",
+    "label": "epds;epds_01laugh"
+  }
+}

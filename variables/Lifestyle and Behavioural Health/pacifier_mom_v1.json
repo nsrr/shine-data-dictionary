@@ -1,0 +1,13 @@
+{
+  "id": "pacifier_mom_v1",
+  "display_name": "Baby used a pacifier (binky, dummy, bobo) in the past 7 days",
+  "description": "Has your baby used a pacifier (binky, dummy, bobo) in the past 7 days?",
+  "type": "choices",
+  "domain": "pacifier_mom_v1_",
+  "other": {
+    "number": "192",
+    "source_folder": "v1_main",
+    "source_name": "Has your baby used a pacifier (binky, dummy, bobo) in the past 7 days?",
+    "label": null
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "id": "employmntstatus_mom_v1",
+  "display_name": "Employment staus in the last 12 months - Mother",
+  "description": "In the past 12 months, were you mostly...?",
+  "type": "choices",
+  "domain": "employmntstatus_mom_v1_",
+  "other": {
+    "number": "130",
+    "source_folder": "v1_main",
+    "source_name": "In the past 12 months, were you mostly...?",
+    "label": null
+  }
+}

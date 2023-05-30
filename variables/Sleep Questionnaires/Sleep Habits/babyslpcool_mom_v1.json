@@ -1,0 +1,13 @@
+{
+  "id": "babyslpcool_mom_v1",
+  "display_name": "Is the room where your baby sleeps cool at night (during the summer)?",
+  "description": "",
+  "type": "choices",
+  "domain": "babyslpcool_mom_v1_",
+  "other": {
+    "number": "82",
+    "source_folder": "v1_main",
+    "source_name": "Is the room where your baby sleeps cool at night (during the summer)?",
+    "label": "sleep_environment"
+  }
+}

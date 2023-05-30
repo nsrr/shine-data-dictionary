@@ -1,0 +1,13 @@
+{
+  "id": "movein_mom_v1",
+  "display_name": "Mother or children moved in with other people, even for a little while, because of inability afford to pay mortgage, rent or utility bills, during the last 12 months",
+  "description": "During the last 12 months, did you or your children move in with other people even for a little while because you could not afford to pay your mortgage, rent or utility bills?",
+  "type": "choices",
+  "domain": "movein_mom_v1_",
+  "other": {
+    "number": "185",
+    "source_folder": "v1_main",
+    "source_name": "During the last 12 months, did you or your children move in with other people even for a little while because you could not afford to pay your mortgage, rent or utility bills?",
+    "label": null
+  }
+}

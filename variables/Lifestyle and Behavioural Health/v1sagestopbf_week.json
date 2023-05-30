@@ -1,0 +1,13 @@
+{
+  "id": "v1sagestopbf_week",
+  "display_name": "If No, age of baby when stopped breastfeeding",
+  "description": "If No, how old was your baby when you stopped breastfeeding? (age in weeks)",
+  "type": "text",
+  "units": "weeks",
+  "other": {
+    "number": "225",
+    "source_folder": "v1_main",
+    "source_name": "If No, how old was your baby when you stopped breastfeeding? (age in weeks)",
+    "label": null
+  }
+}
