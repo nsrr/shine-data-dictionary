@@ -3,11 +3,5 @@
   "display_name": "Country of birth - Father",
   "description": "In what country were you born?",
   "type": "choices",
-  "domain": "borncountry_f_v2_",
-  "other": {
-    "number": "254",
-    "source_folder": "v2_dad",
-    "source_name": "In what country were you born?",
-    "label": null
-  }
+  "domain": "borncountry_f_v2_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Employment over the last 6 months - Father",
   "description": "In the past 6 months, were you mostly...?",
   "type": "choices",
-  "domain": "employment_f_v2_",
-  "other": {
-    "number": "285",
-    "source_folder": "v2_dad",
-    "source_name": "In the past 6 months, were you mostly...?",
-    "label": null
-  }
+  "domain": "employment_f_v2_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Worry whether food would run out before having the money to buy more in the last 12 months - Mother",
   "description": "Within the past 12 months we worried whether our food would run out before we got money to buy more",
   "type": "choices",
-  "domain": "nofood_mom_v1_",
-  "other": {
-    "number": "187",
-    "source_folder": "v1_main",
-    "source_name": "Within the past 12 months we worried whether our food would run out before we got money to buy more",
-    "label": null
-  }
+  "domain": "nofood_mom_v1_"
 }

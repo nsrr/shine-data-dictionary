@@ -3,11 +3,5 @@
   "display_name": "Gestational Diabetes - Mother",
   "description": "",
   "type": "choices",
-  "domain": "gesdiab_mom_v1_",
-  "other": {
-    "number": "155",
-    "source_folder": "v1_main",
-    "source_name": "Gestational Diabetes",
-    "label": null
-  }
+  "domain": "gesdiab_mom_v1_"
 }

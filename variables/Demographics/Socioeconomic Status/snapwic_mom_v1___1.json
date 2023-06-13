@@ -3,11 +3,5 @@
   "display_name": "Household received food stamps (SNAP) in the past 12 months",
   "description": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Food stamps (SNAP))",
   "type": "choices",
-  "domain": "snapwic_mom_v1___1_",
-  "other": {
-    "number": "209",
-    "source_folder": "v1_main",
-    "source_name": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Food stamps (SNAP))",
-    "label": null
-  }
+  "domain": "snapwic_mom_v1___1_"
 }

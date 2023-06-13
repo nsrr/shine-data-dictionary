@@ -3,11 +3,5 @@
   "display_name": "Grandparent(s) living in the household with the baby",
   "description": "Who is living in the household with the baby? (select all that apply) (choice=Grandparent(s))",
   "type": "choices",
-  "domain": "livehome_mom_v1___4_",
-  "other": {
-    "number": "168",
-    "source_folder": "v1_main",
-    "source_name": "Who is living in the household with the baby? (select all that apply) (choice=Grandparent(s))",
-    "label": null
-  }
+  "domain": "livehome_mom_v1___4_"
 }

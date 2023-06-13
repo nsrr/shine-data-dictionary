@@ -32,7 +32,17 @@ data$timewbaby7_f_v2 <- as.numeric(data$timewbaby7_f_v2)
 data$timewbaby8_f_v2 <- as.numeric(data$timewbaby8_f_v2)
 data$timewbaby9_f_v2 <- as.numeric(data$timewbaby9_f_v2)
 
+data$visitnumber <- 1
+
+#Height for father, inches in htinch_f_int variable
+# feet 1 = 4 feet, 2 = 5 feet, 3 = 6 feet
+
+data$httfeet_f_int[data$httfeet_f_int==1] <- 4
+data$httfeet_f_int[data$httfeet_f_int==2] <- 5
+data$httfeet_f_int[data$httfeet_f_int==3] <- 6
+
+data$fath_height <- data$httfeet_f_int*30.48 + data$htinch_f_int*2.54
+data$httfeet_f_int <- NULL
+data$htinch_f_int <- NULL
 
 write.csv(data, paste("shine-dataset-",ver,".csv",sep=""), row.names = F, na="")
-
-classes <- ((sapply(data,class)))

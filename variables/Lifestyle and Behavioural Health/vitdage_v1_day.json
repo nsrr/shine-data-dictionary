@@ -3,11 +3,5 @@
   "display_name": "Age baby first gaven vitamin D drops",
   "description": "How old was your baby when you first gave him/her vitamin D drops? (age in days)",
   "type": "numeric",
-  "units": "days",
-  "other": {
-    "number": "243",
-    "source_folder": "v1_main",
-    "source_name": "How old was your baby when you first gave him/her vitamin D drops? (age in days)",
-    "label": null
-  }
+  "units": "days"
 }

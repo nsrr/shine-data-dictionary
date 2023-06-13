@@ -3,11 +3,5 @@
   "display_name": "State of your baby when you put him/her into bed - Mother",
   "description": "In what state is your baby when you put him/her into bed?",
   "type": "choices",
-  "domain": "babyslpstate_mom_v1_",
-  "other": {
-    "number": "86",
-    "source_folder": "v1_main",
-    "source_name": "In what state is your baby when you put him/her into bed?",
-    "label": null
-  }
+  "domain": "babyslpstate_mom_v1_"
 }

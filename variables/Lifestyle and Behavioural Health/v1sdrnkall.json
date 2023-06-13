@@ -3,11 +3,5 @@
   "display_name": "Frequency of baby being encouraged to finish a bottle if he or she stops drinking before the formula or breastmilk is gone",
   "description": "How often is your baby encouraged to finish a bottle if he or she stops drinking before the formula or breastmilk is gone?",
   "type": "choices",
-  "domain": "v1sdrnkall_",
-  "other": {
-    "number": "228",
-    "source_folder": "v1_main",
-    "source_name": "How often is your baby encouraged to finish a bottle if he or she stops drinking before the formula or breastmilk is gone?",
-    "label": null
-  }
+  "domain": "v1sdrnkall_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Other people living in the household with the baby",
   "description": "Who is living in the household with the baby? (select all that apply) (choice=Other)",
   "type": "choices",
-  "domain": "livehome_mom_v1___7_",
-  "other": {
-    "number": "171",
-    "source_folder": "v1_main",
-    "source_name": "Who is living in the household with the baby? (select all that apply) (choice=Other)",
-    "label": null
-  }
+  "domain": "livehome_mom_v1___7_"
 }

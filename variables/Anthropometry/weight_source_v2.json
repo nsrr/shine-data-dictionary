@@ -2,11 +2,5 @@
   "id": "weight_source_v2",
   "display_name": "Weight Source at visit 2 - Mother",
   "description": "",
-  "type": "text",
-  "other": {
-    "number": "71",
-    "source_folder": "mom_anthro",
-    "source_name": null,
-    "label": null
-  }
+  "type": "text"
 }

@@ -3,11 +3,5 @@
   "display_name": "Frequency of being the one who stays home to care for the child when he/she is ill - Father",
   "description": "How often are you the one who stay home to care for your child when he/she is ill?",
   "type": "choices",
-  "domain": "freqbaby4_f_v2_",
-  "other": {
-    "number": "289",
-    "source_folder": "v2_dad",
-    "source_name": "How often are you the one who stay home to care for your child when he/she is ill?",
-    "label": null
-  }
+  "domain": "freqbaby4_f_v2_"
 }

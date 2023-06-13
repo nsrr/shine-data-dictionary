@@ -2,11 +2,5 @@
   "id": "mom_bmi_v3",
   "display_name": "Mother BMI at visit 3",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "number": "60",
-    "source_folder": "mom_anthro",
-    "source_name": "Mother BMI at visit 3",
-    "label": null
-  }
+  "type": "numeric"
 }

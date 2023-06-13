@@ -3,11 +3,5 @@
   "display_name": "Number of days drinking one or more drinks of an alcoholic beverage in the last 30 days - Father",
   "description": "During the past 30 days, on how many days did you drink one or more drinks of an alcoholic beverage?",
   "type": "numeric",
-  "units": "days",
-  "other": {
-    "number": "5",
-    "source_folder": "intake_dad",
-    "source_name": "During the past 30 days, on how many days did you drink one or more drinks of an alcoholic beverage?",
-    "label": null
-  }
+  "units": "days"
 }

@@ -3,11 +3,5 @@
   "display_name": "Preferred language - Father",
   "description": "What is your preferred language?",
   "type": "choices",
-  "domain": "preflang_f_int_",
-  "other": {
-    "number": "23",
-    "source_folder": "intake_dad",
-    "source_name": "What is your preferred language?",
-    "label": null
-  }
+  "domain": "preflang_f_int_"
 }

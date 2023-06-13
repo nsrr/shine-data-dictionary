@@ -3,11 +3,5 @@
   "display_name": "Currently smoking cigarettes - Mother",
   "description": "",
   "type": "choices",
-  "domain": "currntsmoke_mom_v1_",
-  "other": {
-    "number": "117",
-    "source_folder": "v1_main",
-    "source_name": "Do you currently smoke cigarettes?",
-    "label": "smoking"
-  }
+  "domain": "currntsmoke_mom_v1_"
 }

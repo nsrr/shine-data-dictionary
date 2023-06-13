@@ -3,11 +3,5 @@
   "display_name": "Average weekly frequency of mild exercise - Father",
   "description": "During a typical 7-day period (a week), how many times on the average do you do the following kinds of exercise for more than 15 minutes during your free time: MILD EXERCISE (MINIMAL EFFORT)  (e.g., yoga, archery, fishing from river bank, bowling, horseshoes, golf, snow-mobiling, easy walking)",
   "type": "choices",
-  "domain": "mildexercise_f_v2_",
-  "other": {
-    "number": "295",
-    "source_folder": "v2_dad",
-    "source_name": "During a typical 7-day period (a week), how many times on the average do you do the following kinds of exercise for more than 15 minutes during your free time: MILD EXERCISE (MINIMAL EFFORT)  (e.g., yoga, archery, fishing from river bank, bowling, horseshoes, golf, snow-mobiling, easy walking)",
-    "label": null
-  }
+  "domain": "mildexercise_f_v2_"
 }

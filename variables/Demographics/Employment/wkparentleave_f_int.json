@@ -3,11 +3,5 @@
   "display_name": "Length of parental leave in weeks - Father",
   "description": "",
   "type": "numeric",
-  "units": "weeks",
-  "other": {
-    "number": "30",
-    "source_folder": "intake_dad",
-    "source_name": "How many WEEKS? (between 0 and 52)",
-    "label": null
-  }
+  "units": "weeks"
 }

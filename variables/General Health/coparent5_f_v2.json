@@ -3,11 +3,5 @@
   "display_name": "When I'm at my wits end as a parent, my partner gives me extra support I need",
   "description": "",
   "type": "choices",
-  "domain": "coparent5_f_v2_",
-  "other": {
-    "number": "261",
-    "source_folder": "v2_dad",
-    "source_name": "When I'm at my wits end as a parent, my partner gives me extra support I need",
-    "label": null
-  }
+  "domain": "coparent5_f_v2_"
 }

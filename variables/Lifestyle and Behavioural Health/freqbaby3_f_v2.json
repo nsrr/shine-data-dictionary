@@ -3,11 +3,5 @@
   "display_name": "Frequency of being the one who takes the child to the doctor - Father",
   "description": "How often are you the one who takes your child to the doctor?",
   "type": "choices",
-  "domain": "freqbaby3_f_v2_",
-  "other": {
-    "number": "288",
-    "source_folder": "v2_dad",
-    "source_name": "How often are you the one who takes your child to the doctor?",
-    "label": null
-  }
+  "domain": "freqbaby3_f_v2_"
 }

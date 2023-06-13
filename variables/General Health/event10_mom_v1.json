@@ -3,11 +3,5 @@
   "display_name": "Anything else bad happened to you that upset you a lot - Mother",
   "description": "Has this event happened to you over the past year: Anything else bad happened to you that upset you a lot - Mother",
   "type": "choices",
-  "domain": "event10_mom_v1_",
-  "other": {
-    "number": "134",
-    "source_folder": "v1_main",
-    "source_name": "Anything else bad happened to you that upset you a lot",
-    "label": null
-  }
+  "domain": "event10_mom_v1_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Involuntarily lost a job for reasons other than retirement - Mother",
   "description": "Has this event happened to you over the past year: Involuntarily lost a job for reasons other than retirement - Mother",
   "type": "choices",
-  "domain": "event3_mom_v1_",
-  "other": {
-    "number": "138",
-    "source_folder": "v1_main",
-    "source_name": "Involuntarily lost a job for reasons other than retirement",
-    "label": null
-  }
+  "domain": "event3_mom_v1_"
 }

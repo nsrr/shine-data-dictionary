@@ -3,11 +3,5 @@
   "display_name": "Past month, ounces of water baby drank in an average day (24-hour period)",
   "description": "In the past month, how many ounces of water did your baby drink in an average day (24-hour period)?",
   "type": "choices",
-  "domain": "v1swaterdrnk_",
-  "other": {
-    "number": "240",
-    "source_folder": "v1_main",
-    "source_name": "In the past month, how many ounces of water did your baby drink in an average day (24-hour period)?",
-    "label": null
-  }
+  "domain": "v1swaterdrnk_"
 }

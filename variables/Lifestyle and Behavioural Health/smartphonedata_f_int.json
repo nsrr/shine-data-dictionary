@@ -3,11 +3,5 @@
   "display_name": "Smartphone ownership with data plan - Father",
   "description": "Do you own a smartphone with a data plan?",
   "type": "choices",
-  "domain": "smartphonedata_f_int_",
-  "other": {
-    "number": "27",
-    "source_folder": "intake_dad",
-    "source_name": "Do you own a smartphone with a data plan?",
-    "label": null
-  }
+  "domain": "smartphonedata_f_int_"
 }

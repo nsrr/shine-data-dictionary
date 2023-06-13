@@ -3,11 +3,5 @@
   "display_name": "Frequency of stopping breathing during your sleep during the last 4 weeks - Mother",
   "description": "Thinking back on the LAST 4 WEEKS, how often did you stop breathing during your sleep?",
   "type": "choices",
-  "domain": "slpapnea4w_mom_v1_",
-  "other": {
-    "number": "205",
-    "source_folder": "v1_main",
-    "source_name": "Thinking back on the LAST 4 WEEKS, how often did you stop breathing during your sleep?",
-    "label": "sdb"
-  }
+  "domain": "slpapnea4w_mom_v1_"
 }

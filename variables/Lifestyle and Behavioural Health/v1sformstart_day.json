@@ -3,11 +3,5 @@
   "display_name": "Age baby started infant formula",
   "description": "How old was your baby when you started feeding him/her infant formula? (age in days)",
   "type": "numeric",
-  "units": "days",
-  "other": {
-    "number": "230",
-    "source_folder": "v1_main",
-    "source_name": "How old was your baby when you started feeding him/her infant formula? (age in days)",
-    "label": null
-  }
+  "units": "days"
 }

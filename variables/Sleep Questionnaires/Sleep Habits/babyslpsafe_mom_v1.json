@@ -3,11 +3,5 @@
   "display_name": "Feel that your baby is safe in his/her room at night - Mother",
   "description": "Do you feel that your baby is safe in his/her room at night?",
   "type": "choices",
-  "domain": "babyslpsafe_mom_v1_",
-  "other": {
-    "number": "85",
-    "source_folder": "v1_main",
-    "source_name": "Do you feel that your baby is safe in his/her room at night?",
-    "label": "sleep_environment"
-  }
+  "domain": "babyslpsafe_mom_v1_"
 }

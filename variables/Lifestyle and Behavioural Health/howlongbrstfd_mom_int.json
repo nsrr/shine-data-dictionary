@@ -3,11 +3,5 @@
   "display_name": "Planned duration of breastfeeding baby (in months) - Mother",
   "description": "How long do you plan to breastfeed your baby? (in month)",
   "type": "numeric",
-  "units": "months",
-  "other": {
-    "number": "40",
-    "source_folder": "intake_main",
-    "source_name": "How long do you plan to breastfeed your baby? (in month)",
-    "label": null
-  }
+  "units": "months"
 }

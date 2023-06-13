@@ -3,11 +3,5 @@
   "display_name": "My partner makes me feel like I'm the best possible parent for our child",
   "description": "",
   "type": "choices",
-  "domain": "coparent6_f_v2_",
-  "other": {
-    "number": "262",
-    "source_folder": "v2_dad",
-    "source_name": "My partner makes me feel like I'm the best possible parent for our child",
-    "label": null
-  }
+  "domain": "coparent6_f_v2_"
 }

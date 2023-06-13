@@ -3,11 +3,5 @@
   "display_name": "Since birth, has the baby had stridor",
   "description": "",
   "type": "choices",
-  "domain": "stridor_mom_v1_",
-  "other": {
-    "number": "219",
-    "source_folder": "v1_main",
-    "source_name": "Stridor",
-    "label": null
-  }
+  "domain": "stridor_mom_v1_"
 }

@@ -3,11 +3,5 @@
   "display_name": "I lie with my baby until s/he falls asleep - Father",
   "description": "",
   "type": "choices",
-  "domain": "sleepparent10_f_v2_",
-  "other": {
-    "number": "299",
-    "source_folder": "v2_dad",
-    "source_name": "I lie with my baby until s/he falls asleep",
-    "label": null
-  }
+  "domain": "sleepparent10_f_v2_"
 }

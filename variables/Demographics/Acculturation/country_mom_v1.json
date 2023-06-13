@@ -3,11 +3,5 @@
   "display_name": "Country of birth (excluding Puerto Rico, United States includes the 50 contiguous states) - Mother",
   "description": "",
   "type": "choices",
-  "domain": "country_mom_v1_",
-  "other": {
-    "number": "112",
-    "source_folder": "v1_main",
-    "source_name": "In what country were you born? (United States includes the 50 contiguous states, do not include Puerto Rico)",
-    "label": null
-  }
+  "domain": "country_mom_v1_"
 }

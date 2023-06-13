@@ -3,11 +3,5 @@
   "display_name": "Frequency of playing peek-a-boo with the child in the past month - Father",
   "description": "In the past month, how often did you play peek-a-boo with your child?",
   "type": "choices",
-  "domain": "timewbaby4_f_v2_",
-  "other": {
-    "number": "323",
-    "source_folder": "v2_dad",
-    "source_name": "In the past month, how often did you play peek-a-boo with your child?",
-    "label": null
-  }
+  "domain": "timewbaby4_f_v2_"
 }

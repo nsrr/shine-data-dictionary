@@ -3,11 +3,5 @@
   "display_name": "Since birth, has the baby had colic",
   "description": "",
   "type": "choices",
-  "domain": "colic_mom_v1_",
-  "other": {
-    "number": "110",
-    "source_folder": "v1_main",
-    "source_name": "Colic",
-    "label": null
-  }
+  "domain": "colic_mom_v1_"
 }

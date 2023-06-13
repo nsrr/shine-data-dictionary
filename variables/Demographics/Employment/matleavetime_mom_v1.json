@@ -2,11 +2,5 @@
   "id": "matleavetime_mom_v1",
   "display_name": "Length of maternity leave - Mother",
   "description": "How many weeks or months?",
-  "type": "numeric",
-  "other": {
-    "number": "179",
-    "source_folder": "v1_main",
-    "source_name": "How many weeks or months?",
-    "label": null
-  }
+  "type": "numeric"
 }

@@ -3,11 +3,5 @@
   "display_name": "Group B Strep Infection - Mother",
   "description": "",
   "type": "choices",
-  "domain": "grpbstrep_mom_v1_",
-  "other": {
-    "number": "156",
-    "source_folder": "v1_main",
-    "source_name": "Group B Strep Infection",
-    "label": null
-  }
+  "domain": "grpbstrep_mom_v1_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Languages you usually think in - Mother",
   "description": "In which language(s) do you usually think?",
   "type": "choices",
-  "domain": "langthink_mom_v1_",
-  "other": {
-    "number": "161",
-    "source_folder": "v1_main",
-    "source_name": "In which language(s) do you usually think?",
-    "label": null
-  }
+  "domain": "langthink_mom_v1_"
 }

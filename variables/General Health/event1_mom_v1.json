@@ -3,11 +3,5 @@
   "display_name": "Life-threatening illness or accidental injury to someone close to you - Mother",
   "description": "Has this event happened to you over the past year: Life-threatening illness or accidental injury to someone close to you - Mother",
   "type": "choices",
-  "domain": "event1_mom_v1_",
-  "other": {
-    "number": "133",
-    "source_folder": "v1_main",
-    "source_name": "Life-threatening illness or accidental injury to someone close to you",
-    "label": null
-  }
+  "domain": "event1_mom_v1_"
 }

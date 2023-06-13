@@ -3,11 +3,5 @@
   "display_name": "Baby gets out of bed at about the same time each morning - Father",
   "description": "My baby gets out of bed at about the same time each morning",
   "type": "choices",
-  "domain": "sleepparent3_f_v2_",
-  "other": {
-    "number": "301",
-    "source_folder": "v2_dad",
-    "source_name": "My baby gets out of bed at about the same time each morning",
-    "label": "sleep_timing"
-  }
+  "domain": "sleepparent3_f_v2_"
 }

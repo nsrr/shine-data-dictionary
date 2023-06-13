@@ -3,11 +3,5 @@
   "display_name": "Preferred language - Mother",
   "description": "What is your preferred language?",
   "type": "choices",
-  "domain": "preflang_mom_int_",
-  "other": {
-    "number": "45",
-    "source_folder": "intake_main",
-    "source_name": "What is your preferred language?",
-    "label": null
-  }
+  "domain": "preflang_mom_int_"
 }

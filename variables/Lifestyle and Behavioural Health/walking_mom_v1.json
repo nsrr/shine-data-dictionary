@@ -3,11 +3,5 @@
   "display_name": "Average hours per week spent walking, during the 12 months before this pregnancy (include walking for fun or exercise, walking to work or school) - Mother",
   "description": "During the 12 months before this pregnancy, on average, how many hours per week did you spend engaged in walking (include walking for fun or exercise, walking to work or school)?",
   "type": "numeric",
-  "units": "hours",
-  "other": {
-    "number": "249",
-    "source_folder": "v1_main",
-    "source_name": "During the 12 months before this pregnancy, on average, how many hours per week did you spend engaged in walking (include walking for fun or exercise, walking to work or school)?",
-    "label": null
-  }
+  "units": "hours"
 }

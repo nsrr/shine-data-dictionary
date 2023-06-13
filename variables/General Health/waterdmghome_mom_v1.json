@@ -3,11 +3,5 @@
   "display_name": "Presence of water damage to the building or its contents (for example, from broken pipes, leaks, or a flood) since birth",
   "description": "Since your baby was born, has there been water damage to the building or its contents (for example, from broken pipes, leaks, or a flood)?",
   "type": "choices",
-  "domain": "waterdmghome_mom_v1_",
-  "other": {
-    "number": "250",
-    "source_folder": "v1_main",
-    "source_name": "Since your baby was born, has there been water damage to the building or its contents (for example, from broken pipes, leaks, or a flood)?",
-    "label": null
-  }
+  "domain": "waterdmghome_mom_v1_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Highest level of education completed - Mother",
   "description": "What is the highest level of education you completed?",
   "type": "choices",
-  "domain": "edu_mom_int_",
-  "other": {
-    "number": "34",
-    "source_folder": "intake_main",
-    "source_name": "What is the highest level of education you completed?",
-    "label": null
-  }
+  "domain": "edu_mom_int_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Average hours of sleep per night on weekends or days off during the last 4 weeks - Mother",
   "description": "Thinking back on the LAST 4 WEEKS, about how many hours of sleep per night did you usually get on WEEKENDS or DAYS OFF?",
   "type": "numeric",
-  "units": "hours",
-  "other": {
-    "number": "203",
-    "source_folder": "v1_main",
-    "source_name": "Thinking back on the LAST 4 WEEKS, about how many hours of sleep per night did you usually get on WEEKENDS or DAYS OFF?",
-    "label": "sleep_duration"
-  }
+  "units": "hours"
 }

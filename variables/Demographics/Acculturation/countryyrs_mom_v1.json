@@ -3,11 +3,5 @@
   "display_name": "Number of years lived in the United States - Mother",
   "description": "In total, how many years have you lived in the United States?",
   "type": "numeric",
-  "units": "years",
-  "other": {
-    "number": "115",
-    "source_folder": "v1_main",
-    "source_name": "In total, how many years have you lived in the United States?",
-    "label": null
-  }
+  "units": "years"
 }

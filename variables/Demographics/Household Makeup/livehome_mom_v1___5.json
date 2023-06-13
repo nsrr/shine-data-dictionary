@@ -3,11 +3,5 @@
   "display_name": "Siblings/other relatives living in the household with the baby",
   "description": "Who is living in the household with the baby? (select all that apply) (choice=Sibling(s)/other relatives)",
   "type": "choices",
-  "domain": "livehome_mom_v1___5_",
-  "other": {
-    "number": "169",
-    "source_folder": "v1_main",
-    "source_name": "Who is living in the household with the baby? (select all that apply) (choice=Sibling(s)/other relatives)",
-    "label": null
-  }
+  "domain": "livehome_mom_v1___5_"
 }

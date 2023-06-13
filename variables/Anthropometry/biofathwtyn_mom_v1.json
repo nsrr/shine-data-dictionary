@@ -3,11 +3,5 @@
   "display_name": "Weight of baby's biological father",
   "description": "Do you know about how much does your baby's biological father weighs?",
   "type": "choices",
-  "domain": "biofathwtyn_mom_v1_",
-  "other": {
-    "number": "100",
-    "source_folder": "v1_main",
-    "source_name": "Do you know about how much does your baby's biological father weighs?",
-    "label": null
-  }
+  "domain": "biofathwtyn_mom_v1_"
 }

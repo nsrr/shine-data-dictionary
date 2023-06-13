@@ -3,11 +3,5 @@
   "display_name": "Level of problem caused by the baby crying, since birth - Mother",
   "description": "Since birth, how much do you feel that his/her crying has been a problem?",
   "type": "choices",
-  "domain": "cryprob_mom_v1_",
-  "other": {
-    "number": "116",
-    "source_folder": "v1_main",
-    "source_name": "Since birth, how much do you feel that his/her crying has been a problem?",
-    "label": null
-  }
+  "domain": "cryprob_mom_v1_"
 }

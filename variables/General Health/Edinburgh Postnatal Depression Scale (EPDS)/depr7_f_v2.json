@@ -3,11 +3,5 @@
   "display_name": "Edinburgh Postnatal Depression Scale (EPDS): The thought of harming myself has occurred to me - Father",
   "description": "In the past 7 days The thought of harming myself has occurred to me<br><br>Item from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
   "type": "choices",
-  "domain": "depr7_f_v2_",
-  "other": {
-    "number": "271",
-    "source_folder": "v2_dad",
-    "source_name": "The thought of harming myself has occurred to me",
-    "label": "epds;epds_10harm"
-  }
+  "domain": "depr7_f_v2_"
 }

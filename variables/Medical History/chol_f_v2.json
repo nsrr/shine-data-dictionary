@@ -3,11 +3,5 @@
   "display_name": "Doctor diagnosed high Cholesterol - Father",
   "description": "Have you ever been told by your doctor that you have high Cholesterol?",
   "type": "choices",
-  "domain": "chol_f_v2_",
-  "other": {
-    "number": "256",
-    "source_folder": "v2_dad",
-    "source_name": "Have you ever been told by your doctor that you have high Cholesterol?",
-    "label": null
-  }
+  "domain": "chol_f_v2_"
 }

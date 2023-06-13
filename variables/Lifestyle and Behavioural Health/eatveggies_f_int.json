@@ -3,11 +3,5 @@
   "display_name": "Average frequency of eating vegetables (raw, cooked, canned, or frozen) over the last 4 weeks - Father",
   "description": "In the past 4 weeks, on average, how often did you eat vegetables (raw, cooked, canned, or frozen)? Examples: green beans, carrots, corn, cabbage, broccoli",
   "type": "choices",
-  "domain": "eatveggies_f_int_",
-  "other": {
-    "number": "13",
-    "source_folder": "intake_dad",
-    "source_name": "In the past 4 weeks, on average, how often did you eat vegetables (raw, cooked, canned, or frozen)? Examples: green beans, carrots, corn, cabbage, broccoli",
-    "label": null
-  }
+  "domain": "eatveggies_f_int_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Baby's usual time of falling asleep - Mother",
   "description": "Does your baby have a usual time of falling asleep?",
   "type": "choices",
-  "domain": "sleeptimeyn_mom_v1_",
-  "other": {
-    "number": "201",
-    "source_folder": "v1_main",
-    "source_name": "Does your baby have a usual time of falling asleep?",
-    "label": "sleep_timing"
-  }
+  "domain": "sleeptimeyn_mom_v1_"
 }

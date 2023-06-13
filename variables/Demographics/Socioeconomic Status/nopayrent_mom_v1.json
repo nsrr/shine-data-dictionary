@@ -3,11 +3,5 @@
   "display_name": "Mother/family unable to pay the mortgage, rent or utility bills during the last 12 months",
   "description": "During the last 12 months, was there a time when (you/you and your family) were not able to pay your mortgage, rent or utility bills?",
   "type": "choices",
-  "domain": "nopayrent_mom_v1_",
-  "other": {
-    "number": "189",
-    "source_folder": "v1_main",
-    "source_name": "During the last 12 months, was there a time when (you/you and your family) were not able to pay your mortgage, rent or utility bills?",
-    "label": null
-  }
+  "domain": "nopayrent_mom_v1_"
 }

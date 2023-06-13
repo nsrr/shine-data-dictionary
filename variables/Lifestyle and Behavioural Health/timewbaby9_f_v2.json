@@ -3,11 +3,5 @@
   "display_name": "Frequency of taking the child outside for a walk or to play in the yard, a park, or a playground in the past month - Father",
   "description": "In the past month, how often did you take your child outside for a walk or to play in the yard, a park, or a playground?",
   "type": "choices",
-  "domain": "timewbaby9_f_v2_",
-  "other": {
-    "number": "328",
-    "source_folder": "v2_dad",
-    "source_name": "In the past month, how often did you take your child outside for a walk or to play in the yard, a park, or a playground?",
-    "label": null
-  }
+  "domain": "timewbaby9_f_v2_"
 }

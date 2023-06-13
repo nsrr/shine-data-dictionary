@@ -3,11 +3,5 @@
   "display_name": "Frequency of sharing a bed with your baby at night - Mother",
   "description": "How frequently do you share a bed with your baby at night?",
   "type": "choices",
-  "domain": "babysharebd_mom_v1_",
-  "other": {
-    "number": "81",
-    "source_folder": "v1_main",
-    "source_name": "How frequently do you share a bed with your baby at night?",
-    "label": "sleep_hygiene"
-  }
+  "domain": "babysharebd_mom_v1_"
 }

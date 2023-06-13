@@ -3,11 +3,5 @@
   "display_name": "Frequency of snoring during the last 4 weeks - Mother",
   "description": "Thinking back on the LAST 4 WEEKS, how often did you snore?",
   "type": "choices",
-  "domain": "snorelast4wk_mom_v1_",
-  "other": {
-    "number": "216",
-    "source_folder": "v1_main",
-    "source_name": "Thinking back on the LAST 4 WEEKS, how often did you snore?",
-    "label": "snore"
-  }
+  "domain": "snorelast4wk_mom_v1_"
 }

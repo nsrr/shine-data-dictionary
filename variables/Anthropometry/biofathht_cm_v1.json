@@ -3,11 +3,5 @@
   "display_name": "Height of baby's biological father",
   "description": "How tall is your baby's biological father?",
   "type": "numeric",
-  "units": "centimeters",
-  "other": {
-    "number": "97",
-    "source_folder": "v1_main",
-    "source_name": "How tall is your baby's biological father?",
-    "label": null
-  }
+  "units": "centimeters"
 }

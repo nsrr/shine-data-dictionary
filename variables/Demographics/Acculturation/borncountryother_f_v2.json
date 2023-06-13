@@ -2,11 +2,5 @@
   "id": "borncountryother_f_v2",
   "display_name": "If 'other' country of birth, specific country - Father",
   "description": "If Other country, please specify:",
-  "type": "text",
-  "other": {
-    "number": "255",
-    "source_folder": "v2_dad",
-    "source_name": "If Other country, please specify:",
-    "label": null
-  }
+  "type": "text"
 }

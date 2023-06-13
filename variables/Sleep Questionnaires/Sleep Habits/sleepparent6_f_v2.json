@@ -3,11 +3,5 @@
   "display_name": "Baby sleeps at least some part of the night in my bed - Father",
   "description": "My baby sleeps at least some part of the night in my bed",
   "type": "choices",
-  "domain": "sleepparent6_f_v2_",
-  "other": {
-    "number": "304",
-    "source_folder": "v2_dad",
-    "source_name": "My baby sleeps at least some part of the night in my bed",
-    "label": null
-  }
+  "domain": "sleepparent6_f_v2_"
 }

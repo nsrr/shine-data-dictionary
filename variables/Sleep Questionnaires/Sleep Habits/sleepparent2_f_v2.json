@@ -3,11 +3,5 @@
   "display_name": "Baby goes to bed at about the same time each night - Father",
   "description": "My baby goes to bed at about the same time each night",
   "type": "choices",
-  "domain": "sleepparent2_f_v2_",
-  "other": {
-    "number": "300",
-    "source_folder": "v2_dad",
-    "source_name": "My baby goes to bed at about the same time each night",
-    "label": "sleep_timing"
-  }
+  "domain": "sleepparent2_f_v2_"
 }

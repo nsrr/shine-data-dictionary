@@ -2,11 +2,5 @@
   "id": "participant_id",
   "display_name": "Participant ID - Child",
   "description": "",
-  "type": "identifier",
-  "other": {
-    "number": "1",
-    "source_folder": "Administrative",
-    "source_name": "Participant ID",
-    "label": null
-  }
+  "type": "identifier"
 }

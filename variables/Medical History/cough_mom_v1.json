@@ -3,11 +3,5 @@
   "display_name": "Since birth, has the baby had a cough",
   "description": "",
   "type": "choices",
-  "domain": "cough_mom_v1_",
-  "other": {
-    "number": "111",
-    "source_folder": "v1_main",
-    "source_name": "Cough",
-    "label": null
-  }
+  "domain": "cough_mom_v1_"
 }

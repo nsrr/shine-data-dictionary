@@ -3,11 +3,5 @@
   "display_name": "Baby spent time in childcare outside your home since birth",
   "description": "Since birth, has your baby spent time in childcare outside your home?",
   "type": "choices",
-  "domain": "childcare_mom_v1_",
-  "other": {
-    "number": "104",
-    "source_folder": "v1_main",
-    "source_name": "Since birth, has your baby spent time in childcare outside your home?",
-    "label": null
-  }
+  "domain": "childcare_mom_v1_"
 }

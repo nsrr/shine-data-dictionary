@@ -3,11 +3,5 @@
   "display_name": "Mother's race recategorized using race and ethnicity questions",
   "description": "",
   "type": "choices",
-  "domain": "race_mom_",
-  "other": {
-    "number": "48",
-    "source_folder": "intake_main",
-    "source_name": "Mother's race recategorized using race and ethnicity questions.",
-    "label": null
-  }
+  "domain": "race_mom_"
 }

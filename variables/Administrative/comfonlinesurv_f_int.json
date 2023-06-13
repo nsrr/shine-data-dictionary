@@ -3,11 +3,5 @@
   "display_name": "Comfortable completing online surveys - Father",
   "description": "Are you comfortable completing online surveys?",
   "type": "choices",
-  "domain": "comfonlinesurv_f_int_",
-  "other": {
-    "number": "4",
-    "source_folder": "intake_dad",
-    "source_name": "Are you comfortable completing online surveys?",
-    "label": null
-  }
+  "domain": "comfonlinesurv_f_int_"
 }

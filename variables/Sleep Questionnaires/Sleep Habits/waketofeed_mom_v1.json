@@ -3,11 +3,5 @@
   "display_name": "Frequency of waking your baby during the night to feed him/her",
   "description": "How often do you wake your baby during the night to feed him/her?",
   "type": "choices",
-  "domain": "waketofeed_mom_v1_",
-  "other": {
-    "number": "248",
-    "source_folder": "v1_main",
-    "source_name": "How often do you wake your baby during the night to feed him/her?",
-    "label": null
-  }
+  "domain": "waketofeed_mom_v1_"
 }

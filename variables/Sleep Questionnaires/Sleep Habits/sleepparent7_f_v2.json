@@ -3,11 +3,5 @@
   "display_name": "I rock the baby to sleep - Father",
   "description": "I rock my baby to sleep",
   "type": "choices",
-  "domain": "sleepparent7_f_v2_",
-  "other": {
-    "number": "305",
-    "source_folder": "v2_dad",
-    "source_name": "I rock my baby to sleep",
-    "label": null
-  }
+  "domain": "sleepparent7_f_v2_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Average hours of sleep per night on weekdays or workdays during the last 4 weeks of pregnancy - Mother",
   "description": "Thinking back on the LAST 4 WEEKS of your pregnancy, about how many hours of sleep per night did you usually get on WEEKDAYS or WORKDAYS?",
   "type": "numeric",
-  "units": "hours",
-  "other": {
-    "number": "49",
-    "source_folder": "intake_main",
-    "source_name": "Thinking back on the LAST 4 WEEKS of your pregnancy, about how many hours of sleep per night did you usually get on WEEKDAYS or WORKDAYS?",
-    "label": "sleep_duration"
-  }
+  "units": "hours"
 }

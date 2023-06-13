@@ -3,11 +3,5 @@
   "display_name": "Edinburgh Postnatal Depression Scale (EPDS): Things have been overwhelming me - Father",
   "description": "In the past 7 days Things have been overwhelming me<br><br>Item from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
   "type": "choices",
-  "domain": "depr3_f_v2_",
-  "other": {
-    "number": "267",
-    "source_folder": "v2_dad",
-    "source_name": "Things have been overwhelming me",
-    "label": "epds;epds_06overwhelm"
-  }
+  "domain": "depr3_f_v2_"
 }

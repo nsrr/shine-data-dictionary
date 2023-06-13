@@ -3,11 +3,5 @@
   "display_name": "Height of baby's biological father",
   "description": "Do you know how tall your baby's biological father is?",
   "type": "choices",
-  "domain": "biofathhtyn_mom_v1_",
-  "other": {
-    "number": "98",
-    "source_folder": "v1_main",
-    "source_name": "Do you know how tall your baby's biological father is?",
-    "label": null
-  }
+  "domain": "biofathhtyn_mom_v1_"
 }

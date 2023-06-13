@@ -3,11 +3,5 @@
   "display_name": "How much do you agree with the following statement:   My baby has a bedtime routine",
   "description": "",
   "type": "choices",
-  "domain": "bedroutine_mom_v1_",
-  "other": {
-    "number": "95",
-    "source_folder": "v1_main",
-    "source_name": "How much do you agree with the following statement:   My baby has a bedtime routine",
-    "label": null
-  }
+  "domain": "bedroutine_mom_v1_"
 }

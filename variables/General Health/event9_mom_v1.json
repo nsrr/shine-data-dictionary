@@ -3,11 +3,5 @@
   "display_name": "Legal trouble - Mother",
   "description": "Has this event happened to you over the past year: Legal trouble - Mother",
   "type": "choices",
-  "domain": "event9_mom_v1_",
-  "other": {
-    "number": "144",
-    "source_folder": "v1_main",
-    "source_name": "Legal trouble",
-    "label": null
-  }
+  "domain": "event9_mom_v1_"
 }

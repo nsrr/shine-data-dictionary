@@ -3,11 +3,5 @@
   "display_name": "Usually let baby fall back asleep by himself/herself without checking in after he/she awakens during the night",
   "description": "What do you usually do to put your baby back to sleep after he/she awakens during the night? (please check ALL that apply)   (choice=Let baby fall back asleep by himself/herself without checking in)",
   "type": "choices",
-  "domain": "babytoslp_mom_v1___6_",
-  "other": {
-    "number": "93",
-    "source_folder": "v1_main",
-    "source_name": "What do you usually do to put your baby back to sleep after he/she awakens during the night? (please check ALL that apply)   (choice=Let baby fall back asleep by himself/herself without checking in)",
-    "label": null
-  }
+  "domain": "babytoslp_mom_v1___6_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Baby ever received oral, intravenous, topical, or intramuscular antibiotics since birth for any reason, including while in the hospital",
   "description": "",
   "type": "choices",
-  "domain": "babyantibiot_mom_v1_",
-  "other": {
-    "number": "75",
-    "source_folder": "v1_main",
-    "source_name": "Since birth, has your baby received oral, intravenous, topical or intramuscular antibiotics for any reason, including while in the hospital?",
-    "label": null
-  }
+  "domain": "babyantibiot_mom_v1_"
 }

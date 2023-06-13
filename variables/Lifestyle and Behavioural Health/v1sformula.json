@@ -3,11 +3,5 @@
   "display_name": "Feeding baby infant formula since last interaction",
   "description": "Since we last spoke with you, have you fed your baby any infant formula?",
   "type": "choices",
-  "domain": "v1sformula_",
-  "other": {
-    "number": "231",
-    "source_folder": "v1_main",
-    "source_name": "Since we last spoke with you, have you fed your baby any infant formula?",
-    "label": null
-  }
+  "domain": "v1sformula_"
 }

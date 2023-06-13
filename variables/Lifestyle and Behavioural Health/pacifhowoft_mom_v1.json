@@ -3,11 +3,5 @@
   "display_name": "If used, how often baby uses a pacifier (binky, dummy, bobo) to go to sleep",
   "description": "If yes, how often does your baby use a pacifier (binky, dummy, bobo) to go to sleep?",
   "type": "choices",
-  "domain": "pacifhowoft_mom_v1_",
-  "other": {
-    "number": "191",
-    "source_folder": "v1_main",
-    "source_name": "If yes, how often does your baby use a pacifier (binky, dummy, bobo) to go to sleep?",
-    "label": null
-  }
+  "domain": "pacifhowoft_mom_v1_"
 }

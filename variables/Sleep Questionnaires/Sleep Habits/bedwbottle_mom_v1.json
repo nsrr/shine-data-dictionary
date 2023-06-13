@@ -3,11 +3,5 @@
   "display_name": "Frequency of putting your baby to bed with a bottle of formula, breast milk, juice, juice drink, or any other kind of milk (baby fell asleep while being fed) during the past 2 weeks",
   "description": "During the past 2 weeks, how often was your baby put to bed with a bottle of formula, breast milk, juice, juice drink, or any other kind of milk?  (Note: Put to bed = baby fell asleep while being fed from a bottle, breast, etc)",
   "type": "choices",
-  "domain": "bedwbottle_mom_v1_",
-  "other": {
-    "number": "96",
-    "source_folder": "v1_main",
-    "source_name": "During the past 2 weeks, how often was your baby put to bed with a bottle of formula, breast milk, juice, juice drink, or any other kind of milk?  (Note: Put to bed = baby fell asleep while being fed from a bottle, breast, etc)",
-    "label": null
-  }
+  "domain": "bedwbottle_mom_v1_"
 }

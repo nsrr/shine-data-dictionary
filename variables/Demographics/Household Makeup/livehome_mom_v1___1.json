@@ -3,11 +3,5 @@
   "display_name": "Father living in the household with the baby",
   "description": "Who is living in the household with the baby? (select all that apply) (choice=Father)",
   "type": "choices",
-  "domain": "livehome_mom_v1___1_",
-  "other": {
-    "number": "165",
-    "source_folder": "v1_main",
-    "source_name": "Who is living in the household with the baby? (select all that apply) (choice=Father)",
-    "label": null
-  }
+  "domain": "livehome_mom_v1___1_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Edinburgh Postnatal Depression Scale (EPDS): I have felt scared or panicky for no good reason - Father",
   "description": "In the past 7 days I have felt scared or panicky for no good reason<br><br>Item from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
   "type": "choices",
-  "domain": "depr2_f_v2_",
-  "other": {
-    "number": "266",
-    "source_folder": "v2_dad",
-    "source_name": "I have felt scared or panicky for no good reason",
-    "label": "epds;epds_05scare"
-  }
+  "domain": "depr2_f_v2_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Average hours per week spent engaged in light or moderate recreational activities or sports like bowling, yoga, stretching classes, skating, or other similar activities (excluding walking), in the 12 months before this pregnancy. - Mother",
   "description": "During the 12 months before this pregnancy, on average, how many hours per week did you spend engaged in light or moderate recreational activities or sports like bowling,yoga,stretching classes,skating,or other similar activities? (Do not include walking)",
   "type": "numeric",
-  "units": "hours",
-  "other": {
-    "number": "164",
-    "source_folder": "v1_main",
-    "source_name": "During the 12 months before this pregnancy, on average, how many hours per week did you spend engaged in light or moderate recreational activities or sports like bowling,yoga,stretching classes,skating,or other similar activities? (Do not include walking)",
-    "label": null
-  }
+  "units": "hours"
 }

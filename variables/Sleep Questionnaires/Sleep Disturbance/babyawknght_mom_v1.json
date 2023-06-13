@@ -3,11 +3,5 @@
   "display_name": "Duration of awake time when your baby wakes up during the night - Mother",
   "description": "When your baby wakes up during the night, how many minutes is he/she usually awake?",
   "type": "choices",
-  "domain": "babyawknght_mom_v1_",
-  "other": {
-    "number": "76",
-    "source_folder": "v1_main",
-    "source_name": "When your baby wakes up during the night, how many minutes is he/she usually awake?",
-    "label": null
-  }
+  "domain": "babyawknght_mom_v1_"
 }

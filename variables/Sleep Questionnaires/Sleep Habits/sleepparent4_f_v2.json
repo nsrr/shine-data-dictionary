@@ -3,11 +3,5 @@
   "display_name": "Baby sleeps in the same room or location each night - Father",
   "description": "My baby sleeps in the same room or location each night",
   "type": "choices",
-  "domain": "sleepparent4_f_v2_",
-  "other": {
-    "number": "302",
-    "source_folder": "v2_dad",
-    "source_name": "My baby sleeps in the same room or location each night",
-    "label": "sleep_environment"
-  }
+  "domain": "sleepparent4_f_v2_"
 }

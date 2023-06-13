@@ -3,11 +3,5 @@
   "display_name": "Anyone else in household unemployed & looking for work for longer than 3 months - Mother",
   "description": "Has this event happened to you over the past year: Anyone else in household unemployed & looking for work for longer than 3 months - Mother",
   "type": "choices",
-  "domain": "event5_mom_v1_",
-  "other": {
-    "number": "140",
-    "source_folder": "v1_main",
-    "source_name": "Anyone else in household unemployed & looking for work for longer than 3 months",
-    "label": null
-  }
+  "domain": "event5_mom_v1_"
 }

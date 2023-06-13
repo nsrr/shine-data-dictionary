@@ -3,11 +3,5 @@
   "display_name": "Frequency seeing signs of cockroaches in the home over the last 12 months",
   "description": "How often in the last 12 months have you seen or were there signs of cockroaches or mice/rodents in your home? (This includes actually seeing pests and indications of pests such as feces and droppings, chewed packages, etc.)",
   "type": "choices",
-  "domain": "cockroach_mom_v1_",
-  "other": {
-    "number": "108",
-    "source_folder": "v1_main",
-    "source_name": "Cockroaches",
-    "label": null
-  }
+  "domain": "cockroach_mom_v1_"
 }

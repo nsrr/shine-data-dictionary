@@ -3,11 +3,5 @@
   "display_name": "Baby typically wakes during the night",
   "description": "Does your baby typically wake during the night?",
   "type": "choices",
-  "domain": "wakeatnight_mom_v1_",
-  "other": {
-    "number": "245",
-    "source_folder": "v1_main",
-    "source_name": "Does your baby typically wake during the night?",
-    "label": null
-  }
+  "domain": "wakeatnight_mom_v1_"
 }

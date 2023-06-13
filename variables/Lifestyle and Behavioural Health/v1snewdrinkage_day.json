@@ -3,11 +3,5 @@
   "display_name": "Age baby first given anything to drink besides breast milk or formula - such as 100% fruit juice, fruit drinks, soda, sweet tea",
   "description": "How old was your baby when you first gave him/her anything to drink besides breast milk or formula - such as 100% fruit juice, fruit drinks, soda, sweet tea? (age in days)",
   "type": "numeric",
-  "units": "days",
-  "other": {
-    "number": "234",
-    "source_folder": "v1_main",
-    "source_name": "How old was your baby when you first gave him/her anything to drink besides breast milk or formula - such as 100% fruit juice, fruit drinks, soda, sweet tea? (age in days)",
-    "label": null
-  }
+  "units": "days"
 }

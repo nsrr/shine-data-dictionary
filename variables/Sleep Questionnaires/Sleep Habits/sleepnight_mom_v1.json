@@ -3,11 +3,5 @@
   "display_name": "Total time baby spends sleeping during the night (between 7 in the evening and 8 in the morning) - Mother",
   "description": "How much total time does your baby spend sleeping during the NIGHT (between 7 in the evening and 8 in the morning)? (in hours)",
   "type": "text",
-  "units": "hours",
-  "other": {
-    "number": "200",
-    "source_folder": "v1_main",
-    "source_name": "How much total time does your baby spend sleeping during the NIGHT (between 7 in the evening and 8 in the morning)? (in hours)",
-    "label": "sleep_duration"
-  }
+  "units": "hours"
 }

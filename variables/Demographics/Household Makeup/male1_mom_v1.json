@@ -3,11 +3,5 @@
   "display_name": "Male caregiver lives in the household",
   "description": "Does he live in your household?",
   "type": "choices",
-  "domain": "male1_mom_v1_",
-  "other": {
-    "number": "173",
-    "source_folder": "v1_main",
-    "source_name": "Does he live in your household?",
-    "label": null
-  }
+  "domain": "male1_mom_v1_"
 }

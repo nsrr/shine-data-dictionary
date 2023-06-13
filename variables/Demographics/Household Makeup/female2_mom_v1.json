@@ -3,11 +3,5 @@
   "display_name": "Female caregiver is mother's partner",
   "description": "Is she your partner? (i.e. Are the two of you in a relationship?)",
   "type": "choices",
-  "domain": "female2_mom_v1_",
-  "other": {
-    "number": "148",
-    "source_folder": "v1_main",
-    "source_name": "Is she your partner? (i.e. Are the two of you in a relationship?)",
-    "label": null
-  }
+  "domain": "female2_mom_v1_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Baby received any formula",
   "description": "Has your baby received any formula?",
   "type": "choices",
-  "domain": "formulatry_mom_int_",
-  "other": {
-    "number": "38",
-    "source_folder": "intake_main",
-    "source_name": "Has your baby received any formula?",
-    "label": null
-  }
+  "domain": "formulatry_mom_int_"
 }

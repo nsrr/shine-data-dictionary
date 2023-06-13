@@ -3,11 +3,5 @@
   "display_name": "Frequecny stopped breathing during sleep in the last 4 weeks of pregnancy - Mother",
   "description": "Thinking back on the LAST 4 WEEKS of your pregnancy, how often did you stop breathing during your sleep?",
   "type": "choices",
-  "domain": "slpapnea4w_mom_int_",
-  "other": {
-    "number": "51",
-    "source_folder": "intake_main",
-    "source_name": "Thinking back on the LAST 4 WEEKS of your pregnancy, how often did you stop breathing during your sleep?",
-    "label": "sdb"
-  }
+  "domain": "slpapnea4w_mom_int_"
 }

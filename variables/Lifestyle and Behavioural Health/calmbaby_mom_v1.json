@@ -3,11 +3,5 @@
   "display_name": "Difficulty in calming the baby when he/she cries, since birth",
   "description": "Since birth, how hard is it to calm your baby when he/she cries?",
   "type": "choices",
-  "domain": "calmbaby_mom_v1_",
-  "other": {
-    "number": "102",
-    "source_folder": "v1_main",
-    "source_name": "Since birth, how hard is it to calm your baby when he/she cries?",
-    "label": null
-  }
+  "domain": "calmbaby_mom_v1_"
 }

@@ -3,11 +3,5 @@
   "display_name": "Father's race recategorized using race and ethnicity questions.",
   "description": "",
   "type": "choices",
-  "domain": "race_dad_",
-  "other": {
-    "number": "24",
-    "source_folder": "intake_dad",
-    "source_name": "Father's race recategorized using race and ethnicity questions.",
-    "label": null
-  }
+  "domain": "race_dad_"
 }

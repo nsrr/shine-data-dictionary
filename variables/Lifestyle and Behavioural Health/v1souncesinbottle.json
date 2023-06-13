@@ -3,11 +3,5 @@
   "display_name": "Average ounces in each bottle",
   "description": "On average, how many ounces does each bottle contain?",
   "type": "choices",
-  "domain": "v1souncesinbottle_",
-  "other": {
-    "number": "236",
-    "source_folder": "v1_main",
-    "source_name": "On average, how many ounces does each bottle contain?",
-    "label": null
-  }
+  "domain": "v1souncesinbottle_"
 }

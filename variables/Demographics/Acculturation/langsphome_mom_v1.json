@@ -3,11 +3,5 @@
   "display_name": "Languages you usually speak at home - Mother",
   "description": "What language(s) do you usually speak at home?",
   "type": "choices",
-  "domain": "langsphome_mom_v1_",
-  "other": {
-    "number": "160",
-    "source_folder": "v1_main",
-    "source_name": "What language(s) do you usually speak at home?",
-    "label": null
-  }
+  "domain": "langsphome_mom_v1_"
 }

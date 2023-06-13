@@ -3,11 +3,5 @@
   "display_name": "Doctor diagnosed Type II Diabetes - Father",
   "description": "Have you ever been told by your doctor that you have Type II Diabetes?",
   "type": "choices",
-  "domain": "t2d_f_v2_",
-  "other": {
-    "number": "316",
-    "source_folder": "v2_dad",
-    "source_name": "Have you ever been told by your doctor that you have Type II Diabetes?",
-    "label": null
-  }
+  "domain": "t2d_f_v2_"
 }

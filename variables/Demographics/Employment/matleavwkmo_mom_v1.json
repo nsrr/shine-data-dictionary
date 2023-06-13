@@ -3,11 +3,5 @@
   "display_name": "Units for maternity leave (weeks/months) - Mother",
   "description": "Is the above time for maternity leave in weeks or months?",
   "type": "choices",
-  "domain": "matleavwkmo_mom_v1_",
-  "other": {
-    "number": "180",
-    "source_folder": "v1_main",
-    "source_name": "Is the above time for maternity leave in weeks or months?",
-    "label": null
-  }
+  "domain": "matleavwkmo_mom_v1_"
 }

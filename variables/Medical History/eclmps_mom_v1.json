@@ -3,11 +3,5 @@
   "display_name": "Eclampsia",
   "description": "",
   "type": "choices",
-  "domain": "eclmps_mom_v1_",
-  "other": {
-    "number": "129",
-    "source_folder": "v1_main",
-    "source_name": "Eclampsia",
-    "label": null
-  }
+  "domain": "eclmps_mom_v1_"
 }

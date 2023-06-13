@@ -3,11 +3,5 @@
   "display_name": "Kind of milk planned to feed baby in the next week - Mother",
   "description": "What kind of milk do you plan to feed your baby in the next week ?",
   "type": "choices",
-  "domain": "milktype1wk_mom_int_",
-  "other": {
-    "number": "43",
-    "source_folder": "intake_main",
-    "source_name": "What kind of milk do you plan to feed your baby in the next week ?",
-    "label": null
-  }
+  "domain": "milktype1wk_mom_int_"
 }
