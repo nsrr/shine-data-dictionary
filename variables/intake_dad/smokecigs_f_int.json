@@ -1,0 +1,7 @@
+{
+  "id": "smokecigs_f_int",
+  "display_name": "Do you currently smoke cigarettes?",
+  "description": "",
+  "type": "choices",
+  "domain": "smokecigs_f_int_"
+}

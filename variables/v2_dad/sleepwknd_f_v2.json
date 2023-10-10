@@ -1,0 +1,7 @@
+{
+  "id": "sleepwknd_f_v2",
+  "display_name": "Thinking back on the LAST 4 WEEKS, about how many hours of sleep per night did you usually get on weekends or days off?",
+  "description": "",
+  "type": "choices",
+  "domain": "sleepwknd_f_v2_"
+}

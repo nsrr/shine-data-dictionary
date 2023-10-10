@@ -1,0 +1,7 @@
+{
+  "id": "childsharebd_mom_v3",
+  "display_name": "How frequently do you share a bed with your child at night?",
+  "description": "",
+  "type": "choices",
+  "domain": "childsharebd_mom_v3_"
+}

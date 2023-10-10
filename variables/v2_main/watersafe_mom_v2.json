@@ -1,0 +1,7 @@
+{
+  "id": "watersafe_mom_v2",
+  "display_name": "To what extent do you agree or disagree with the following statement: My local tap water is safe to drink.",
+  "description": "",
+  "type": "choices",
+  "domain": "watersafe_mom_v2_"
+}

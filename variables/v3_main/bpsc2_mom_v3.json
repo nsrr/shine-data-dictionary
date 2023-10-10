@@ -1,0 +1,7 @@
+{
+  "id": "bpsc2_mom_v3",
+  "display_name": "Does your child have a hard time in new places?",
+  "description": "",
+  "type": "choices",
+  "domain": "bpsc2_mom_v3_"
+}

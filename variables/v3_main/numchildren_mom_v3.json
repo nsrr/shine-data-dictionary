@@ -1,0 +1,6 @@
+{
+  "id": "numchildren_mom_v3",
+  "display_name": "How many are children < 18 years of age, not including the enrolled child?  Example: If mom, dad, and baby live in the home, the answer here is 0.",
+  "description": "",
+  "type": "numeric"
+}

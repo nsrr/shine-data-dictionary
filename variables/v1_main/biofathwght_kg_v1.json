@@ -1,0 +1,7 @@
+{
+  "id": "biofathwght_kg_v1",
+  "display_name": "About how much does your baby's biological father weigh? (kg)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}

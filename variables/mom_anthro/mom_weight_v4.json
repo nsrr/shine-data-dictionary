@@ -1,0 +1,7 @@
+{
+  "id": "mom_weight_v4",
+  "display_name": "Maternal weight at visit 4 (kg)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}

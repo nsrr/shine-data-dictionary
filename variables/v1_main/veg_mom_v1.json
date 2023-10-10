@@ -1,0 +1,7 @@
+{
+  "id": "veg_mom_v1",
+  "display_name": "In the past 4 weeks, on average, how often did you eat vegetables (raw, cooked, canned, or frozen)? Examples: green beans, carrots, corn, cabbage, broccoli",
+  "description": "",
+  "type": "choices",
+  "domain": "veg_mom_v1_"
+}

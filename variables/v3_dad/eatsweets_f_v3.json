@@ -1,0 +1,7 @@
+{
+  "id": "eatsweets_f_v3",
+  "display_name": "In the past 4 weeks, on average, how often did you eat doughnuts, sweet rolls, Danish, muffins, pan dulce, poptarts, cookies, brownies, pies, or cake? Do NOT include sugar-free items.",
+  "description": "",
+  "type": "choices",
+  "domain": "eatsweets_f_v3_"
+}

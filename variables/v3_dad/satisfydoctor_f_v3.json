@@ -1,0 +1,7 @@
+{
+  "id": "satisfydoctor_f_v3",
+  "display_name": "If yes, how satisfied were you with the way doctors and other medical staff interacted with you as a parent?",
+  "description": "",
+  "type": "choices",
+  "domain": "satisfydoctor_f_v3_"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "childwic_f_v3",
+  "display_name": "Did you take your child to a WIC visit in the past year?",
+  "description": "",
+  "type": "choices",
+  "domain": "childwic_f_v3_"
+}

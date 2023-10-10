@@ -1,0 +1,7 @@
+{
+  "id": "snapwic_mom_v4___2",
+  "display_name": "In the past 1 year, has your household received any of the following? (Check all that apply) (choice=WIC services - Women, Infants and Childrens nutritional services)",
+  "description": "",
+  "type": "choices",
+  "domain": "snapwic_mom_v4___2_"
+}

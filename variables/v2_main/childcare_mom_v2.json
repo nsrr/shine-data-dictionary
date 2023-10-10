@@ -1,0 +1,7 @@
+{
+  "id": "childcare_mom_v2",
+  "display_name": "Since birth, has your baby spent time in childcare outside your home?",
+  "description": "",
+  "type": "choices",
+  "domain": "childcare_mom_v2_"
+}

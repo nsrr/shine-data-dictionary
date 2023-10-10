@@ -1,0 +1,7 @@
+{
+  "id": "snapwic_mom_v2___1",
+  "display_name": "In the past 6 months, has your household received any of the following? (Check all that apply) (choice=Food stamps (SNAP))",
+  "description": "",
+  "type": "choices",
+  "domain": "snapwic_mom_v2___1_"
+}

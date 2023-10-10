@@ -1,0 +1,7 @@
+{
+  "id": "female1_mom_v1",
+  "display_name": "Does she live in your household?",
+  "description": "",
+  "type": "choices",
+  "domain": "female1_mom_v1_"
+}

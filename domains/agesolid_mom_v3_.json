@@ -1,0 +1,72 @@
+[
+  {
+    "value": "0",
+    "display_name": "I have not introduced solid food yet",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "< 1 month",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "1 month",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "2 months",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "3 months",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "4 months",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "5 months",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "6 months",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "7 months",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "8 months",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "9 months",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "10 months",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "11 months",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "> 11 months",
+    "description": ""
+  }
+]

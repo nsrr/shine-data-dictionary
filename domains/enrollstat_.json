@@ -1,0 +1,67 @@
+[
+  {
+    "value": "1",
+    "display_name": "Enrolled",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Declined",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Declined at nurse contact",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Missed Window - no contact",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Missed Window - made contact",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "Disenrolled",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Do Not Contact",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "Ineligible",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Ineligible after enrollment",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "Undetermined",
+    "description": ""
+  },
+  {
+    "value": "11",
+    "display_name": "Completed consent, no contact after",
+    "description": ""
+  },
+  {
+    "value": "12",
+    "display_name": "Consented, but intake incomplete",
+    "description": ""
+  },
+  {
+    "value": "13",
+    "display_name": "Loss to follow-up",
+    "description": ""
+  }
+]

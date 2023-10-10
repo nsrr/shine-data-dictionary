@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "No, not adding anything",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "No, my baby does not use a bottle",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes",
+    "description": ""
+  }
+]

@@ -1,0 +1,12 @@
+[
+  {
+    "value": "1",
+    "display_name": "self-reported by mother",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "abstracted from EHR",
+    "description": ""
+  }
+]

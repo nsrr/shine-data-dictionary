@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Strongly disagree",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Somewhat disagree",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Neither agree nor disagree",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Somewhat agree",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Strongly agree",
+    "description": ""
+  }
+]

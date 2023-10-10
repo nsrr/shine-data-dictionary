@@ -1,0 +1,7 @@
+{
+  "id": "htn_f_v2",
+  "display_name": "Have you ever been told by your doctor that you have Hypertension (high blood pressure)?",
+  "description": "",
+  "type": "choices",
+  "domain": "htn_f_v2_"
+}

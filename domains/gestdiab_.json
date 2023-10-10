@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "No",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Yes, Active",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes, History of",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Not Specified",
+    "description": ""
+  }
+]

@@ -1,0 +1,42 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Less than once per week",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Once per week",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "2-4 times per week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Nearly daily or daily",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "2-4 times per day",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "5 or more times per day",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "Refused/Don't Know",
+    "description": ""
+  }
+]

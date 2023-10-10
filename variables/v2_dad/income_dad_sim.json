@@ -1,0 +1,7 @@
+{
+  "id": "income_dad_sim",
+  "display_name": "Household annual income answered by father (3 categories)",
+  "description": "",
+  "type": "choices",
+  "domain": "income_dad_sim_"
+}

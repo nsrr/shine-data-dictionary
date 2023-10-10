@@ -1,0 +1,7 @@
+{
+  "id": "snapwic_mom_v3___5",
+  "display_name": "In the past 6 months, has your household received any of the following? (Check all that apply) (choice=Public medical insurance)",
+  "description": "",
+  "type": "choices",
+  "domain": "snapwic_mom_v3___5_"
+}

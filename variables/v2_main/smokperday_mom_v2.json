@@ -1,0 +1,7 @@
+{
+  "id": "smokperday_mom_v2",
+  "display_name": "On average, how many cigarettes per day do you currently smoke? (1 pack = 20 cigarettes)",
+  "description": "",
+  "type": "choices",
+  "domain": "smokperday_mom_v2_"
+}

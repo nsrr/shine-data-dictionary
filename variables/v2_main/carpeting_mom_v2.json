@@ -1,0 +1,7 @@
+{
+  "id": "carpeting_mom_v2",
+  "display_name": "Do you have wall-to-wall carpeting in your home?",
+  "description": "",
+  "type": "choices",
+  "domain": "carpeting_mom_v2_"
+}

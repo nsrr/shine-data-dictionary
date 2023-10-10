@@ -1,0 +1,22 @@
+[
+  {
+    "value": "1",
+    "display_name": "less than $80,000",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "$80,000-$199,000",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "$200,000 or more",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Refused",
+    "description": ""
+  }
+]

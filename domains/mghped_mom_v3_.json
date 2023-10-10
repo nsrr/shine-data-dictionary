@@ -1,0 +1,52 @@
+[
+  {
+    "value": "1",
+    "display_name": "MGH Pediatric Group Practice",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "MGH Chelsea HealthCare Center",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "MGH Charlestown/Bunker Hill HealthCare Center",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "MGH Revere HealthCare Center",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "MGH West Medical Group",
+    "description": ""
+  },
+  {
+    "value": "6",
+    "display_name": "MGH Back Bay",
+    "description": ""
+  },
+  {
+    "value": "7",
+    "display_name": "MGH Everett Family Care",
+    "description": ""
+  },
+  {
+    "value": "8",
+    "display_name": "MGH North End Waterfront Health",
+    "description": ""
+  },
+  {
+    "value": "9",
+    "display_name": "Other",
+    "description": ""
+  },
+  {
+    "value": "10",
+    "display_name": "MGH North End Waterfront (NEW) Health - Charlestown",
+    "description": ""
+  }
+]

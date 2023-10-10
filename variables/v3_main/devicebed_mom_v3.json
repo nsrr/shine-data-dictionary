@@ -1,0 +1,7 @@
+{
+  "id": "devicebed_mom_v3",
+  "display_name": "My child has access to a mobile or screen-based device (such as an iPad or smartphone) while in bed",
+  "description": "",
+  "type": "choices",
+  "domain": "devicebed_mom_v3_"
+}

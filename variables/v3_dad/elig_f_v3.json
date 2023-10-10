@@ -1,0 +1,7 @@
+{
+  "id": "elig_f_v3",
+  "display_name": "Do you sleep in the same home as your child at least 1 night a week?",
+  "description": "",
+  "type": "choices",
+  "domain": "elig_f_v3_"
+}

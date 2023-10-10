@@ -1,0 +1,7 @@
+{
+  "id": "edu_f_int",
+  "display_name": "What is the highest level of education you completed?",
+  "description": "",
+  "type": "choices",
+  "domain": "edu_f_int_"
+}

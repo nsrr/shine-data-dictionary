@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Once in a while (once per week or less)",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Often (2-4 times per week)",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Almost every night (5-7 times per week)",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Refused/Unknown",
+    "description": ""
+  }
+]

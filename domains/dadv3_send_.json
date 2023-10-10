@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Yes - send ENGLISH V3 survey",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Yes - send SPANISH V3 survey",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "No (inelig, declined, NA, other)",
+    "description": ""
+  }
+]

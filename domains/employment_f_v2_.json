@@ -11,17 +11,7 @@
   },
   {
     "value": "3",
-    "display_name": "Not employed, not looking for work",
-    "description": ""
-  },
-  {
-    "value": "4",
-    "display_name": "Not employed, looking for work",
-    "description": ""
-  },
-  {
-    "value": "5",
-    "display_name": "Student",
+    "display_name": "Not employed",
     "description": ""
   }
 ]

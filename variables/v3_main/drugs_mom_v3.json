@@ -1,0 +1,7 @@
+{
+  "id": "drugs_mom_v3",
+  "display_name": "...how often have you used any drugs including marijuana, cocaine or crack, heroin, methamphetamine (crystal meth), hallucinogens, ecstasy/MDMA?",
+  "description": "",
+  "type": "choices",
+  "domain": "drugs_mom_v3_"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "male2_mom_v1",
+  "display_name": "Is he your partner? (i.e. Are the two of you in a relationship?)",
+  "description": "",
+  "type": "choices",
+  "domain": "male2_mom_v1_"
+}

@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Completed",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Partially Completed",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Scheduling",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Missed Window",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Pending Disenrollment",
+    "description": ""
+  }
+]

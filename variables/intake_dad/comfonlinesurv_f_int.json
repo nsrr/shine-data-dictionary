@@ -1,0 +1,7 @@
+{
+  "id": "comfonlinesurv_f_int",
+  "display_name": "Are you comfortable completing online surveys?",
+  "description": "",
+  "type": "choices",
+  "domain": "comfonlinesurv_f_int_"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "currpreg_mom_v3",
+  "display_name": "Are you currently pregnant?",
+  "description": "",
+  "type": "choices",
+  "domain": "currpreg_mom_v3_"
+}

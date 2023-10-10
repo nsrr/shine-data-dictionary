@@ -1,0 +1,7 @@
+{
+  "id": "procmeat_mom_int",
+  "display_name": "In the past 4 weeks, on average, how often did you eat any processed meat, such as bacon, lunch meats, or hot dogs? Include processed meats you had in sandwiches, soups, pizza, casseroles, and other mixtures. Processed meats are those preserved by smoking",
+  "description": "",
+  "type": "choices",
+  "domain": "procmeat_mom_int_"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "livehome_mom_v3___6",
+  "display_name": "Who is living in the household with the child? (select all that apply): (choice=No one (live alone))",
+  "description": "",
+  "type": "choices",
+  "domain": "livehome_mom_v3___6_"
+}

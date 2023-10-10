@@ -1,0 +1,7 @@
+{
+  "id": "bottlewater_mom_v2",
+  "display_name": "In the past 4 weeks, on average, how many times did you drink BOTTLED or FILTERED WATER (include unflavored sparking water)",
+  "description": "",
+  "type": "choices",
+  "domain": "bottlewater_mom_v2_"
+}

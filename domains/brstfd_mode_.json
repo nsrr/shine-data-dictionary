@@ -1,0 +1,17 @@
+[
+  {
+    "value": "0",
+    "display_name": "formulat feeding",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "mixed feeding",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "exclusively breastfeeding",
+    "description": ""
+  }
+]

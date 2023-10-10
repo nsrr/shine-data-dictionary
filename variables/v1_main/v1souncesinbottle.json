@@ -1,0 +1,7 @@
+{
+  "id": "v1souncesinbottle",
+  "display_name": "On average, how many ounces does each bottle contain?",
+  "description": "",
+  "type": "choices",
+  "domain": "v1souncesinbottle_"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "smokexphome_mom_v1",
+  "display_name": "Do any of the other people living in your home regularly (often) smoke cigarettes, cigars or pipes in your baby's presence?",
+  "description": "",
+  "type": "choices",
+  "domain": "smokexphome_mom_v1_"
+}

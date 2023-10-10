@@ -1,0 +1,7 @@
+{
+  "id": "foodallerg_mom_v3",
+  "display_name": "Since birth, has a health care provider said that your child has Food Allergies?",
+  "description": "",
+  "type": "choices",
+  "domain": "foodallerg_mom_v3_"
+}

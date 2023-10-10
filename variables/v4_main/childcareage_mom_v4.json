@@ -1,0 +1,6 @@
+{
+  "id": "childcareage_mom_v4",
+  "display_name": "How old was he/she when s/he started there? (in months)",
+  "description": "",
+  "type": "numeric"
+}

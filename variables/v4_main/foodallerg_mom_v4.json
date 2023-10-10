@@ -1,0 +1,7 @@
+{
+  "id": "foodallerg_mom_v4",
+  "display_name": "Since your child was born, have you ever been told by a health care professional (such as a doctor, physician assistant or nurse practitioner) that your child has food allergies?",
+  "description": "",
+  "type": "choices",
+  "domain": "foodallerg_mom_v4_"
+}

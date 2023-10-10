@@ -1,0 +1,6 @@
+{
+  "id": "gest_age",
+  "display_name": "Maternal gestational age (weeks)",
+  "description": "",
+  "type": "numeric"
+}

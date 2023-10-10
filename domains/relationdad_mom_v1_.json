@@ -1,7 +1,7 @@
 [
   {
     "value": "1",
-    "display_name": "Not married",
+    "display_name": "Not married/Separated",
     "description": ""
   },
   {
@@ -17,26 +17,6 @@
   {
     "value": "4",
     "display_name": "Married",
-    "description": ""
-  },
-  {
-    "value": "5",
-    "display_name": "Common-law married",
-    "description": ""
-  },
-  {
-    "value": "6",
-    "display_name": "Separated",
-    "description": ""
-  },
-  {
-    "value": "7",
-    "display_name": "Divorced",
-    "description": ""
-  },
-  {
-    "value": "8",
-    "display_name": "Widowed",
     "description": ""
   },
   {

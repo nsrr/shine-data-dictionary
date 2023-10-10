@@ -1,0 +1,6 @@
+{
+  "id": "infant_agedays",
+  "display_name": "Infant age in days at length/weight measurement",
+  "description": "",
+  "type": "numeric"
+}

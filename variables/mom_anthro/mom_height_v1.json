@@ -1,0 +1,7 @@
+{
+  "id": "mom_height_v1",
+  "display_name": "Maternal height at visit 1 (cm)",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeters"
+}

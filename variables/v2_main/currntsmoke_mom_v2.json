@@ -1,0 +1,7 @@
+{
+  "id": "currntsmoke_mom_v2",
+  "display_name": "Do you currently smoke cigarettes?",
+  "description": "",
+  "type": "choices",
+  "domain": "currntsmoke_mom_v2_"
+}

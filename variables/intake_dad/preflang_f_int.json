@@ -1,0 +1,7 @@
+{
+  "id": "preflang_f_int",
+  "display_name": "What is your preferred language?",
+  "description": "",
+  "type": "choices",
+  "domain": "preflang_f_int_"
+}

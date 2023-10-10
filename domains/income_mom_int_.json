@@ -1,71 +1,51 @@
 [
   {
     "value": "1",
-    "display_name": "No income",
-    "description": ""
-  },
-  {
-    "value": "2",
     "display_name": "Less than $10,000",
     "description": ""
   },
   {
-    "value": "3",
+    "value": "2",
     "display_name": "$10,000- $19,999",
     "description": ""
   },
   {
-    "value": "4",
+    "value": "3",
     "display_name": "$20,000- $29,999",
     "description": ""
   },
   {
-    "value": "5",
+    "value": "4",
     "display_name": "$30,000- $39,999",
     "description": ""
   },
   {
+    "value": "5",
+    "display_name": "$40,000- $59,999",
+    "description": ""
+  },
+  {
     "value": "6",
-    "display_name": "$40,000- $49,999",
+    "display_name": "$60,000- $79,999",
     "description": ""
   },
   {
     "value": "7",
-    "display_name": "$50,000- $59,999",
+    "display_name": "$80,000- $99,999",
     "description": ""
   },
   {
     "value": "8",
-    "display_name": "$60,000- $69,999",
-    "description": ""
-  },
-  {
-    "value": "9",
-    "display_name": "$70,000- $79,999",
-    "description": ""
-  },
-  {
-    "value": "10",
-    "display_name": "$80,000- $89,999",
-    "description": ""
-  },
-  {
-    "value": "11",
-    "display_name": "$90,000- $99,999",
-    "description": ""
-  },
-  {
-    "value": "12",
     "display_name": "$100,000-$199,999",
     "description": ""
   },
   {
-    "value": "13",
+    "value": "9",
     "display_name": "More than $200,000",
     "description": ""
   },
   {
-    "value": "14",
+    "value": "10",
     "display_name": "Refused",
     "description": ""
   }

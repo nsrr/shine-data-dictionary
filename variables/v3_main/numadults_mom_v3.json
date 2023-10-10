@@ -1,0 +1,6 @@
+{
+  "id": "numadults_mom_v3",
+  "display_name": "Of those, not including yourself, how many are adults age 18 years or older?  Example: If mom, dad, and baby live in the home, the answer here is 1.",
+  "description": "",
+  "type": "numeric"
+}

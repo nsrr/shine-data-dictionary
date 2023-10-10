@@ -1,0 +1,7 @@
+{
+  "id": "prepreg_weight",
+  "display_name": "Maternal pre-pregnancy weight (kg)",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms"
+}

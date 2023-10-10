@@ -1,0 +1,7 @@
+{
+  "id": "behavior2_mom_v4",
+  "display_name": "When given two things to do, remembers only the first or last",
+  "description": "",
+  "type": "choices",
+  "domain": "behavior2_mom_v4_"
+}

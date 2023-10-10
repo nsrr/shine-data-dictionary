@@ -1,0 +1,22 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Only when he/she has a cold or allergies",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Sometimes",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Almost always",
+    "description": ""
+  }
+]

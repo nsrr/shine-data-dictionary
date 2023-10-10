@@ -1,0 +1,7 @@
+{
+  "id": "soda_mom_v4",
+  "display_name": "In the past 4 weeks, on average, how often did your child drink any regular sodas or soft drinks, including Manzanita, Penafiel, Coke, Pepsi, Dr. Pepper, or Mountain Dew? Do not include diet sodas.",
+  "description": "",
+  "type": "choices",
+  "domain": "soda_mom_v4_"
+}

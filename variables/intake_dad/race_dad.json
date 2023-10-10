@@ -1,0 +1,7 @@
+{
+  "id": "race_dad",
+  "display_name": "Father's race recategorized using race and ethnicity questions.",
+  "description": "",
+  "type": "choices",
+  "domain": "race_dad_"
+}

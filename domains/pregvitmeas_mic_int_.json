@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Days",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Weeks",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Months",
+    "description": ""
+  }
+]
