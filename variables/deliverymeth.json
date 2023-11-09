@@ -1,0 +1,7 @@
+{
+  "id": "deliverymeth",
+  "display_name": "Delivery Method",
+  "description": "",
+  "type": "choices",
+  "domain": "delivery"
+}

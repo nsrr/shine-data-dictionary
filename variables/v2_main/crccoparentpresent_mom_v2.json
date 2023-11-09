@@ -1,7 +1,0 @@
-{
-  "id": "crccoparentpresent_mom_v2",
-  "display_name": "CRC Observation: Was partner present while completing Co-Parent measure?",
-  "description": "",
-  "type": "choices",
-  "domain": "crccoparentpresent_mom_v2_"
-}

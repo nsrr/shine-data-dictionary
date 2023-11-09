@@ -1,0 +1,7 @@
+{
+  "id": "income_mom_sim",
+  "display_name": "Household annual income answered by mother",
+  "description": "Recoded mother income question. ",
+  "type": "choices",
+  "domain": "inc3"
+}

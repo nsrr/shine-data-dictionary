@@ -1,0 +1,6 @@
+{
+  "id": "numpplhouse_mom",
+  "display_name": "How many individuals are living in the household with the child, not including yourself?",
+  "description": "",
+  "type": "string"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "behavior21_mom",
+  "display_name": "Mood changes frequently",
+  "description": "Spanish: Tiene cambios frecuentes de humor",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

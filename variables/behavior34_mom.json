@@ -1,0 +1,7 @@
+{
+  "id": "behavior34_mom",
+  "display_name": "Leaves messes that others have to clean up even after instruction",
+  "description": "Spanish: Deja en desorden cosas que otros tienen que arreglar, incluso después de que se le ha ordenado arreglarlas",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

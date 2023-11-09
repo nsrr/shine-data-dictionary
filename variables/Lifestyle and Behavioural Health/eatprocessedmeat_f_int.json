@@ -1,7 +1,0 @@
-{
-  "id": "eatprocessedmeat_f_int",
-  "display_name": "Average frequency of eating any processed meat over the last 4 weeks - Father",
-  "description": "In the past 4 weeks, on average, how often did you eat any processed meat, such as bacon, lunch meats, or hot dogs? Include processed meats you had in sandwiches, soups, pizza, casseroles, and other mixtures. Processed meats are those preserved by smoking",
-  "type": "choices",
-  "domain": "eatprocessedmeat_f_int_"
-}

@@ -1,0 +1,6 @@
+{
+  "id": "numchildren_mom",
+  "display_name": "How many are children < 18 years of age, not including the enrolled child?",
+  "description": "",
+  "type": "string"
+}

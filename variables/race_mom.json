@@ -1,0 +1,7 @@
+{
+  "id": "race_mom",
+  "display_name": "Mother's race recategorized using race and ethnicity questions.",
+  "description": "Mother race/ethnicity. Recoded using mother race and ethnicity questions.",
+  "type": "choices",
+  "domain": "race"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "timeinusyrs_f_v2",
-  "display_name": "Number of years lived in the United States - Father",
-  "description": "In total, how many YEARS have you lived in the United States?",
-  "type": "choices",
-  "domain": "timeinusyrs_f_v2_"
-}

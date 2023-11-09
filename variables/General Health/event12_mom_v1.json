@@ -1,7 +1,0 @@
-{
-  "id": "event12_mom_v1",
-  "display_name": "None of the options above - Mother",
-  "description": "Has this event happened to you over the past year: None of the options above - Mother",
-  "type": "choices",
-  "domain": "event12_mom_v1_"
-}

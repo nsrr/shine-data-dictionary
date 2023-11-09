@@ -1,6 +1,0 @@
-{
-  "id": "borncountryother_f_v2",
-  "display_name": "If 'other' country of birth, specific country - Father",
-  "description": "If Other country, please specify:",
-  "type": "text"
-}

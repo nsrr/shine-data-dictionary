@@ -1,7 +1,0 @@
-{
-  "id": "brstmilk_mom_v3",
-  "display_name": "In the past week, how many times was your child usually fed breast milk in a 24-hour period? Please include breast feedings, or feeding pumped milk in bottles for meals, snacks, and night-time feedings.",
-  "description": "",
-  "type": "choices",
-  "domain": "brstmilk_mom_v3_"
-}

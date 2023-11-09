@@ -1,7 +1,0 @@
-{
-  "id": "smkduringpreg_mom_v1",
-  "display_name": "Smoke any cigarettes in any trimester of this pregnancy - Mother",
-  "description": "In any trimester of this pregnancy, did you smoke any cigarettes?",
-  "type": "choices",
-  "domain": "smkduringpreg_mom_v1_"
-}

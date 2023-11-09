@@ -1,7 +1,0 @@
-{
-  "id": "country_mom_v1",
-  "display_name": "Country of birth (excluding Puerto Rico, United States includes the 50 contiguous states) - Mother",
-  "description": "",
-  "type": "choices",
-  "domain": "country_mom_v1_"
-}

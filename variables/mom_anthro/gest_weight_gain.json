@@ -1,7 +1,0 @@
-{
-  "id": "gest_weight_gain",
-  "display_name": "Gestational weight gain (kg)",
-  "description": "",
-  "type": "numeric",
-  "units": "kilograms"
-}

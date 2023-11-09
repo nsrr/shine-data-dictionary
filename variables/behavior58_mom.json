@@ -1,0 +1,7 @@
+{
+  "id": "behavior58_mom",
+  "display_name": "Gets sidetracked during activities",
+  "description": "Spanish: Se distrae con facilidad durante las actividades",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

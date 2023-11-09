@@ -1,0 +1,7 @@
+{
+  "id": "behavior50_mom",
+  "display_name": "Acts overwhelmed or overstimulated in crowded, busy situations (such as lots of noise, activity, or people)",
+  "description": "Spanish: Las situaciones en que hay mucha gente, mucho ruido o demasiada actividad lo abruman o lo ponen hiperactivo",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

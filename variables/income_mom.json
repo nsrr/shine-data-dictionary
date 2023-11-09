@@ -1,0 +1,7 @@
+{
+  "id": "income_mom",
+  "display_name": "What is your household annual income?",
+  "description": "Household income reported by mother. ",
+  "type": "choices",
+  "domain": "inc9"
+}

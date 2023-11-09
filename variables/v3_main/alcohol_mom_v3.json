@@ -1,7 +1,0 @@
-{
-  "id": "alcohol_mom_v3",
-  "display_name": "...how often have you had 4 or more drinks containing alcohol in one day? One standard drink is about 1 small glass of wine (5 oz), 1 beer (12 oz), or 1 single shot of liquor?",
-  "description": "",
-  "type": "choices",
-  "domain": "alcohol_mom_v3_"
-}

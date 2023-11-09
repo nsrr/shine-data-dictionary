@@ -1,7 +1,0 @@
-{
-  "id": "childcare_mom_v3",
-  "display_name": "Since our last visit, has your baby spent time in childcare outside your home?",
-  "description": "",
-  "type": "choices",
-  "domain": "childcare_mom_v3_"
-}

@@ -1,0 +1,6 @@
+{
+  "id": "borncountryother_f",
+  "display_name": "If \"Other\" country, please specify",
+  "description": "",
+  "type": "string"
+}

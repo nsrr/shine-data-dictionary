@@ -1,7 +1,0 @@
-{
-  "id": "nomoneyfood_mom_v1",
-  "display_name": "Food bought didn't last and money not available to buy more, within the last 12 months - Mother",
-  "description": "Within the past 12 months the food we bought just didn't last and we didn't have money to get more",
-  "type": "choices",
-  "domain": "nomoneyfood_mom_v1_"
-}

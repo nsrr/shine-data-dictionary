@@ -1,7 +1,0 @@
-{
-  "id": "strenex_f_int",
-  "display_name": "Frequency of strenuous exercise in the past 4 weeks - Father",
-  "description": "Srenuous exercise (heart beats rapidly) (e.g., running, jogging, hockey, football, soccer, squash, basketball, cross country skiing, judo, roller skating, vigorous swimming, vigorous long distance bicycling)",
-  "type": "choices",
-  "domain": "strenex_f_int_"
-}

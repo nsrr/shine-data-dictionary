@@ -1,7 +1,0 @@
-{
-  "id": "v1souncesinbottle",
-  "display_name": "Average ounces in each bottle",
-  "description": "On average, how many ounces does each bottle contain?",
-  "type": "choices",
-  "domain": "v1souncesinbottle_"
-}

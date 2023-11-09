@@ -1,0 +1,7 @@
+{
+  "id": "behavior28_mom",
+  "display_name": "Is impulsive",
+  "description": "Spanish: Es impulsivo",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

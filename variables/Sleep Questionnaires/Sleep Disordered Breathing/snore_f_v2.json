@@ -1,7 +1,0 @@
-{
-  "id": "snore_f_v2",
-  "display_name": "Snoring frequency during the last  weeks - Father",
-  "description": "Thinking back on the LAST 4 WEEKS, how often did you snore?",
-  "type": "choices",
-  "domain": "snore_f_v2_"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "childdoctor_f_v3",
-  "display_name": "Did you take your child to the doctor in the past year?",
-  "description": "",
-  "type": "choices",
-  "domain": "childdoctor_f_v3_"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "wkparentleave_f_int",
-  "display_name": "Length of parental leave in weeks - Father",
-  "description": "",
-  "type": "numeric",
-  "units": "weeks"
-}

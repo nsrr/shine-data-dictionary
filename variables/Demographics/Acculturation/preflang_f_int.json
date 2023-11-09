@@ -1,7 +1,0 @@
-{
-  "id": "preflang_f_int",
-  "display_name": "Preferred language - Father",
-  "description": "What is your preferred language?",
-  "type": "choices",
-  "domain": "preflang_f_int_"
-}

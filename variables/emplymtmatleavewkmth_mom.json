@@ -1,0 +1,7 @@
+{
+  "id": "emplymtmatleavewkmth_mom",
+  "display_name": "Is this in weeks or months?",
+  "description": "",
+  "type": "choices",
+  "domain": "timeunit2"
+}

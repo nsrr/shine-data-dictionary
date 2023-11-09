@@ -1,7 +1,0 @@
-{
-  "id": "furanimalhome_mom_v1",
-  "display_name": "Presence of dogs, cats or other small furry animals, such as a rabbit, guinea pig or hamster, live or spend time inside the home in the last 12 months - Mother",
-  "description": "In the last 12 months, did any dogs, cats or other small furry animals, such as a rabbit, guinea pig or hamster, live or spend time inside your home?",
-  "type": "choices",
-  "domain": "furanimalhome_mom_v1_"
-}

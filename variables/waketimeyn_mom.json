@@ -1,0 +1,7 @@
+{
+  "id": "waketimeyn_mom",
+  "display_name": "Does your child have a usual time of waking up in the morning?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0"
+}

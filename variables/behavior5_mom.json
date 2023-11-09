@@ -1,0 +1,7 @@
+{
+  "id": "behavior5_mom",
+  "display_name": "Becomes upset with new situations",
+  "description": "Spanish: Se altera frente a situaciones nuevas",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

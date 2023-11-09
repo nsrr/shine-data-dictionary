@@ -1,7 +1,0 @@
-{
-  "id": "wakeup_mom_v4",
-  "display_name": "Did you wake up several times at night?",
-  "description": "",
-  "type": "choices",
-  "domain": "wakeup_mom_v4_"
-}

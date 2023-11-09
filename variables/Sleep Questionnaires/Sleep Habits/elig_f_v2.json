@@ -1,7 +1,0 @@
-{
-  "id": "elig_f_v2",
-  "display_name": "Sleep in the same home as the child at least 1 night a week - Father",
-  "description": "Do you sleep in the same home as your child at least 1 night a week?",
-  "type": "choices",
-  "domain": "elig_f_v2_"
-}

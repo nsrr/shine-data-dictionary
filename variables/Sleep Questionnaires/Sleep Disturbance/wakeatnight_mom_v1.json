@@ -1,7 +1,0 @@
-{
-  "id": "wakeatnight_mom_v1",
-  "display_name": "Baby typically wakes during the night",
-  "description": "Does your baby typically wake during the night?",
-  "type": "choices",
-  "domain": "wakeatnight_mom_v1_"
-}

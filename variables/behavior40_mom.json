@@ -1,0 +1,7 @@
+{
+  "id": "behavior40_mom",
+  "display_name": "Has trouble \"joining in\" at unfamiliar social events (such as birthday parties, picnics, holiday gatherings)",
+  "description": "Spanish: Tiene dificultades para \"adaptarse\" en los eventos sociales que no le son familiares (como las fiestas de cumpleaños,  los picnics y las reuniones de ocasiones festivas)",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

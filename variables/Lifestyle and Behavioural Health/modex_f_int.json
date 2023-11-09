@@ -1,7 +1,0 @@
-{
-  "id": "modex_f_int",
-  "display_name": "Frequency of moderate exercise in the past 4 weeks - Father",
-  "description": "Moderate exercise (not exhausting) (e.g., fast walking, baseball, tennis, easy bicycling, volleyball, badminton, easy swimming, alpine skiing, popular and folk dancing)",
-  "type": "choices",
-  "domain": "modex_f_int_"
-}

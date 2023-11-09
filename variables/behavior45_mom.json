@@ -1,0 +1,7 @@
+{
+  "id": "behavior45_mom",
+  "display_name": "Resists change of routine, foods, places, etc.",
+  "description": "Spanish: Se resiste a los cambios de rutina, alimentos, lugares, etc.",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "hourswbaby_f_v2",
-  "display_name": "Hours spent with the baby last week - Father",
-  "description": "What is the total number of hours you spent with your baby last week? (hours/week)",
-  "type": "numeric",
-  "units": "hours"
-}

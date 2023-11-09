@@ -1,7 +1,0 @@
-{
-  "id": "eatfastfood_f_v3",
-  "display_name": "In the past 4 weeks, on average, how often did you eat something from a fast food restaurant? Examples: McDonald's, Burger King, Taco Bell, Dunkin Donuts, Chipotle, Dominos",
-  "description": "",
-  "type": "choices",
-  "domain": "eatfastfood_f_v3_"
-}

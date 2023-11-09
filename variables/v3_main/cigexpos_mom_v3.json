@@ -1,7 +1,0 @@
-{
-  "id": "cigexpos_mom_v3",
-  "display_name": "Since your child was born, on average, how many hours per week has your child been exposed to cigarette smoke?   Please include time spent at home, in restaurants, and in day care",
-  "description": "",
-  "type": "choices",
-  "domain": "cigexpos_mom_v3_"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "babycries_mom_v1",
-  "display_name": "Level of crying since birth, in comparison with other babies of his/her age",
-  "description": "Since birth, how much do you feel that your baby cries in comparison with other babies of his/her age?",
-  "type": "choices",
-  "domain": "babycries_mom_v1_"
-}

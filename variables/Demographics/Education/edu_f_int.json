@@ -1,7 +1,0 @@
-{
-  "id": "edu_f_int",
-  "display_name": "Highest level of education completed - Father",
-  "description": "What is the highest level of education you completed?",
-  "type": "choices",
-  "domain": "edu_f_int_"
-}

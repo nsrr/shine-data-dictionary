@@ -1,0 +1,7 @@
+{
+  "id": "gest_weight_gain",
+  "display_name": "Maternal gestational weight gain",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms (kg)"
+}

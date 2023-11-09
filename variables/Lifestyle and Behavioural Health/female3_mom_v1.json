@@ -1,7 +1,0 @@
-{
-  "id": "female3_mom_v1",
-  "display_name": "Number of hours female cargiver spent alone with the baby last week (mother not present)",
-  "description": "What is the total number of hours she spent with your baby last week? (hours)",
-  "type": "numeric",
-  "units": "hours"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "behavior4_mom",
+  "display_name": "When instructed to clean up, puts things away in a disorganized, random way",
+  "description": "Spanish: Cuando se le ordena recoger sus cosas, las guarda de manera desorganizada y desordenada",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

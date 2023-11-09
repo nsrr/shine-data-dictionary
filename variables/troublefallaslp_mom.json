@@ -1,0 +1,7 @@
+{
+  "id": "troublefallaslp_mom",
+  "display_name": "Did you have trouble falling asleep?",
+  "description": "",
+  "type": "choices",
+  "domain": "weeklyfreq"
+}

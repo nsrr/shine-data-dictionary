@@ -1,0 +1,7 @@
+{
+  "id": "smkduringpreg_mom",
+  "display_name": "Smoke any cigarettes during pregnancy?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0"
+}

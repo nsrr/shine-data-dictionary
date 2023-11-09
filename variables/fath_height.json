@@ -1,0 +1,7 @@
+{
+  "id": "fath_height",
+  "display_name": "Fathers height",
+  "description": "",
+  "type": "numeric",
+  "units": "centimeter (cm)"
+}

@@ -1,0 +1,6 @@
+{
+  "id": "numadults_mom",
+  "display_name": "Of those, not including yourself, how many are adults age 18 years or older?",
+  "description": "",
+  "type": "string"
+}

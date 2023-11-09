@@ -1,0 +1,7 @@
+{
+  "id": "babysharebd_mom",
+  "display_name": "How frequently do you share a bed with\nyour baby at night?",
+  "description": "",
+  "type": "choices",
+  "domain": "nightpwk"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "income_mom_sim",
-  "display_name": "Household annual income answered by mother (3 categories)",
-  "description": "",
-  "type": "choices",
-  "domain": "income_mom_sim_"
-}

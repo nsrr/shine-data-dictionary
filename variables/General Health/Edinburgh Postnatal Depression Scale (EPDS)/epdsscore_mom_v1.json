@@ -1,6 +1,0 @@
-{
-  "id": "epdsscore_mom_v1",
-  "display_name": "Edinburgh Postnatal Depression Scale (EPDS): Total score",
-  "description": "Summary score from the Edinburgh Postnatal Depression Scale (EPDS) [Schaper et al. (PMID: 7996526)](https://pubmed.ncbi.nlm.nih.gov/7996526/)<br><br>[Search for all EPDS variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=epds)",
-  "type": "numeric"
-}

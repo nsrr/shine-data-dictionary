@@ -1,7 +1,0 @@
-{
-  "id": "langspfrnd_mom_v1",
-  "display_name": "Languages you usually speak with your friends - Mother",
-  "description": "What language(s) do you usually speak with your friends?",
-  "type": "choices",
-  "domain": "langspfrnd_mom_v1_"
-}

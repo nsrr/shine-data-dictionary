@@ -1,0 +1,7 @@
+{
+  "id": "behavior14_mom",
+  "display_name": "When sent to get something, forgets what he/she is supposed to get",
+  "description": "Spanish: Cuando se le pide que traiga algo, se olvida de qué es lo que debía traer",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

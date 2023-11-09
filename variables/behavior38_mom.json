@@ -1,0 +1,7 @@
+{
+  "id": "behavior38_mom",
+  "display_name": "Does not realize that certain actions bother others",
+  "description": "Spanish: No se da cuenta de que algunas acciones molestan a los demás",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

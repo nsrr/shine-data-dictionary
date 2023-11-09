@@ -1,0 +1,7 @@
+{
+  "id": "behavior33_mom",
+  "display_name": "Does not notice when his/her behavior causes negative reactions",
+  "description": "Spanish: No se da cuenta cuando su comportamiento provoca reacciones negativas",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "behavior44_mom_v4",
-  "display_name": "Cannot find things in room or play area even when given specific instructions",
-  "description": "",
-  "type": "choices",
-  "domain": "behavior44_mom_v4_"
-}

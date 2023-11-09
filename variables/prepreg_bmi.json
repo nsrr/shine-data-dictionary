@@ -1,0 +1,7 @@
+{
+  "id": "prepreg_bmi",
+  "display_name": "Maternal pre-pregnancy BMI",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meter squared (kg/m2)"
+}

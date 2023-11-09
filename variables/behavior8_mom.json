@@ -1,0 +1,7 @@
+{
+  "id": "behavior8_mom",
+  "display_name": "Does not stop laughing at funny things or events when others stop",
+  "description": "Spanish: No deja de reírse de las cosas o situaciones graciosas cuando los demás han dejado de hacerlo",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

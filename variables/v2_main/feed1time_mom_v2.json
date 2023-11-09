@@ -1,7 +1,0 @@
-{
-  "id": "feed1time_mom_v2",
-  "display_name": "Is the number above Days, Weeks, or Months?",
-  "description": "",
-  "type": "choices",
-  "domain": "feed1time_mom_v2_"
-}

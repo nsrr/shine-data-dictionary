@@ -1,7 +1,0 @@
-{
-  "id": "langthink_mom_v1",
-  "display_name": "Languages you usually think in - Mother",
-  "description": "In which language(s) do you usually think?",
-  "type": "choices",
-  "domain": "langthink_mom_v1_"
-}

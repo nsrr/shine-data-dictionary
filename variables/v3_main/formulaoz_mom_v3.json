@@ -1,7 +1,0 @@
-{
-  "id": "formulaoz_mom_v3",
-  "display_name": "In the past week, how many ounces of formula did your child drink in an average day (24-hour period)?",
-  "description": "",
-  "type": "choices",
-  "domain": "formulaoz_mom_v3_"
-}

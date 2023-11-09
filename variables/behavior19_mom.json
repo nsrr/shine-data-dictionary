@@ -1,0 +1,7 @@
+{
+  "id": "behavior19_mom",
+  "display_name": "Cannot find clothes, shoes, toys or books even when he/she has been given specific instructions",
+  "description": "Spanish: No logra encontrar la ropa, los zapatos, los juguetes o los libros, incluso cuando se le han dado instrucciones específicas.",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "behavior32_mom",
+  "display_name": "Needs help from an adult to stay on task",
+  "description": "Spanish: Necesita la ayuda de un adulto para concentrarse cuando está realizando una tarea",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

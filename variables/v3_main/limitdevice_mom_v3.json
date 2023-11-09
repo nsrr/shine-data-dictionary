@@ -1,7 +1,0 @@
-{
-  "id": "limitdevice_mom_v3",
-  "display_name": "I try to limit how much I use a mobile device (e.g., cell phone, laptop) when I am with my child",
-  "description": "",
-  "type": "choices",
-  "domain": "limitdevice_mom_v3_"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "waketofeed_mom_v1",
-  "display_name": "Frequency of waking your baby during the night to feed him/her",
-  "description": "How often do you wake your baby during the night to feed him/her?",
-  "type": "choices",
-  "domain": "waketofeed_mom_v1_"
-}

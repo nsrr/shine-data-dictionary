@@ -1,0 +1,7 @@
+{
+  "id": "edu_f",
+  "display_name": "What is the highest level of education you completed?",
+  "description": "Father's highest level of education. Recoded to collapse small cells for NSRR.",
+  "type": "choices",
+  "domain": "educ_f"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "stridor_mom_v1",
-  "display_name": "Since birth, has the baby had stridor",
-  "description": "",
-  "type": "choices",
-  "domain": "stridor_mom_v1_"
-}

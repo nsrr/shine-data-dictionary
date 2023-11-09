@@ -1,7 +1,0 @@
-{
-  "id": "smokexphome_mom_v1",
-  "display_name": "Any of the other people living in the home regularly (often) smoke cigarettes, cigars or pipes in the baby's presence",
-  "description": "Do any of the other people living in your home regularly (often) smoke cigarettes, cigars or pipes in your baby's presence?",
-  "type": "choices",
-  "domain": "smokexphome_mom_v1_"
-}

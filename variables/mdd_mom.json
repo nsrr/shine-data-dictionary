@@ -1,0 +1,7 @@
+{
+  "id": "mdd_mom",
+  "display_name": "Depression during pregnancy",
+  "description": "",
+  "type": "choices",
+  "domain": "yes0no1"
+}

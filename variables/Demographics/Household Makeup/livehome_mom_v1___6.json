@@ -1,7 +1,0 @@
-{
-  "id": "livehome_mom_v1___6",
-  "display_name": "No one living in the household with the baby",
-  "description": "Who is living in the household with the baby? (select all that apply) (choice=No one (live alone))",
-  "type": "choices",
-  "domain": "livehome_mom_v1___6_"
-}

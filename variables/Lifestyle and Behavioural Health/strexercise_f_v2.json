@@ -1,7 +1,0 @@
-{
-  "id": "strexercise_f_v2",
-  "display_name": "Average weekly frequency of strenuous exercise - Father",
-  "description": "During a typical 7-day period (a week), how many times on the average do you do the following kinds of exercise for more than 15 minutes during your free time: STRENUOUS EXERCISE (HEART BEATS RAPIDLY) (e.g., running, jogging, hockey, football, soccer, squash, basketball, cross country skiing, judo, roller skating, vigorous swimming, vigorous long distance bicycling)",
-  "type": "choices",
-  "domain": "strexercise_f_v2_"
-}

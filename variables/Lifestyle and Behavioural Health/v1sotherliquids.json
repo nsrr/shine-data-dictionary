@@ -1,7 +1,0 @@
-{
-  "id": "v1sotherliquids",
-  "display_name": "Liquids other than breastmilk or formula given to your baby since birth",
-  "description": "Since birth, have you given your baby liquids other than breastmilk or formula to drink?",
-  "type": "choices",
-  "domain": "v1sotherliquids_"
-}

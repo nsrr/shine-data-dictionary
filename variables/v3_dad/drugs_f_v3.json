@@ -1,7 +1,0 @@
-{
-  "id": "drugs_f_v3",
-  "display_name": "In the past 12 months, how often have you used any drugs including marijuana, cocaine or crack, heroin, methamphetamine (crystal meth), hallucinogens, ecstasy/MDMA?",
-  "description": "",
-  "type": "choices",
-  "domain": "drugs_f_v3_"
-}

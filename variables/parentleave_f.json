@@ -1,0 +1,7 @@
+{
+  "id": "parentleave_f",
+  "display_name": "If you are employed full or part-time, are you takingpaternity leave?",
+  "description": "Father taking paternity leave. ",
+  "type": "choices",
+  "domain": "yes0no1"
+}

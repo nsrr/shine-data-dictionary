@@ -1,7 +1,0 @@
-{
-  "id": "movepastyr_mom_v3",
-  "display_name": "Have you moved within the past year? (i.e., since enrolling in the study)",
-  "description": "",
-  "type": "choices",
-  "domain": "movepastyr_mom_v3_"
-}

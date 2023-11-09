@@ -1,7 +1,0 @@
-{
-  "id": "langsphome_mom_v1",
-  "display_name": "Languages you usually speak at home - Mother",
-  "description": "What language(s) do you usually speak at home?",
-  "type": "choices",
-  "domain": "langsphome_mom_v1_"
-}

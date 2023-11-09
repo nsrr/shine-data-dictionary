@@ -1,7 +1,0 @@
-{
-  "id": "country_mom_v1",
-  "display_name": "In what country were you born? (United States includes the 50 contiguous states, do not include Puerto Rico)",
-  "description": "",
-  "type": "choices",
-  "domain": "country_mom_v1_"
-}

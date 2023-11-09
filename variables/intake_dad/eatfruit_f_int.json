@@ -1,7 +1,0 @@
-{
-  "id": "eatfruit_f_int",
-  "display_name": "In the past 4 weeks, on average, how often did you eat fruit (including fresh, frozen or canned fruit)? Do NOT include fruit juice or dried fruits.",
-  "description": "",
-  "type": "choices",
-  "domain": "eatfruit_f_int_"
-}

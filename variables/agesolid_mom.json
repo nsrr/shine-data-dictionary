@@ -1,0 +1,8 @@
+{
+  "id": "agesolid_mom",
+  "display_name": "At what age did you introduce solid foods to your child?",
+  "description": "",
+  "type": "choices",
+  "domain": "solidfood",
+  "units": "months"
+}

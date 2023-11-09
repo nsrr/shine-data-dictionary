@@ -1,0 +1,6 @@
+{
+  "id": "nsrrid",
+  "display_name": "NSRR subject identifier.",
+  "description": "The National Sleep Research Resource (NSRR) subject identifier links the subject's data and files. This can be linked to original participant_id using the 'key' file. ",
+  "type": "identifier"
+}

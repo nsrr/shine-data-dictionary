@@ -1,7 +1,0 @@
-{
-  "id": "chol_f_v2",
-  "display_name": "Doctor diagnosed high Cholesterol - Father",
-  "description": "Have you ever been told by your doctor that you have high Cholesterol?",
-  "type": "choices",
-  "domain": "chol_f_v2_"
-}

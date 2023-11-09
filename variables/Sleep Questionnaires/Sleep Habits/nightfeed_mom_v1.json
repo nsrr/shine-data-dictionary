@@ -1,6 +1,0 @@
-{
-  "id": "nightfeed_mom_v1",
-  "display_name": "Number of times baby is fed during the night",
-  "description": "How many times during the night do you feed your baby?",
-  "type": "numeric"
-}

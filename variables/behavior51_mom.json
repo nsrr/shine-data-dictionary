@@ -1,0 +1,7 @@
+{
+  "id": "behavior51_mom",
+  "display_name": "Has trouble getting started on activities or tasks even after instructed",
+  "description": "Spanish: Tiene dificultades para comenzar actividades o tareas, incluso después de haber recibido instrucciones",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

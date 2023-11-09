@@ -1,7 +1,0 @@
-{
-  "id": "income_mom_int",
-  "display_name": "What is your household annual income?",
-  "description": "",
-  "type": "choices",
-  "domain": "income_mom_int_"
-}

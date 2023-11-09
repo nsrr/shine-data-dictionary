@@ -1,7 +1,0 @@
-{
-  "id": "tvbabyslp_mom_v1",
-  "display_name": "Television in the room where your baby sleeps",
-  "description": "Is there a television in the room where your baby sleeps?",
-  "type": "choices",
-  "domain": "tvbabyslp_mom_v1_"
-}

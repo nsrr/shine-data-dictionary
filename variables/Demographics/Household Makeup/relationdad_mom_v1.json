@@ -1,7 +1,0 @@
-{
-  "id": "relationdad_mom_v1",
-  "display_name": "Mothers relationship with the baby's biological father",
-  "description": "",
-  "type": "choices",
-  "domain": "relationdad_mom_v1_"
-}

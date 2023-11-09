@@ -1,7 +1,0 @@
-{
-  "id": "sleepquality_f_v2",
-  "display_name": "Quality of typical night's sleep during the last 4 weeks - Father",
-  "description": "Overall, how was your typical night's sleep during the LAST 4 WEEKS?",
-  "type": "choices",
-  "domain": "sleepquality_f_v2_"
-}

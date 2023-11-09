@@ -1,0 +1,7 @@
+{
+  "id": "behavior31_mom",
+  "display_name": "Angry or tearful outbursts are intense but end suddenly",
+  "description": "Spanish: Tiene arranques intensos de ira o de llanto, pero estos terminan repentinamente",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

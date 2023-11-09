@@ -1,0 +1,7 @@
+{
+  "id": "behavior60_mom",
+  "display_name": "Becomes too silly",
+  "description": "Spanish: Se pone demasiado necio",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "behavior1_mom",
+  "display_name": "Overreacts to small problems",
+  "description": "Spanish: Reacciona de manera exagerada antes los problemas pequeños",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

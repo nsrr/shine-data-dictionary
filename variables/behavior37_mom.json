@@ -1,0 +1,7 @@
+{
+  "id": "behavior37_mom",
+  "display_name": "Forgets what he/she is doing in middle of an activity",
+  "description": "Spanish: En plena actividad, se olvida de lo que estaba haciendo",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

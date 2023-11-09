@@ -1,7 +1,0 @@
-{
-  "id": "vitdyn_v1",
-  "display_name": "Baby ever given vitamin D drops",
-  "description": "Have you given baby vitamin D drops?",
-  "type": "choices",
-  "domain": "vitdyn_v1_"
-}

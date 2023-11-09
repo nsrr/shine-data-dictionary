@@ -1,7 +1,0 @@
-{
-  "id": "drinkenergy_f_v2",
-  "display_name": "Average frequency of drinking energy drinks over the last 4 weeks - Father",
-  "description": "In the past 4 weeks, on average, how often did you drink energy drinks such as Red Bull, Monster, or Rockstar?",
-  "type": "choices",
-  "domain": "drinkenergy_f_v2_"
-}

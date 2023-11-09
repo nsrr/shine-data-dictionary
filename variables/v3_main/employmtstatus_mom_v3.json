@@ -1,7 +1,0 @@
-{
-  "id": "employmtstatus_mom_v3",
-  "display_name": "Currently, are you...?",
-  "description": "",
-  "type": "choices",
-  "domain": "employmtstatus_mom_v3_"
-}

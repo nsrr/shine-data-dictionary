@@ -1,7 +1,0 @@
-{
-  "id": "v1sformula",
-  "display_name": "Feeding baby infant formula since last interaction",
-  "description": "Since we last spoke with you, have you fed your baby any infant formula?",
-  "type": "choices",
-  "domain": "v1sformula_"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "countrymnths_mom_v1",
-  "display_name": "Number of months lived in the United States - Mother",
-  "description": "In total, how many months have you lived in the United States?",
-  "type": "numeric",
-  "units": "months"
-}

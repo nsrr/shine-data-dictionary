@@ -1,7 +1,0 @@
-{
-  "id": "female1_mom_v1",
-  "display_name": "Female caregiver lives in the household",
-  "description": "Does she live in your household?",
-  "type": "choices",
-  "domain": "female1_mom_v1_"
-}

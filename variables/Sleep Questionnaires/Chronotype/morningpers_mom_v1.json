@@ -1,7 +1,0 @@
-{
-  "id": "morningpers_mom_v1",
-  "display_name": "Morning or evening person - Mother",
-  "description": "One hears about morning and evening types of people. Which ONE of these types do you consider yourself to be?",
-  "type": "choices",
-  "domain": "morningpers_mom_v1_"
-}

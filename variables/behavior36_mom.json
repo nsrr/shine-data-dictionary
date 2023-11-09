@@ -1,0 +1,7 @@
+{
+  "id": "behavior36_mom",
+  "display_name": "Reacts more strongly to situations than other children",
+  "description": "Spanish: Reacciona ante las situaciones con mayor intensidad que los demás niños",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "caffne_mom_v1",
-  "display_name": "Average frequency of drinking iced or hot coffee or tea containing caffeine in the last 4 weeks (do not include decaffeinated coffee or tea) - Mother",
-  "description": "",
-  "type": "choices",
-  "domain": "caffne_mom_v1_"
-}

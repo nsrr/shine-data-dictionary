@@ -1,7 +1,0 @@
-{
-  "id": "eatsweets_f_int",
-  "display_name": "Average frequency of eating how often did you eat doughnuts, sweet rolls, Danish, muffins, pan dulce, poptarts, cookies, brownies, pies, or cake, excluding sugar-free items, over the last 4 weeks - Father",
-  "description": "In the past 4 weeks, on average, how often did you eat doughnuts, sweet rolls, Danish, muffins, pan dulce, poptarts, cookies, brownies, pies, or cake? Do NOT include sugar-free items.",
-  "type": "choices",
-  "domain": "eatsweets_f_int_"
-}

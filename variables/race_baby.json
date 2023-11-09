@@ -1,0 +1,7 @@
+{
+  "id": "race_baby",
+  "display_name": "Baby's race recategorized using race and ethnicity questions.",
+  "description": "Infant race/ethnicity. Recoded using infant race and ethnicity questions. ",
+  "type": "choices",
+  "domain": "race"
+}

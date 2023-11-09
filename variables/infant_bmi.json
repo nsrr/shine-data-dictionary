@@ -1,0 +1,7 @@
+{
+  "id": "infant_bmi",
+  "display_name": "Infant BMI",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms per meter squared (kg/m2)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "cryprob_mom",
+  "display_name": "Since birth, how much do you feel that his/her crying has been a problem?",
+  "description": "",
+  "type": "choices",
+  "domain": "not_some_lot"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "borncountry_f_v2",
-  "display_name": "Country of birth - Father",
-  "description": "In what country were you born?",
-  "type": "choices",
-  "domain": "borncountry_f_v2_"
-}

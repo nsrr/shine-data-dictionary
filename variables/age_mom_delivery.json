@@ -1,0 +1,7 @@
+{
+  "id": "age_mom_delivery",
+  "display_name": "Mother's age at delivery",
+  "description": "",
+  "type": "numeric",
+  "units": "years"
+}

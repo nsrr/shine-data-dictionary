@@ -1,6 +1,0 @@
-{
-  "id": "numpplhouse_mom_v3",
-  "display_name": "How many individuals are living in the household with the child, not including yourself?  Example: If mom, dad, and baby live in the home, the answer here is 1.",
-  "description": "",
-  "type": "numeric"
-}

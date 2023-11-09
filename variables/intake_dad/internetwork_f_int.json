@@ -1,7 +1,0 @@
-{
-  "id": "internetwork_f_int",
-  "display_name": "Do you have internet access at work?",
-  "description": "",
-  "type": "choices",
-  "domain": "internetwork_f_int_"
-}

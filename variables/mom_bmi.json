@@ -1,0 +1,6 @@
+{
+  "id": "mom_bmi",
+  "display_name": "Maternal BMI",
+  "description": "",
+  "type": "numeric"
+}

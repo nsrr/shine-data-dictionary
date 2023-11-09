@@ -1,7 +1,0 @@
-{
-  "id": "sleepdur_mom_v1",
-  "display_name": "Longest stretch of time baby is asleep during the night without waking up - Mother",
-  "description": "On a typical night, what is the longest stretch of time that your baby is asleep during the night without waking up? (in hours)",
-  "type": "text",
-  "units": "hours"
-}

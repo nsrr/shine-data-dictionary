@@ -1,0 +1,7 @@
+{
+  "id": "country_mom",
+  "display_name": "In what country were you born?\n",
+  "description": "",
+  "type": "choices",
+  "domain": "born_us"
+}

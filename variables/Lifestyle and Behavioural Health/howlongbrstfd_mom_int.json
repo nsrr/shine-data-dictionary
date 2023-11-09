@@ -1,7 +1,0 @@
-{
-  "id": "howlongbrstfd_mom_int",
-  "display_name": "Planned duration of breastfeeding baby (in months) - Mother",
-  "description": "How long do you plan to breastfeed your baby? (in month)",
-  "type": "numeric",
-  "units": "months"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "v1sbreastfd",
-  "display_name": "Baby breastfed since birth",
-  "description": "Since your baby was born, has your baby been breast fed?",
-  "type": "choices",
-  "domain": "v1sbreastfd_"
-}

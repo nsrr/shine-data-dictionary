@@ -1,7 +1,0 @@
-{
-  "id": "male3_mom_v1",
-  "display_name": "Male caregiver is the biological father of the baby",
-  "description": "Is he the biological father of your baby?",
-  "type": "choices",
-  "domain": "male3_mom_v1_"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "sleepdisorder12_mom",
+  "display_name": "Has a teacher or other caregiver commented that your child appears sleepy during the day?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0unk2"
+}

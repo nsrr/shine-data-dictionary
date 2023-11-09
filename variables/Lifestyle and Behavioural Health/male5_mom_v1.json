@@ -1,7 +1,0 @@
-{
-  "id": "male5_mom_v1",
-  "display_name": "Number of hours male cargiver spent with the baby last week",
-  "description": "What is the total number of hours he spent with your baby last week without you being present? (hours)",
-  "type": "numeric",
-  "units": "hours"
-}

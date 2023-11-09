@@ -1,7 +1,0 @@
-{
-  "id": "htn_f_v2",
-  "display_name": "Doctor diagnosed Hypertension (high blood pressure) - Father",
-  "description": "Have you ever been told by your doctor that you have Hypertension (high blood pressure)?",
-  "type": "choices",
-  "domain": "htn_f_v2_"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "specialobj_mom",
+  "display_name": "In the past week, how often did your child need a special object to fall asleep (pacifier, doll, special blanket, etc.)?",
+  "description": "",
+  "type": "choices",
+  "domain": "nightpwk"
+}

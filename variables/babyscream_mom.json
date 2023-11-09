@@ -1,0 +1,7 @@
+{
+  "id": "babyscream_mom",
+  "display_name": "Has your baby ever had times when he/she appears to be in agony, screams, draws his/her legs up to his/her body, and can't be calmed?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0"
+}

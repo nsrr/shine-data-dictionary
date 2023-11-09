@@ -1,7 +1,0 @@
-{
-  "id": "v1sformulatype",
-  "display_name": "Type of formula baby is fed",
-  "description": "What type of formula do you feed your baby?",
-  "type": "choices",
-  "domain": "v1sformulatype_"
-}

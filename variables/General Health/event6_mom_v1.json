@@ -1,7 +1,0 @@
-{
-  "id": "event6_mom_v1",
-  "display_name": "Moved to a worse residence or neighborhood - Mother",
-  "description": "Has this event happened to you over the past year: Moved to a worse residence or neighborhood - Mother",
-  "type": "choices",
-  "domain": "event6_mom_v1_"
-}

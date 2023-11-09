@@ -1,0 +1,7 @@
+{
+  "id": "infant_weight",
+  "display_name": "infant birth weight",
+  "description": "",
+  "type": "numeric",
+  "units": "kilograms (kg)"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "eatfastfood_f_int",
-  "display_name": "Average frequency of eating something from a fast food restaurant over the last 4 weeks - Father",
-  "description": "In the past 4 weeks, on average, how often did you eat something from a fast food restaurant? Examples: McDonald's, Burger King, Taco Bell",
-  "type": "choices",
-  "domain": "eatfastfood_f_int_"
-}

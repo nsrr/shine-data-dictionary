@@ -1,0 +1,7 @@
+{
+  "id": "behavior56_mom",
+  "display_name": "Completes tasks or activities too quickly",
+  "description": "Spanish: Termina las tareas o actividades con demasiada rapidez",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

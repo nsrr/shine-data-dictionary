@@ -1,7 +1,0 @@
-{
-  "id": "specialobj_mom_v4",
-  "display_name": "In the past week, how often did your child need a special object to fall asleep (pacifier, doll, special blanket, etc.)? Again, think back to before the coronavirus.",
-  "description": "",
-  "type": "choices",
-  "domain": "specialobj_mom_v4_"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "behavior16_mom",
+  "display_name": "Has outbursts for little reason",
+  "description": "Spanish: Le dan arrebatos sin mucha razón",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

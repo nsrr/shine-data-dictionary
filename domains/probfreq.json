@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Not a problem at all",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Rarely a problem",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Somewhat of a problem",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Often a problem",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Definitely a problem",
+    "description": ""
+  }
+]

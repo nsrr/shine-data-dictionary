@@ -1,0 +1,7 @@
+{
+  "id": "babyslpsafe_mom",
+  "display_name": "Do you feel that your baby is safe in his/her room at night?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0"
+}

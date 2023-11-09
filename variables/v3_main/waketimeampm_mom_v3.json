@@ -1,7 +1,0 @@
-{
-  "id": "waketimeampm_mom_v3",
-  "display_name": "Is this AM or PM?",
-  "description": "",
-  "type": "choices",
-  "domain": "waketimeampm_mom_v3_"
-}

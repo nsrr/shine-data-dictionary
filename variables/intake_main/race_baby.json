@@ -1,7 +1,0 @@
-{
-  "id": "race_baby",
-  "display_name": "Baby's race recategorized using race and ethnicity questions.",
-  "description": "",
-  "type": "choices",
-  "domain": "race_baby_"
-}

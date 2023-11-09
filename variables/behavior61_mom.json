@@ -1,0 +1,7 @@
+{
+  "id": "behavior61_mom",
+  "display_name": "Has a short attention span",
+  "description": "Spanish: Su capacidad de concentración es muy baja",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

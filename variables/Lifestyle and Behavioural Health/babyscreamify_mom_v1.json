@@ -1,7 +1,0 @@
-{
-  "id": "babyscreamify_mom_v1",
-  "display_name": "Frequency of the baby being in agony, screaming, drawing his/her legs up to his/her body, and can't be calmed",
-  "description": "Has your baby ever had times when he/she appears to be in agony, screams, draws his/her legs up to his/her body, and can't be calmed? If Yes, has this happened often, sometimes, or only once?",
-  "type": "choices",
-  "domain": "babyscreamify_mom_v1_"
-}

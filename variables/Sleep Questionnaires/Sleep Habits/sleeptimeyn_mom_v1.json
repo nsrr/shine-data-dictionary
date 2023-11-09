@@ -1,7 +1,0 @@
-{
-  "id": "sleeptimeyn_mom_v1",
-  "display_name": "Baby's usual time of falling asleep - Mother",
-  "description": "Does your baby have a usual time of falling asleep?",
-  "type": "choices",
-  "domain": "sleeptimeyn_mom_v1_"
-}

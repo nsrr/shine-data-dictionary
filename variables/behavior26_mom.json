@@ -1,0 +1,7 @@
+{
+  "id": "behavior26_mom",
+  "display_name": "Small events trigger big reactions",
+  "description": "Spanish: Las cosas sin importancia le provocan reacciones desmedidas",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

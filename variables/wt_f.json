@@ -1,0 +1,7 @@
+{
+  "id": "wt_f",
+  "display_name": "What is your weight?",
+  "description": "Father weight in pounds. ",
+  "type": "numeric",
+  "units": "pounds (lbs)"
+}

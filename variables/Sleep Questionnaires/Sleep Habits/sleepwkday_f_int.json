@@ -1,7 +1,0 @@
-{
-  "id": "sleepwkday_f_int",
-  "display_name": "Average hours of sleep per night on weekends or non-workdays, over the last 4 weeks prior to the birth of the baby - Father",
-  "description": "Thinking back on the LAST 4 WEEKS, about how many hours of sleep per night did you usually get on weekdays or workdays?   Note: The last 4 weeks refers to the 4 weeks prior to your baby being born",
-  "type": "choices",
-  "domain": "sleepwkday_f_int_"
-}

@@ -1,7 +1,0 @@
-{
-  "id": "maternleave_mom_v1",
-  "display_name": "If you are employed full or part-time, are you taking maternity leave?",
-  "description": "",
-  "type": "choices",
-  "domain": "maternleave_mom_v1_"
-}

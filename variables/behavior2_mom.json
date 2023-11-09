@@ -1,0 +1,7 @@
+{
+  "id": "behavior2_mom",
+  "display_name": "When given two things to do, remembers only the first or last",
+  "description": "Spanish: Cuando se le dan dos cosas para hacer, recuerda únicamente la primera o la última",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

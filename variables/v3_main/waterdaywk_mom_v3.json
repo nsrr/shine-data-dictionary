@@ -1,7 +1,0 @@
-{
-  "id": "waterdaywk_mom_v3",
-  "display_name": "Is this in feedings per day or feedings per week?",
-  "description": "",
-  "type": "choices",
-  "domain": "waterdaywk_mom_v3_"
-}

@@ -1,0 +1,7 @@
+{
+  "id": "employmtstatus_mom",
+  "display_name": "Employment status",
+  "description": "",
+  "type": "choices",
+  "domain": "employ_mom12"
+}
