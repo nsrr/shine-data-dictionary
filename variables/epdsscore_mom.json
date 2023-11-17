@@ -1,6 +1,0 @@
-{
-  "id": "epdsscore_mom",
-  "display_name": "EPDS score",
-  "description": "Edinburgh Depression Scale total score",
-  "type": "numeric"
-}

@@ -80,6 +80,8 @@ colnames(v3_main) <- gsub("bpsc", "bpsc_v3_", colnames(v3_main))
 colnames(v2_main) <- gsub("swyc", "swyc_v2_", colnames(v2_main))
 colnames(v3_main) <- gsub("swyc", "swyc_v3_", colnames(v3_main))
 
+colnames(v2_dad) <- gsub("employment_f", "employment_f3", colnames(v2_dad))
+colnames(v3_dad) <- gsub("employment_f", "employment_f5", colnames(v3_dad))
 
 
 allvars <- data.frame(matrix(ncol = 623, nrow = 433))

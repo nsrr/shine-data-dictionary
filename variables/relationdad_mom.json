@@ -1,7 +1,0 @@
-{
-  "id": "relationdad_mom",
-  "display_name": "How many individuals are living in the household",
-  "description": "",
-  "type": "choices",
-  "domain": "relo"
-}

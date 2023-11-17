@@ -1,7 +1,0 @@
-{
-  "id": "wkparentleave_f",
-  "display_name": "If yes, how many weeks?",
-  "description": "The length of paternity leave. ",
-  "type": "numeric",
-  "units": "weeks"
-}

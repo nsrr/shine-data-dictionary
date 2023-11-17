@@ -1,7 +1,0 @@
-{
-  "id": "employment_f6",
-  "display_name": "In the past 6 months, were you mostly?",
-  "description": "Father's employment status in the past 12 months. ",
-  "type": "choices",
-  "domain": "employ_f6"
-}

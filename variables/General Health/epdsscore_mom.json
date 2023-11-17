@@ -1,0 +1,6 @@
+{
+  "id": "epdsscore_mom",
+  "display_name": "Edinburgh Postnatal Depression Scale (EPDS) score",
+  "description": "Edinburgh Depression Scale total score",
+  "type": "numeric"
+}

@@ -1,7 +1,0 @@
-{
-  "id": "fallaslp_mom",
-  "display_name": "What time does your child usually fall asleep for the night?",
-  "description": "",
-  "type": "time",
-  "units": "hh:mm:ss"
-}

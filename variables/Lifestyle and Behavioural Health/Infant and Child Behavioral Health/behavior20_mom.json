@@ -1,0 +1,7 @@
+{
+  "id": "behavior20_mom",
+  "display_name": "Takes a long time to feel comfortable in new places or situations (such as visiting distant relatives or new friends)",
+  "description": "Spanish: Tarda mucho tiempo en acostumbrarse a lugares o situaciones desconocidas (como en las visitas a parientes lejanos o a nuevas amistades)",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}
