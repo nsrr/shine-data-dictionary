@@ -1,7 +1,10 @@
 {
   "id": "emplymtmatleavewkmth_mom",
-  "display_name": "Is this in weeks or months?",
-  "description": "",
+  "display_name": "Unit of maternity leave duration",
+  "description": "Units for :employmtmatleave_mom:.",
   "type": "choices",
-  "domain": "timeunit2"
+  "domain": "timeunit2",
+  "other": {
+    "tags": null
+  }
 }

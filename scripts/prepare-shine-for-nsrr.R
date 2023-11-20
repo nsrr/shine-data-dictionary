@@ -1,6 +1,6 @@
 # Prepare SHINE for nsrr #
 
-ver="0.1.0.pre"
+ver="0.1.0.pre2"
 
 library(haven)
 library(dplyr)
@@ -8,11 +8,8 @@ library(dplyr)
 setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets")
 
 intake_main <- read_sas("intake_main.sas7bdat")
-#intake_main$visit <- 0
 intake_dad <- read_sas("intake_dad.sas7bdat")
 
-
-#intake_dad$visit <- 0
 mom_anthro <- read_sas("mom_anthro.sas7bdat")
 mom_anthro_0 <- mom_anthro[,c( "nsrrid",  "last_weight",   "prepreg_bmi", "prepreg_weight",   "gest_age",
                                "gest_weight_gain", "age_mom_delivery")]
@@ -21,29 +18,27 @@ mom_anthro_2 <- mom_anthro[,c( "nsrrid", "mom_height_v2",  "mom_weight_v2", "mom
 mom_anthro_3 <- mom_anthro[,c( "nsrrid", "mom_height_v3",  "mom_weight_v3", "mom_bmi_v3")]
 mom_anthro_4 <- mom_anthro[,c( "nsrrid", "mom_height_v4",  "mom_weight_v4", "mom_bmi_v4")]
 
-mom_anthro_0$visit <- 0
-mom_anthro_1$visit <- 1
-mom_anthro_2$visit <- 2
-mom_anthro_3$visit <- 3
-mom_anthro_4$visit <- 4
+mom_anthro_0$visitnumber <- 0
+mom_anthro_1$visitnumber <- 1
+mom_anthro_2$visitnumber <- 2
+mom_anthro_3$visitnumber <- 3
+mom_anthro_4$visitnumber <- 4
 
 v1_main <- read_sas("v1_main.sas7bdat")
-#v1_main$visit <- 1
 v2_dad <- read_sas("v2_dad.sas7bdat")
-#v2_dad$visit <- 2
 
 colnames(v2_dad) <- gsub("employment_f_int", 
                          "employment_f6_int", colnames(v2_dad))
 
 child_anthro <- read_sas("child_anthro_100623.sas7bdat")
-child_anthro$visit[child_anthro$visit=="birth data"] <- 0
-child_anthro$visit[child_anthro$visit=="visit 1"] <- 1
-child_anthro$visit[child_anthro$visit=="visit 2"] <- 2
-child_anthro$visit[child_anthro$visit=="visit 3"] <- 3
-child_anthro$visit[child_anthro$visit=="visit 4"] <- 4
-child_anthro$visit[child_anthro$visit=="EHR data"] <- 99
+child_anthro$visitnumber[child_anthro$visitnumber=="birth data"] <- 0
+child_anthro$visitnumber[child_anthro$visitnumber=="visit 1"] <- 1
+child_anthro$visitnumber[child_anthro$visitnumber=="visit 2"] <- 2
+child_anthro$visitnumber[child_anthro$visitnumber=="visit 3"] <- 3
+child_anthro$visitnumber[child_anthro$visitnumber=="visit 4"] <- 4
+child_anthro$visitnumber[child_anthro$visitnumber=="EHR data"] <- 99
 
-child_anthro$visit <- as.numeric(child_anthro$visit)
+child_anthro$visitnumber <- as.numeric(child_anthro$visitnumber)
 
 
 v2_main <- read_sas("v2_main.sas7bdat")     
@@ -82,9 +77,19 @@ colnames(v3_main) <- gsub("swyc", "swyc_v3_", colnames(v3_main))
 
 colnames(v2_dad) <- gsub("employment_f", "employment_f3", colnames(v2_dad))
 colnames(v3_dad) <- gsub("employment_f", "employment_f5", colnames(v3_dad))
+colnames(intake_dad) <- gsub("employment_f", "employment_f5", colnames(intake_dad))
+
+colnames(v2_main) <- gsub("maternleave_mom", "employmtmatleave_mom", colnames(v2_main))
+colnames(v2_main) <- gsub("matleavetime_mom", "employmtmatleavenum_mom", colnames(v2_main))
+colnames(v2_main) <- gsub("matleavwkmo_mom", "emplymtmatleavewkmth_mom", colnames(v2_main))
+
+colnames(v3_main) <- gsub("firstsolid_mom", "firstsolidfood_mom", colnames(v3_main))
+
+colnames(v1_main) <- gsub("waktime_ampmag_mom", "waketimeampm_mom", colnames(v1_main))
+colnames(v2_main) <- gsub("waktime_ampmag_mom", "waketimeampm_mom", colnames(v2_main))
 
 
-allvars <- data.frame(matrix(ncol = 623, nrow = 433))
+allvars <- data.frame(matrix(ncol = 622, nrow = 433))
 x <- unique(c( colnames(intake_main),
   colnames(mom_anthro_0),
   colnames(intake_dad), 
@@ -118,14 +123,14 @@ v2 <- v2 %>% full_join(allvars[,c("nsrrid", setdiff(colnames(allvars),colnames(v
 v3 <- v3 %>% full_join(allvars[,c("nsrrid", setdiff(colnames(allvars),colnames(v3)))])
 v4 <- v4 %>% full_join(allvars[,c("nsrrid", setdiff(colnames(allvars),colnames(v4)))])
 
-v0$visit <- 0
-v1$visit <- 1
-v2$visit <- 2
-v3$visit <- 3
-v4$visit <- 4
+v0$visitnumber <- 0
+v1$visitnumber <- 1
+v2$visitnumber <- 2
+v3$visitnumber <- 3
+v4$visitnumber <- 4
 
 all_data <- rbind(v0, v1, v2, v3, v4)
-all_data <- left_join(all_data, child_anthro, by=c("nsrrid", "visit"))
+all_data <- left_join(all_data, child_anthro, by=c("nsrrid", "visitnumber"))
 
 #fix emplotmeny status consistency
 colnames(all_data) <- gsub("employmntstatus_mom","employmtstatus_mom",colnames(all_data))
@@ -139,7 +144,7 @@ dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictio
 
 
 data <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
-              all_data[,c("httfeet_f","htinch_f", "visit")])
+              all_data[,c("httfeet_f","htinch_f", "visitnumber", "employment_f5", "employment_f3")])
 
 # not req in needed dataset
 # time w baby variables should be numeric, units tbd
@@ -164,6 +169,8 @@ data <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
 #Height for father, inches in htinch_f_int variable
 # inches: 1 = 0 inches, 2=1inches, 3=2inches etc 
 
+
+
 data$httfeet_f[data$httfeet_f==1] <- 4
 data$httfeet_f[data$httfeet_f==2] <- 5
 data$httfeet_f[data$httfeet_f==3] <- 6
@@ -176,3 +183,11 @@ data$htinch_f <- NULL
 
 setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
 write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")
+
+
+
+
+
+
+
+

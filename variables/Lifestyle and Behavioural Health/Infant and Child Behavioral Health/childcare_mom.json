@@ -1,7 +1,10 @@
 {
   "id": "childcare_mom",
-  "display_name": "Since our last visit, has your child spent time in childcare outside your home? (Or since birth for Visits 1 & 2)",
+  "display_name": "Since the last visit, the child has spent time in childcare outside the home (or since birth for Visits 1 & 2)",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

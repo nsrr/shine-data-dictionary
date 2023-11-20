@@ -1,7 +1,10 @@
 {
   "id": "babyscreamify_mom",
-  "display_name": "If Yes, has this happened often, sometimes, or only once?",
-  "description": "Participants answered this question only if they answered \"Yes\" to babyscream_mom_v1.",
+  "display_name": "Frequency of the baby screaming",
+  "description": "Participants answered this question only if they answered \"Yes\" to :babyscream_mom:",
   "type": "choices",
-  "domain": "freq_oncesomoftn"
+  "domain": "freq_oncesomoftn",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "behavior61_mom",
-  "display_name": "Has a short attention span",
-  "description": "Spanish: Su capacidad de concentración es muy baja",
+  "display_name": "Child has a short attention span",
+  "description": "Maternal Reported<br><br>Spanish: Su capacidad de concentración es muy baja",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": "bpsc"
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "behavior35_mom",
-  "display_name": "Has trouble changing activities",
-  "description": "Spanish: Tiene dificultades para cambiar de actividad",
+  "display_name": "Child has trouble changing activities",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para cambiar de actividad",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,6 +1,9 @@
 {
   "id": "firstsolidfoodother_mom",
-  "display_name": "Other solid food (please specify)",
-  "description": "",
-  "type": "string"
+  "display_name": "First solid food introduced (if 'other')",
+  "description": "Other' for variable: :firstsolidfood_mom:",
+  "type": "string",
+  "other": {
+    "tags": null
+  }
 }

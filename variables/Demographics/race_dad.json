@@ -1,7 +1,10 @@
 {
   "id": "race_dad",
-  "display_name": "Father's race recategorized using race and ethnicity questions.",
-  "description": "Father's race/ethnciity. Recoded using father's race and ethnicity questions. ",
+  "display_name": "Father's race recategorized using race and ethnicity questions",
+  "description": "Recoded using father's race and ethnicity questions",
   "type": "choices",
-  "domain": "race"
+  "domain": "race",
+  "other": {
+    "tags": null
+  }
 }

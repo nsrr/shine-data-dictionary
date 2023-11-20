@@ -1,7 +1,10 @@
 {
   "id": "behavior52_mom",
-  "display_name": "Acts too wild or out of control",
-  "description": "Spanish: Actúa desenfrenadamente o sin control",
+  "display_name": "Child acts too wild or out of control",
+  "description": "Maternal Reported<br><br>Spanish: Actúa desenfrenadamente o sin control",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": "bpsc"
+  }
 }

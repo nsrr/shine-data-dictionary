@@ -1,7 +1,10 @@
 {
   "id": "cryprob_mom",
-  "display_name": "Since birth, how much do you feel that his/her crying has been a problem?",
+  "display_name": "Level that mother feels the baby crying has been a problem, since birth",
   "description": "",
   "type": "choices",
-  "domain": "not_some_lot"
+  "domain": "not_some_lot",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "babytoslp_mom___5",
-  "display_name": "What do you usually do to put your baby back to sleep after he/she awakens during the night? Check in on baby, but do not touch or pick up baby",
-  "description": "",
+  "display_name": "Usually done to put the baby back to sleep after he/she awakens during the night, option: Check in on baby, but do not touch or pick up baby",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

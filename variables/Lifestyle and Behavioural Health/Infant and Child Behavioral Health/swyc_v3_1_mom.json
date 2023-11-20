@@ -1,7 +1,10 @@
 {
   "id": "swyc_v3_1_mom",
-  "display_name": "Picks up food and eats it",
-  "description": "",
+  "display_name": "Baby picks up food and eats it",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

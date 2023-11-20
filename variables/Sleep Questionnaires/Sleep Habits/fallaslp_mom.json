@@ -1,7 +1,10 @@
 {
   "id": "fallaslp_mom",
-  "display_name": "What time does your child usually fall asleep for the night?",
+  "display_name": "Time the child usually falls asleep for the night",
   "description": "See :fallaslpampm_mom: for AM/PM",
   "type": "time",
-  "units": "hh:mm"
+  "units": "hh:mm",
+  "other": {
+    "tags": null
+  }
 }

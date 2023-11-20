@@ -1,7 +1,10 @@
 {
   "id": "sleepdisorder15_mom",
-  "display_name": "Did your child stop growing at a normal rate at any time since birth?",
+  "display_name": "The child stopped growing at a normal rate at any time since birth",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0unk2"
+  "domain": "yes1no0unk2",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,6 +1,9 @@
 {
   "id": "infant_wflz",
-  "display_name": "infant weight-for-length z-score",
+  "display_name": "Infant weight-for-length z-score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "employment_f5",
-  "display_name": "Employment status",
+  "display_name": "Father's employment status",
   "description": "Father's employment status at visit 3. Recoded to collapse small cells for NSRR. ",
   "type": "choices",
-  "domain": "employ_5choice"
+  "domain": "employ_5choice",
+  "other": {
+    "tags": null
+  }
 }

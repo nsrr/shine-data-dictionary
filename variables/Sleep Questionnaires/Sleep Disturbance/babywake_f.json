@@ -1,7 +1,10 @@
 {
   "id": "babywake_f",
-  "display_name": "How much of a problem for you are your baby's night wakings?",
-  "description": "",
+  "display_name": "Level at which babys night wakings are a problem for the father",
+  "description": "Paternal Reported",
   "type": "choices",
-  "domain": "problvl"
+  "domain": "problvl",
+  "other": {
+    "tags": null
+  }
 }

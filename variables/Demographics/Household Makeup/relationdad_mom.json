@@ -1,7 +1,10 @@
 {
   "id": "relationdad_mom",
-  "display_name": "What is your relationship with your baby's biological father?",
+  "display_name": "Mother's relationship with baby's biological father",
   "description": "",
   "type": "choices",
-  "domain": "relo"
+  "domain": "relo",
+  "other": {
+    "tags": null
+  }
 }

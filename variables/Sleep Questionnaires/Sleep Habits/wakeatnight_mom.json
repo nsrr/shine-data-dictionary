@@ -1,7 +1,10 @@
 {
   "id": "wakeatnight_mom",
-  "display_name": "Does your child typically wake during the night?",
+  "display_name": "Child typically wakes during the night",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

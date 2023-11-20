@@ -1,7 +1,10 @@
 {
   "id": "income_mom_sim",
-  "display_name": "Household annual income answered by mother",
+  "display_name": "Household annual income (3-level)",
   "description": "Recoded mother income question. ",
   "type": "choices",
-  "domain": "inc3"
+  "domain": "inc3",
+  "other": {
+    "tags": null
+  }
 }

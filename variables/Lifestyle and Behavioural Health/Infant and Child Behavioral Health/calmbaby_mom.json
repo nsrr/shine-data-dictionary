@@ -1,7 +1,10 @@
 {
   "id": "calmbaby_mom",
-  "display_name": "Since birth, how hard is it to calm your baby when he/she cries?",
+  "display_name": "It is hard to calm the baby when he/she cries (since birth)",
   "description": "",
   "type": "choices",
-  "domain": "not_some_lot"
+  "domain": "not_some_lot",
+  "other": {
+    "tags": null
+  }
 }

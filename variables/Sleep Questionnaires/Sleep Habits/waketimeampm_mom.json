@@ -1,7 +1,10 @@
 {
   "id": "waketimeampm_mom",
-  "display_name": "Is this AM or PM?",
+  "display_name": "Time child wakes is in AM or PM",
   "description": "AM/PM info for variable: :waketime_mom:",
   "type": "choices",
-  "domain": "ampm"
+  "domain": "ampm",
+  "other": {
+    "tags": null
+  }
 }

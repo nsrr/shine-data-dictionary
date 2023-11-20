@@ -1,6 +1,9 @@
 {
   "id": "numadults_mom",
-  "display_name": "Of those, not including yourself, how many are adults age 18 years or older?",
+  "display_name": "Mother's number of children under 18 living in the household (excluding study subject)",
   "description": "",
-  "type": "string"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

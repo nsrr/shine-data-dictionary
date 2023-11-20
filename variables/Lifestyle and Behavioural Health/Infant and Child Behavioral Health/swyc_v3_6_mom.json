@@ -1,7 +1,10 @@
 {
   "id": "swyc_v3_6_mom",
-  "display_name": "Walks across a room without help",
-  "description": "",
+  "display_name": "Baby walks across a room without help",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

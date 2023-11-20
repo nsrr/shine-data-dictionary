@@ -1,7 +1,10 @@
 {
   "id": "behavior29_mom",
-  "display_name": "Has trouble thinking of a different way to solve a problem or complete an activity when stuck",
-  "description": "Spanish: Cuando se queda atascado, tiene dificultades para pensar en cómo resolver un problema o terminar una actividad de manera diferente",
+  "display_name": "Child has trouble thinking of a different way to solve a problem or complete an activity when stuck",
+  "description": "Maternal Reported<br><br>Spanish: Cuando se queda atascado, tiene dificultades para pensar en cómo resolver un problema o terminar una actividad de manera diferente",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

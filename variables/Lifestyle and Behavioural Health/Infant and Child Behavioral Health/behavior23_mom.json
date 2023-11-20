@@ -1,7 +1,10 @@
 {
   "id": "behavior23_mom",
-  "display_name": "Is fidgety, restless, or squirmy",
-  "description": "Spanish: Es inquieto, impaciente o se mueve mucho",
+  "display_name": "Child is fidgety, restless, or squirmy",
+  "description": "Maternal Reported<br><br>Spanish: Es inquieto, impaciente o se mueve mucho",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

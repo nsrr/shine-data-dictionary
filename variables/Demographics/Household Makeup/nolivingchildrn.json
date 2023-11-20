@@ -1,6 +1,9 @@
 {
   "id": "nolivingchildrn",
-  "display_name": "Number of living children?",
+  "display_name": "Mother's number of living children",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

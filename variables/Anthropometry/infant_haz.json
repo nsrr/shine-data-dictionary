@@ -1,6 +1,9 @@
 {
   "id": "infant_haz",
-  "display_name": "infant height-for-age z-score",
+  "display_name": "Infant height-for-age z-score",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

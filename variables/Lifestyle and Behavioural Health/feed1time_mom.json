@@ -1,7 +1,10 @@
 {
   "id": "feed1time_mom",
-  "display_name": "Is the number above Days, Weeks, or Months?",
+  "display_name": "Units for child's age when stopped breastfeeding",
   "description": "Units for variable: :feed1_mom:",
   "type": "choices",
-  "domain": "timeunit3"
+  "domain": "timeunit3",
+  "other": {
+    "tags": null
+  }
 }

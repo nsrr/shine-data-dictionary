@@ -1,7 +1,10 @@
 {
   "id": "swyc_v2_5_mom",
-  "display_name": "how often does your baby look for you or another caregiver when upset",
-  "description": "",
+  "display_name": "Baby looks for their mother or another caregiver when upset",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

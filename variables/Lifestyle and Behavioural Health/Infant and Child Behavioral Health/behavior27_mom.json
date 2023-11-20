@@ -1,7 +1,10 @@
 {
   "id": "behavior27_mom",
-  "display_name": "Has trouble with activities or tasks that have more than one step",
-  "description": "Spanish: Tiene dificultades para realizar tareas o actividades que requieren más de un paso",
+  "display_name": "Child has trouble with activities or tasks that have more than one step",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para realizar tareas o actividades que requieren más de un paso",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

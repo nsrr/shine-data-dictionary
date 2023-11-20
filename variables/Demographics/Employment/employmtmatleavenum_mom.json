@@ -1,6 +1,9 @@
 {
   "id": "employmtmatleavenum_mom",
-  "display_name": "How many weeks or months?",
-  "description": "",
-  "type": "numeric"
+  "display_name": "Duration of maternity leave",
+  "description": "Units for variable: :emplymtmatleavewkmth_mom:",
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

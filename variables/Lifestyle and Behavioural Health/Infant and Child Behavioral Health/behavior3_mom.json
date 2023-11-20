@@ -1,7 +1,10 @@
 {
   "id": "behavior3_mom",
-  "display_name": "Is unaware of how his/her behavior affects or bothers others",
-  "description": "Spanish: No se da cuenta de cómo su comportamiento afecta o molesta a los demás",
+  "display_name": "Child is unaware of how his/her behavior affects or bothers others",
+  "description": "Maternal Reported<br><br>Spanish: No se da cuenta de cómo su comportamiento afecta o molesta a los demás",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

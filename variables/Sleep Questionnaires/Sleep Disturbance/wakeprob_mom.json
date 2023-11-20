@@ -1,7 +1,10 @@
 {
   "id": "wakeprob_mom",
-  "display_name": "How much of a problem for you are your baby's night waking's?",
+  "display_name": "Level at which babys night wakings are a problem for the mother",
   "description": "",
   "type": "choices",
-  "domain": "probfreq"
+  "domain": "probfreq",
+  "other": {
+    "tags": null
+  }
 }

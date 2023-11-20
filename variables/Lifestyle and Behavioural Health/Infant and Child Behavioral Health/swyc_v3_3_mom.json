@@ -1,7 +1,10 @@
 {
   "id": "swyc_v3_3_mom",
-  "display_name": "Plays games like \"peek-a-boo\" or \"pat-a-cake\"",
-  "description": "",
+  "display_name": "Baby plays games like \"peek-a-boo\" or \"pat-a-cake\"",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,7 +1,0 @@
-{
-  "id": "matleavwkmo_mom",
-  "display_name": "Is the above time for maternity leave in weeks or months?",
-  "description": "",
-  "type": "choices",
-  "domain": "timeunit2"
-}

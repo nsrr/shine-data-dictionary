@@ -1,7 +1,10 @@
 {
   "id": "behavior28_mom",
-  "display_name": "Is impulsive",
-  "description": "Spanish: Es impulsivo",
+  "display_name": "Child is impulsive",
+  "description": "Maternal Reported<br><br>Spanish: Es impulsivo",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

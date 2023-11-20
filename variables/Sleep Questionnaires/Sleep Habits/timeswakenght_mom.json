@@ -1,6 +1,9 @@
 {
   "id": "timeswakenght_mom",
-  "display_name": "How many times does your child typically wake during the night?",
+  "display_name": "Number of times the child typically wakes during the night",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

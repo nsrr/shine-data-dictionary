@@ -1,7 +1,10 @@
 {
   "id": "swyc_v2_10_mom",
-  "display_name": "how often does your baby pull up to standing",
-  "description": "",
+  "display_name": "Baby pulls up to standing",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

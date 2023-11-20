@@ -1,7 +1,10 @@
 {
   "id": "behavior59_mom",
-  "display_name": "Has trouble remembering something, even after a brief period of time",
-  "description": "Spanish: Tiene dificultades para recordar las cosas, incluso cuando ha transcurrido muy poco tiempo",
+  "display_name": "Child has trouble remembering something, even after a brief period of time",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para recordar las cosas, incluso cuando ha transcurrido muy poco tiempo",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": "bpsc"
+  }
 }

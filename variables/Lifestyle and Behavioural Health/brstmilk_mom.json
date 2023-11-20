@@ -1,7 +1,10 @@
 {
   "id": "brstmilk_mom",
-  "display_name": "In the past week, how many times was your child usually fed breast milk in a 24-hour period?",
+  "display_name": "Number of times child usually fed breast milk in a 24-hour period (in the past week)",
   "description": "",
   "type": "choices",
-  "domain": "times"
+  "domain": "times",
+  "other": {
+    "tags": null
+  }
 }

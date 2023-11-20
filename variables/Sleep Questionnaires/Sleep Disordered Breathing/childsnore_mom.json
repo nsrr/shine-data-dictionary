@@ -1,7 +1,10 @@
 {
   "id": "childsnore_mom",
-  "display_name": "Does your child snore during sleep?",
+  "display_name": "Child snores during sleep",
   "description": "",
   "type": "choices",
-  "domain": "whensnore"
+  "domain": "whensnore",
+  "other": {
+    "tags": null
+  }
 }

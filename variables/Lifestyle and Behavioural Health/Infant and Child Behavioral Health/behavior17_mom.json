@@ -1,7 +1,10 @@
 {
   "id": "behavior17_mom",
-  "display_name": "Repeats the same mistake over and over even after help is given",
-  "description": "Spanish: Comete el mismo error una y otra vez, incluso después de que se ha brindado ayuda",
+  "display_name": "Child repeats the same mistake over and over even after help is given",
+  "description": "Maternal Reported<br><br>Spanish: Comete el mismo error una y otra vez, incluso después de que se ha brindado ayuda",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

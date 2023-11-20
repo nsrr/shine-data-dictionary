@@ -1,7 +1,10 @@
 {
   "id": "infant_length",
-  "display_name": "infant birth length",
+  "display_name": "Infant length",
   "description": "",
   "type": "numeric",
-  "units": "centimeter (cm)"
+  "units": "centimeter (cm)",
+  "other": {
+    "tags": null
+  }
 }

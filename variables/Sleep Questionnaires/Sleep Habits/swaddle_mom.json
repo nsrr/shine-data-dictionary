@@ -1,7 +1,10 @@
 {
   "id": "swaddle_mom",
-  "display_name": "How often do you wrap or swaddle your baby in a blanket or in a special sleep suit or sleep sack?",
+  "display_name": "Frequency mother wraps or swaddles baby in a blanket or in a special sleep suit or sleep sack",
   "description": "",
   "type": "choices",
-  "domain": "nightpwk"
+  "domain": "nightpwk",
+  "other": {
+    "tags": null
+  }
 }

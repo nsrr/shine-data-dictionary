@@ -1,7 +1,10 @@
 {
   "id": "behavior46_mom",
-  "display_name": "After having a problem, will stay disappointed for a long time",
-  "description": "Spanish: Después de haber tenido un problema, queda fastidiado por mucho tiempo",
+  "display_name": "After having a problem, the child will stay disappointed for a long time",
+  "description": "Maternal Reported<br><br>Spanish: Después de haber tenido un problema, queda fastidiado por mucho tiempo",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": "bpsc"
+  }
 }

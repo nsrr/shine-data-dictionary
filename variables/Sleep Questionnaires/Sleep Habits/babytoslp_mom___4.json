@@ -1,7 +1,10 @@
 {
   "id": "babytoslp_mom___4",
-  "display_name": "What do you usually do to put your baby back to sleep after he/she awakens during the night? Pat baby gently while letting baby stay in crib or bed",
-  "description": "",
+  "display_name": "Usually done to put the baby back to sleep after he/she awakens during the night, option: Pat baby gently while letting baby stay in crib or bed",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "infant_weight",
-  "display_name": "infant birth weight",
+  "display_name": "Infant birth weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms (kg)"
+  "units": "kilograms (kg)",
+  "other": {
+    "tags": null
+  }
 }

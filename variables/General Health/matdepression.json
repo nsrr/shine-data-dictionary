@@ -1,7 +1,10 @@
 {
   "id": "matdepression",
-  "display_name": "Depression",
+  "display_name": "Maternal depression",
   "description": "",
   "type": "choices",
-  "domain": "deprs"
+  "domain": "deprs",
+  "other": {
+    "tags": null
+  }
 }

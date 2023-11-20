@@ -1,7 +1,10 @@
 {
   "id": "bdroutine13_mom",
-  "display_name": "I sleep in my child's room when s/he won't settle at night",
+  "display_name": "Mother's agreement with statement: I sleep in my child's room when s/he won't settle at night",
   "description": "",
   "type": "choices",
-  "domain": "dis_argee_noneut"
+  "domain": "dis_argee_noneut",
+  "other": {
+    "tags": null
+  }
 }

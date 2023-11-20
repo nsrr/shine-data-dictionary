@@ -1,7 +1,10 @@
 {
   "id": "babytoslp_mom___1",
-  "display_name": "What do you usually do to put your baby back to sleep after he/she awakens during the night? Nurse baby or give baby a bottle",
-  "description": "",
+  "display_name": "Usually done to put the baby back to sleep after he/she awakens during the night, option: Nurse baby or give baby a bottle",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

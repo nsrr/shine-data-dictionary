@@ -1,7 +1,10 @@
 {
   "id": "bdroutine10_mom",
-  "display_name": "I lie with my child until s/he falls asleep",
+  "display_name": "Mother's agreement with statement: I lie with my child until s/he falls asleep",
   "description": "",
   "type": "choices",
-  "domain": "dis_argee_noneut"
+  "domain": "dis_argee_noneut",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "bedbehav_mom___7",
-  "display_name": "What do you usually do to help encourage your child to sleep at night? Other",
+  "display_name": "Mother usually helps to encourage their child to sleep at night with: Other",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

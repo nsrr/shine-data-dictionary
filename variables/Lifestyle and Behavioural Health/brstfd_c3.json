@@ -3,5 +3,8 @@
   "display_name": "Breast feeding mode/categories",
   "description": "",
   "type": "choices",
-  "domain": "babyfeed"
+  "domain": "babyfeed",
+  "other": {
+    "tags": null
+  }
 }

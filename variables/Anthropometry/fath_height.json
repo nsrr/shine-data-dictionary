@@ -1,7 +1,10 @@
 {
   "id": "fath_height",
-  "display_name": "Father's height",
+  "display_name": "Father's height (according to father)",
   "description": "",
   "type": "numeric",
-  "units": "centimeter (cm)"
+  "units": "centimeter (cm)",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,6 +1,9 @@
 {
   "id": "solidfoodage_mom",
-  "display_name": "How old was your baby when you first fed him/her any solid food - such as baby cereal, fruits, vegetables, yogurt - or anything besides breast milk or formula?",
-  "description": "",
-  "type": "numeric"
+  "display_name": "Child's age when first fed any solid food (such as baby cereal, fruits, vegetables, yogurt - or anything besides breast milk or formula)",
+  "description": "See :solidfoodagedw_mom: for units",
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

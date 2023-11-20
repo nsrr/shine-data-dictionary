@@ -1,7 +1,10 @@
 {
   "id": "takechildbed_mom",
-  "display_name": "How often do you end up taking your child into your bed because he/she is upset and will not sleep?",
+  "display_name": "Frequency mother ends up taking the child into their own bed because he/she is upset and will not sleep",
   "description": "",
   "type": "choices",
-  "domain": "nightpwk"
+  "domain": "nightpwk",
+  "other": {
+    "tags": null
+  }
 }

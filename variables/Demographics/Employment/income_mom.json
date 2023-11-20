@@ -1,7 +1,10 @@
 {
   "id": "income_mom",
-  "display_name": "What is your household annual income?",
-  "description": "Household income reported by mother. ",
+  "display_name": "Household annual income (9-level)",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "inc9"
+  "domain": "inc9",
+  "other": {
+    "tags": null
+  }
 }

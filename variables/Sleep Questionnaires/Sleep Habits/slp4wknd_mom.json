@@ -1,7 +1,10 @@
 {
   "id": "slp4wknd_mom",
-  "display_name": "Thinking back on the LAST 4 WEEKS, about how many hours of sleep per night did you usually get on WEEKENDS or DAYS OFF? (For Visit 0 - change to LAST 4 WEEKS of pregnancy)",
+  "display_name": "Usual number of hours of sleep per night, on weekends or days off, over the last 4 weeks",
   "description": "",
   "type": "numeric",
-  "units": "hours"
+  "units": "hours",
+  "other": {
+    "tags": null
+  }
 }

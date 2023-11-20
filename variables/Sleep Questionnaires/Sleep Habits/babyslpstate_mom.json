@@ -1,7 +1,10 @@
 {
   "id": "babyslpstate_mom",
-  "display_name": "In what state is your baby when you put him/her into bed?",
+  "display_name": "State the baby is in when put into their bed",
   "description": "",
   "type": "choices",
-  "domain": "sleepystate"
+  "domain": "sleepystate",
+  "other": {
+    "tags": null
+  }
 }

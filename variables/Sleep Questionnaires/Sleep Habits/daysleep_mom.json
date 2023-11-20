@@ -1,6 +1,9 @@
 {
   "id": "daysleep_mom",
-  "display_name": "How much total time does your child spend sleeping during the DAY (between 8 in the morning and 7 in the evening)?",
+  "display_name": "Total time the child spend sleeping during the day (between 8 in the morning and 7 in the evening)",
   "description": "",
-  "type": "string"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

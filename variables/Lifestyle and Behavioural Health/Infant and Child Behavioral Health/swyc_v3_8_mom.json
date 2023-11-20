@@ -1,7 +1,10 @@
 {
   "id": "swyc_v3_8_mom",
-  "display_name": "Runs",
-  "description": "",
+  "display_name": "Baby runs",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

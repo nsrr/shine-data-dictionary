@@ -1,7 +1,10 @@
 {
   "id": "country_mom",
-  "display_name": "In what country were you born? (Mother)",
+  "display_name": "Mother's country of bith",
   "description": "",
   "type": "choices",
-  "domain": "born_us"
+  "domain": "born_us",
+  "other": {
+    "tags": null
+  }
 }

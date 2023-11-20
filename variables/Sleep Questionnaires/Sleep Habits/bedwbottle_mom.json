@@ -1,7 +1,10 @@
 {
   "id": "bedwbottle_mom",
-  "display_name": "During the past week (or 2 weeks for visit 1), how often was your child put to bed with a bottle of formula, breast milk, juice, juice drink, or any other kind of milk?",
+  "display_name": "During the past week (or 2 weeks for visit 1), how often the child was put to bed with a bottle of formula, breast milk, juice, juice drink, or any other kind of milk",
   "description": "",
   "type": "choices",
-  "domain": "naps"
+  "domain": "naps",
+  "other": {
+    "tags": null
+  }
 }

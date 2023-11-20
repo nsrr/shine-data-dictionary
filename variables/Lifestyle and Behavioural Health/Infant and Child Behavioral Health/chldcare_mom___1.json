@@ -1,7 +1,10 @@
 {
   "id": "chldcare_mom___1",
-  "display_name": "Who typically cares for your baby during the day? You",
+  "display_name": "Mother typically cares for the baby during the day",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

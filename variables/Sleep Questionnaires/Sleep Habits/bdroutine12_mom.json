@@ -1,7 +1,10 @@
 {
   "id": "bdroutine12_mom",
-  "display_name": "I let my child set his/her own bedtime",
+  "display_name": "Mother's agreement with statement: I let my child set his/her own bedtime",
   "description": "",
   "type": "choices",
-  "domain": "dis_argee_noneut"
+  "domain": "dis_argee_noneut",
+  "other": {
+    "tags": null
+  }
 }

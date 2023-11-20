@@ -3,5 +3,8 @@
   "display_name": "Maternal pre-pregnancy BMI",
   "description": "",
   "type": "numeric",
-  "units": "kilograms per meter squared (kg/m2)"
+  "units": "kilograms per meter squared (kg/m2)",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "sleeptimeyn_mom",
-  "display_name": "Does your child have a usual time of falling asleep?",
-  "description": "",
+  "display_name": "The child has a usual time of falling asleep",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

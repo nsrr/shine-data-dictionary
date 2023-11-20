@@ -1,4 +1,4 @@
-## 0.1.0.pre1
+## 0.1.0.pre2
 
 - Import initial set of 
 - Created the SHINE data dictionary repository using Spout v1.0.0

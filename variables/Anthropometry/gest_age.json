@@ -3,5 +3,8 @@
   "display_name": "Maternal gestational age",
   "description": "",
   "type": "numeric",
-  "units": "weeks"
+  "units": "weeks",
+  "other": {
+    "tags": null
+  }
 }

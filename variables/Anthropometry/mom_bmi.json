@@ -2,5 +2,9 @@
   "id": "mom_bmi",
   "display_name": "Maternal BMI",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "units": "kilograms per meter squared (kg/m2)",
+  "other": {
+    "tags": null
+  }
 }

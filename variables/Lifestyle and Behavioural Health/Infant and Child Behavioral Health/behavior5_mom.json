@@ -1,7 +1,10 @@
 {
   "id": "behavior5_mom",
-  "display_name": "Becomes upset with new situations",
-  "description": "Spanish: Se altera frente a situaciones nuevas",
+  "display_name": "Child becomes upset with new situations",
+  "description": "Maternal Reported<br><br>Spanish: Se altera frente a situaciones nuevas",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": "bpsc"
+  }
 }

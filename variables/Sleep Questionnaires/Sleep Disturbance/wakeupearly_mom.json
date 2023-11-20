@@ -1,7 +1,10 @@
 {
   "id": "wakeupearly_mom",
-  "display_name": "Did you wake up earlier than you planned to and had difficulty getting back to sleep?",
+  "display_name": "Mother wakes up earlier than  planned and has difficulty getting back to sleep",
   "description": "",
   "type": "choices",
-  "domain": "weeklyfreq"
+  "domain": "weeklyfreq",
+  "other": {
+    "tags": null
+  }
 }

@@ -1,6 +1,9 @@
 {
   "id": "borncountryother_f",
-  "display_name": "If \"Other\" country, please specify",
+  "display_name": "Country (if 'other')",
   "description": "",
-  "type": "string"
+  "type": "string",
+  "other": {
+    "tags": null
+  }
 }

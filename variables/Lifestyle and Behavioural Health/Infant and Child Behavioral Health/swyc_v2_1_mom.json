@@ -1,7 +1,10 @@
 {
   "id": "swyc_v2_1_mom",
-  "display_name": "how often does your baby make sounds like \"ga,\" \"ma,\" or \"ba\"",
-  "description": "",
+  "display_name": "Baby makes sounds like \"ga,\" \"ma,\" or \"ba\"",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

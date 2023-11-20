@@ -1,7 +1,10 @@
 {
   "id": "edu_mom",
-  "display_name": "What is the highest level of education you completed?",
-  "description": "mother's highest level of education.",
+  "display_name": "Mother's highest level of education completed",
+  "description": "",
   "type": "choices",
-  "domain": "educ_mom"
+  "domain": "educ_mom",
+  "other": {
+    "tags": null
+  }
 }

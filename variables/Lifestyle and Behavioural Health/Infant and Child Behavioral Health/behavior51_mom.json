@@ -1,7 +1,10 @@
 {
   "id": "behavior51_mom",
-  "display_name": "Has trouble getting started on activities or tasks even after instructed",
-  "description": "Spanish: Tiene dificultades para comenzar actividades o tareas, incluso después de haber recibido instrucciones",
+  "display_name": "Child has trouble getting started on activities or tasks even after instructed",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para comenzar actividades o tareas, incluso después de haber recibido instrucciones",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": "bpsc"
+  }
 }

@@ -1,6 +1,9 @@
 {
   "id": "sleepdur_mom",
-  "display_name": "On a typical night, what is the longest stretch of time that your child is asleep during the night without waking up?",
+  "display_name": "Longest stretch of time that the child is asleep during the night without waking up, on a typical night",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

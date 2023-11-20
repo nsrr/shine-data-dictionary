@@ -1,7 +1,10 @@
 {
   "id": "behavior41_mom",
-  "display_name": "Is easily overwhelmed or overstimulated by typical daily activities",
-  "description": "Spanish: Las actividades cotidianas comunes lo abruman o lo hiperestimulan con facilidad",
+  "display_name": "Child is easily overwhelmed or overstimulated by typical daily activities",
+  "description": "Maternal Reported<br><br>Spanish: Las actividades cotidianas comunes lo abruman o lo hiperestimulan con facilidad",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

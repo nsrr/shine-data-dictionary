@@ -3,5 +3,8 @@
   "display_name": "Mother's age at delivery",
   "description": "",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "other": {
+    "tags": null
+  }
 }

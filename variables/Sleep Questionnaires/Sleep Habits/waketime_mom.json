@@ -1,7 +1,10 @@
 {
   "id": "waketime_mom",
-  "display_name": "What time does your child usually wake up in the morning?",
+  "display_name": "Time child usually wakes up in the morning",
   "description": "See :waketimeampm_mom: for AM/PM",
   "type": "time",
-  "units": "hh:mm"
+  "units": "hh:mm",
+  "other": {
+    "tags": null
+  }
 }

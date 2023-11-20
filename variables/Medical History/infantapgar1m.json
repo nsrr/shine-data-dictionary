@@ -2,5 +2,8 @@
   "id": "infantapgar1m",
   "display_name": "APGAR Score (1 Minute)",
   "description": "",
-  "type": "numeric"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

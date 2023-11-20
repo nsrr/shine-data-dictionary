@@ -1,7 +1,10 @@
 {
   "id": "babycries_mom",
-  "display_name": "Since birth, how much do you feel that your baby cries in comparison with other babies of his/her age?",
+  "display_name": "How much the baby cries in comparison with others of the same age, since birth",
   "description": "",
   "type": "choices",
-  "domain": "cries"
+  "domain": "cries",
+  "other": {
+    "tags": null
+  }
 }

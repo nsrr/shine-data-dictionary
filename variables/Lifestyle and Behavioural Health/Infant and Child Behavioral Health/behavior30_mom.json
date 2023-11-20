@@ -1,7 +1,10 @@
 {
   "id": "behavior30_mom",
-  "display_name": "Is disturbed by changes in the environment (such as new furniture, things in room moved around, or new clothes)",
-  "description": "Spanish: Le molestan los cambios en su entorno (como muebles nuevos, cosas que han cambiado de lugar en la habitación o ropa nueva)",
+  "display_name": "Child is disturbed by changes in the environment (such as new furniture, things in room moved around, or new clothes)",
+  "description": "Maternal Reported<br><br>Spanish: Le molestan los cambios en su entorno (como muebles nuevos, cosas que han cambiado de lugar en la habitación o ropa nueva)",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

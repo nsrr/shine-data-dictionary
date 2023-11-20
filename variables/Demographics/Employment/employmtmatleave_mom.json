@@ -1,7 +1,10 @@
 {
   "id": "employmtmatleave_mom",
-  "display_name": "If you are employed full or part-time, did you take maternity leave?",
+  "display_name": "Mother took maternity leave (if employed full or part-time)",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

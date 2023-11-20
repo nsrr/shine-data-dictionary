@@ -1,7 +1,10 @@
 {
   "id": "sleepdisorder13_mom",
-  "display_name": "Is it hard to wake your child up in the morning?",
+  "display_name": "It is hard to wake the child up in the morning",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0unk2"
+  "domain": "yes1no0unk2",
+  "other": {
+    "tags": null
+  }
 }

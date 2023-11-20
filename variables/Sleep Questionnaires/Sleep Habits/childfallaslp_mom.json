@@ -1,7 +1,10 @@
 {
   "id": "childfallaslp_mom",
-  "display_name": "How does your child fall asleep most of the time?",
+  "display_name": "How the child falls asleep most of the time",
   "description": "",
   "type": "choices",
-  "domain": "fallasleep"
+  "domain": "fallasleep",
+  "other": {
+    "tags": null
+  }
 }

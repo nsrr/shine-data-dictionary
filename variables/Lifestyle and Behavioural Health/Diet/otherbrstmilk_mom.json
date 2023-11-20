@@ -1,7 +1,10 @@
 {
   "id": "otherbrstmilk_mom",
-  "display_name": "Since birth, have you fed your baby any food (do not include breastmilk or formula)?",
+  "display_name": "The baby has been fed any food since birth (not including breastmilk or formula)",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

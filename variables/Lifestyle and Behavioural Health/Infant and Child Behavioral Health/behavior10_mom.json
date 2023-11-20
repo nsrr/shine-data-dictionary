@@ -1,7 +1,10 @@
 {
   "id": "behavior10_mom",
-  "display_name": "Has trouble adjusting to new people (such as a babysitter, teacher, friend, or daycare worker)",
-  "description": "Spanish: Tiene dificultades para adaptarse a personas desconocidas (como una niñera, un maestro, un nuevo amigo o un trabajador de la guardería infantil)",
+  "display_name": "Child has trouble adjusting to new people (such as a babysitter, teacher, friend, or daycare worker)",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para adaptarse a personas desconocidas (como una niñera, un maestro, un nuevo amigo o un trabajador de la guardería infantil)",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": null
+  }
 }

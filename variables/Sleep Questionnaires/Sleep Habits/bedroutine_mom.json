@@ -1,7 +1,10 @@
 {
   "id": "bedroutine_mom",
-  "display_name": "My baby has a bedtime routine",
+  "display_name": "Baby has a bedtime routine",
   "description": "",
   "type": "choices",
-  "domain": "dis_argee_neut"
+  "domain": "dis_argee_neut",
+  "other": {
+    "tags": null
+  }
 }

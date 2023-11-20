@@ -1,7 +1,10 @@
 {
   "id": "swyc_v3_7_mom",
-  "display_name": "Follows directions - like \"Come here\" or \"Give me the ball\"",
-  "description": "",
+  "display_name": "Baby follows directions - like \"Come here\" or \"Give me the ball\"",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

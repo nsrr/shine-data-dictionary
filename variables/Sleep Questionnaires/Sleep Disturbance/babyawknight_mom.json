@@ -1,7 +1,10 @@
 {
   "id": "babyawknight_mom",
-  "display_name": "When your child wakes up during the night, how many minutes is he/she usually awake?",
+  "display_name": "Minutes usually awake when the child wakes during the night",
   "description": "",
   "type": "choices",
-  "domain": "minsawake"
+  "domain": "minsawake",
+  "other": {
+    "tags": null
+  }
 }

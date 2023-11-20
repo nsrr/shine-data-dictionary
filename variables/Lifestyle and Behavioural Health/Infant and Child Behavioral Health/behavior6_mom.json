@@ -1,7 +1,10 @@
 {
   "id": "behavior6_mom",
-  "display_name": "Has explosive, angry outbursts",
-  "description": "Spanish: Tiene arranques explosivos de ira",
+  "display_name": "Child has explosive, angry outbursts",
+  "description": "Maternal Reported<br><br>Spanish: Tiene arranques explosivos de ira",
   "type": "choices",
-  "domain": "freq_nevrsomoftn"
+  "domain": "freq_nevrsomoftn",
+  "other": {
+    "tags": "bpsc"
+  }
 }

@@ -1,7 +1,10 @@
 {
   "id": "childcareage_mom",
-  "display_name": "How old was he/she when s/he started in childcare?",
+  "display_name": "Child's age when started in childcare",
   "description": "",
   "type": "numeric",
-  "units": "months"
+  "units": "months",
+  "other": {
+    "tags": null
+  }
 }

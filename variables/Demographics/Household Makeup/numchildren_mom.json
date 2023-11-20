@@ -1,6 +1,9 @@
 {
   "id": "numchildren_mom",
-  "display_name": "How many are children < 18 years of age, not including the enrolled child?",
+  "display_name": "Mother's number of adults over 18 living in the household (excluding self)",
   "description": "",
-  "type": "string"
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
 }

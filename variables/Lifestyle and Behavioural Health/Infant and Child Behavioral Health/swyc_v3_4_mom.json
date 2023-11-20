@@ -1,7 +1,10 @@
 {
   "id": "swyc_v3_4_mom",
-  "display_name": "Looks around when you say things like \"Where's your bottle?\" or \"Where's your blanket?\"",
-  "description": "",
+  "display_name": "Baby looks around when you say things like \"Where's your bottle?\" or \"Where's your blanket?\"",
+  "description": "Maternal reported",
   "type": "choices",
-  "domain": "notyet_som_very"
+  "domain": "notyet_som_very",
+  "other": {
+    "tags": null
+  }
 }

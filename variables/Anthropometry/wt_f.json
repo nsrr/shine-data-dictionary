@@ -1,7 +1,10 @@
 {
   "id": "wt_f",
-  "display_name": "What is your weight? (Father)",
-  "description": "Father weight in pounds. ",
+  "display_name": "Father's weight (according to father)",
+  "description": "",
   "type": "numeric",
-  "units": "pounds (lbs)"
+  "units": "pounds (lbs)",
+  "other": {
+    "tags": null
+  }
 }

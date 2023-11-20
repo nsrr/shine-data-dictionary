@@ -1,7 +1,10 @@
 {
   "id": "babysharebd_mom",
-  "display_name": "How frequently do you share a bed with\nyour baby at night?",
+  "display_name": "Frequency mother shares a bed with the baby",
   "description": "",
   "type": "choices",
-  "domain": "nightpwk"
+  "domain": "nightpwk",
+  "other": {
+    "tags": null
+  }
 }

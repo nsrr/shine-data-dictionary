@@ -1,7 +1,10 @@
 {
   "id": "sleepdisorder12_mom",
-  "display_name": "Has a teacher or other caregiver commented that your child appears sleepy during the day?",
+  "display_name": "A teacher or other caregiver commented the child appears sleepy during the day",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0unk2"
+  "domain": "yes1no0unk2",
+  "other": {
+    "tags": null
+  }
 }

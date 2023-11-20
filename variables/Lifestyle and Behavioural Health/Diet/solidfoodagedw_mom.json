@@ -1,7 +1,10 @@
 {
   "id": "solidfoodagedw_mom",
-  "display_name": "Was age of baby receiving solid food in day, weeks, or months?",
-  "description": "",
+  "display_name": "Time untis for age of baby receiving solid food",
+  "description": "Units for variable: :solidfoodage_mom:",
   "type": "choices",
-  "domain": "timeunit3"
+  "domain": "timeunit3",
+  "other": {
+    "tags": null
+  }
 }

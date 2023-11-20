@@ -1,7 +1,10 @@
 {
   "id": "bedbehav_mom___1",
-  "display_name": "What do you usually do to help encourage your child to sleep at night? Give baby medication (example: Benadryl) (this refers to times when the baby is not sick)",
+  "display_name": "Mother usually helps to encourage their child to sleep at night with: Giving baby medication (example: Benadryl) (this refers to times when the baby is not sick)",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

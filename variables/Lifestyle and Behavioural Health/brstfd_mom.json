@@ -1,7 +1,10 @@
 {
   "id": "brstfd_mom",
-  "display_name": "Have you ever breastfed your child?",
+  "display_name": "Child has ever been breastfed",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0"
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
 }

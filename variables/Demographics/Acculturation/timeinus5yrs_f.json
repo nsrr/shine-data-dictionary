@@ -1,7 +1,10 @@
 {
   "id": "timeinus5yrs_f",
-  "display_name": "If more than 5 years, please write in how many years",
+  "display_name": "Number of years father has lived in the United States (if over 5)",
   "description": "",
   "type": "numeric",
-  "units": "years"
+  "units": "years",
+  "other": {
+    "tags": null
+  }
 }
