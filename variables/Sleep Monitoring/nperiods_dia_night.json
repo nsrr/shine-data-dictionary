@@ -1,0 +1,9 @@
+{
+  "id": "nperiods_dia_night",
+  "display_name": "Total number of nighttime periods (7PM to 8AM the next day)",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
+}

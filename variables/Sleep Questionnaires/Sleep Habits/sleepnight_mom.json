@@ -3,7 +3,7 @@
   "display_name": "Total time does the child spend sleeping during the night (between 7 in the evening and 8 in the morning)",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "other": {
     "tags": null
   }

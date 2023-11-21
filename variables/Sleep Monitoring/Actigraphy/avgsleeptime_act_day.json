@@ -1,0 +1,10 @@
+{
+  "id": "avgsleeptime_act_day",
+  "display_name": "Average time spent asleep over daytime periods in minutes",
+  "description": "Variable sourced from actigraphy data",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "other": {
+    "tags": null
+  }
+}

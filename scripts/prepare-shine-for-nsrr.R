@@ -7,6 +7,14 @@ library(dplyr)
 
 setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets")
 
+act_sum <- read_sas("shinechildsleepsummary_nsrr.sas7bdat")
+act_sum$visitnumber <- act_sum$timepoint
+act_sum$nsrrid <- act_sum$subject
+
+#drop some variables, slice ID's and dates
+act_sum <- act_sum[,colnames(act_sum)[!colnames(act_sum)%in%c("act_sheet_id", "dia_sheet_id", 
+                     "startdate_dia","enddate_dia",  "startdate_act","enddate_act","subject", "timepoint")]]
+
 intake_main <- read_sas("intake_main.sas7bdat")
 intake_dad <- read_sas("intake_dad.sas7bdat")
 
@@ -31,12 +39,13 @@ colnames(v2_dad) <- gsub("employment_f_int",
                          "employment_f6_int", colnames(v2_dad))
 
 child_anthro <- read_sas("child_anthro_100623.sas7bdat")
-child_anthro$visitnumber[child_anthro$visitnumber=="birth data"] <- 0
-child_anthro$visitnumber[child_anthro$visitnumber=="visit 1"] <- 1
-child_anthro$visitnumber[child_anthro$visitnumber=="visit 2"] <- 2
-child_anthro$visitnumber[child_anthro$visitnumber=="visit 3"] <- 3
-child_anthro$visitnumber[child_anthro$visitnumber=="visit 4"] <- 4
-child_anthro$visitnumber[child_anthro$visitnumber=="EHR data"] <- 99
+child_anthro$visitnumber <- NA
+child_anthro$visitnumber[child_anthro$visit=="birth data"] <- 0
+child_anthro$visitnumber[child_anthro$visitr=="visit 1"] <- 1
+child_anthro$visitnumber[child_anthro$visit=="visit 2"] <- 2
+child_anthro$visitnumber[child_anthro$visit=="visit 3"] <- 3
+child_anthro$visitnumber[child_anthro$visit=="visit 4"] <- 4
+child_anthro$visitnumber[child_anthro$visit=="EHR data"] <- 99
 
 child_anthro$visitnumber <- as.numeric(child_anthro$visitnumber)
 
@@ -88,8 +97,12 @@ colnames(v3_main) <- gsub("firstsolid_mom", "firstsolidfood_mom", colnames(v3_ma
 colnames(v1_main) <- gsub("waktime_ampmag_mom", "waketimeampm_mom", colnames(v1_main))
 colnames(v2_main) <- gsub("waktime_ampmag_mom", "waketimeampm_mom", colnames(v2_main))
 
+colnames(v3_main) <- gsub("employmntstatus_mom","employmtstatus_mom",colnames(v3_main))
 
-allvars <- data.frame(matrix(ncol = 622, nrow = 433))
+colnames(v1_main) <- gsub("takebabybed_mom","takechildbed_mom",colnames(v1_main))
+colnames(v2_main) <- gsub("takebabybed_mom","takechildbed_mom",colnames(v2_main))
+
+allvars <- data.frame(matrix(ncol = 621, nrow = 433))
 x <- unique(c( colnames(intake_main),
   colnames(mom_anthro_0),
   colnames(intake_dad), 
@@ -133,18 +146,22 @@ all_data <- rbind(v0, v1, v2, v3, v4)
 all_data <- left_join(all_data, child_anthro, by=c("nsrrid", "visitnumber"))
 
 #fix emplotmeny status consistency
-colnames(all_data) <- gsub("employmntstatus_mom","employmtstatus_mom",colnames(all_data))
+#colnames(all_data) <- gsub("employmntstatus_mom","employmtstatus_mom",colnames(all_data))
 # fix take child bed from take bay bed
-colnames(all_data) <- gsub("takebabybed_mom","takechildbed_mom",colnames(all_data))
+#colnames(all_data) <- gsub("takebabybed_mom","takechildbed_mom",colnames(all_data))
 
 
 all_data <- all_data[,sort(colnames(all_data))]
 
 dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictionary-0.1.0.pre-variables.csv")
 
+dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictionary-0.1.0.pre2-variables.csv")
 
-data <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
-              all_data[,c("httfeet_f","htinch_f", "visitnumber", "employment_f5", "employment_f3")])
+
+data_select <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
+              all_data[,c("httfeet_f","htinch_f")])
+
+data <- full_join(data_select, act_sum, by=c("visitnumber", "nsrrid"))
 
 # not req in needed dataset
 # time w baby variables should be numeric, units tbd
@@ -170,7 +187,6 @@ data <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
 # inches: 1 = 0 inches, 2=1inches, 3=2inches etc 
 
 
-
 data$httfeet_f[data$httfeet_f==1] <- 4
 data$httfeet_f[data$httfeet_f==2] <- 5
 data$httfeet_f[data$httfeet_f==3] <- 6
@@ -180,6 +196,9 @@ data$htinch_f <- data$htinch_f -1
 data$fath_height <- data$httfeet_f*30.48 + data$htinch_f*2.54
 data$httfeet_f <- NULL
 data$htinch_f <- NULL
+
+#put visit and nsrrid at the front,
+data <- data[,c("nsrrid", "visitnumber", colnames(data)[!colnames(data)%in%c("nsrrid", "visitnumber")])]
 
 setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
 write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")

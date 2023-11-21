@@ -1,0 +1,10 @@
+{
+  "id": "hasdiary",
+  "display_name": "Child has diary data",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
+}

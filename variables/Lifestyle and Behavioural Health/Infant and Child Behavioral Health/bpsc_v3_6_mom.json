@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "notall_som_very",
   "other": {
-    "tags": null
+    "tags": "bpsc"
   }
 }

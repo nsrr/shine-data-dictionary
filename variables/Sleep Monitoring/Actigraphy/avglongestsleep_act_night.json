@@ -1,0 +1,10 @@
+{
+  "id": "avglongestsleep_act_night",
+  "display_name": "Average longest time spent asleep over nighttime periods in minutes",
+  "description": "Variable sourced from actigraphy data",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "other": {
+    "tags": null
+  }
+}

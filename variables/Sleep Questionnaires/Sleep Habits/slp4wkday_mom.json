@@ -3,7 +3,7 @@
   "display_name": "Usual number of hours of sleep per night, on weekdays or workdays, over the last 4 weeks",
   "description": "",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "other": {
     "tags": null
   }

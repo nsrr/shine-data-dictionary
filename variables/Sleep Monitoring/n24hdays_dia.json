@@ -1,0 +1,9 @@
+{
+  "id": "n24hdays_dia",
+  "display_name": "Total number of 24-hour time window with both daytime and nighttime sleep periods",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
+}

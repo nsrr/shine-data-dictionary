@@ -1,0 +1,10 @@
+{
+  "id": "hasactigraphy",
+  "display_name": "Child has actigraphy data",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0",
+  "other": {
+    "tags": null
+  }
+}

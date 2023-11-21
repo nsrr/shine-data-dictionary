@@ -1,0 +1,10 @@
+{
+  "id": "avgsleeptime_dia_night",
+  "display_name": "Average time spent asleep over nighttime periods in minutes",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "other": {
+    "tags": null
+  }
+}

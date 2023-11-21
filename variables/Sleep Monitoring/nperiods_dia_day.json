@@ -1,0 +1,9 @@
+{
+  "id": "nperiods_dia_day",
+  "display_name": "Total number of daytime periods (8AM to 7PM within the same day)",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "other": {
+    "tags": null
+  }
+}

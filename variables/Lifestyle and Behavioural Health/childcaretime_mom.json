@@ -3,7 +3,7 @@
   "display_name": "Hours the child spent in childcare in the past 7 days",
   "description": "Participants answered this question only if they answered \"Yes\" to childcare_mom_v1.",
   "type": "numeric",
-  "units": "hours",
+  "units": "hours (hr)",
   "other": {
     "tags": null
   }

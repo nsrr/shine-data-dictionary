@@ -5,6 +5,6 @@
   "type": "choices",
   "domain": "freq_nevrsomoftn",
   "other": {
-    "tags": "bpsc"
+    "tags": null
   }
 }
