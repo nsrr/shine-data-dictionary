@@ -1,0 +1,9 @@
+{
+  "id": "firstsolidfoodother_mom",
+  "display_name": "First solid food introduced (if 'other')",
+  "description": "Other' for variable: :firstsolidfood_mom:",
+  "type": "string",
+  "labels": [
+    "diet"
+  ]
+}

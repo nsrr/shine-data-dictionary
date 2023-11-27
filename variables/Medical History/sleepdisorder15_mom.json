@@ -3,8 +3,5 @@
   "display_name": "The child stopped growing at a normal rate at any time since birth",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0unk2",
-  "other": {
-    "tags": null
-  }
+  "domain": "yes1no0unk2"
 }

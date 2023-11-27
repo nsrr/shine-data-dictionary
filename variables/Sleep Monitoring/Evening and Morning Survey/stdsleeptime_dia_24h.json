@@ -1,0 +1,10 @@
+{
+  "id": "stdsleeptime_dia_24h",
+  "display_name": "Standard deviation of time spent asleep over 24-hour time windows in minutes",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "stddursp_ib_w7_f3"
+  ]
+}

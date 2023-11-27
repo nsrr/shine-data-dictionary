@@ -1,0 +1,7 @@
+{
+  "id": "behavior63_mom",
+  "display_name": "Child is unaware when he/she performs a task right or wrong",
+  "description": "Maternal Reported<br><br>Spanish: No se da cuenta cuando realiza bien o mal una tarea",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

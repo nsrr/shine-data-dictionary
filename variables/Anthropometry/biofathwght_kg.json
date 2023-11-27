@@ -3,8 +3,5 @@
   "display_name": "Weight of baby's biological father (according to mother)",
   "description": "",
   "type": "numeric",
-  "units": "kilograms (kg)",
-  "other": {
-    "tags": null
-  }
+  "units": "kilograms (kg)"
 }

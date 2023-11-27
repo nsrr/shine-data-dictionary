@@ -4,7 +4,9 @@
   "description": "",
   "type": "choices",
   "domain": "weeklyfreq",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_quality",
+    "sleep_satisfaction",
+    "insomnia"
+  ]
 }

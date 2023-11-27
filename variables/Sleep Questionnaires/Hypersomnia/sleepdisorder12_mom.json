@@ -1,0 +1,11 @@
+{
+  "id": "sleepdisorder12_mom",
+  "display_name": "A teacher or other caregiver commented the child appears sleepy during the day",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0unk2",
+  "labels": [
+    "subjective_sleepiness",
+    "sleep_related_impairment"
+  ]
+}

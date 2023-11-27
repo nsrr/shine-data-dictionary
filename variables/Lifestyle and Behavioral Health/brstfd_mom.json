@@ -1,0 +1,10 @@
+{
+  "id": "brstfd_mom",
+  "display_name": "Child has ever been breastfed",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "breastfeeding"
+  ]
+}

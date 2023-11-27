@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "yes0no1",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "depression"
+  ]
 }

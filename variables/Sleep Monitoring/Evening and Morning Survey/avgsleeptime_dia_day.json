@@ -1,0 +1,10 @@
+{
+  "id": "avgsleeptime_dia_day",
+  "display_name": "Average time spent asleep over daytime periods in minutes",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "units": "minutes (min)",
+  "labels": [
+    "avgdursp_in_w7_f3"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "behavior17_mom",
+  "display_name": "Child repeats the same mistake over and over even after help is given",
+  "description": "Maternal Reported<br><br>Spanish: Comete el mismo error una y otra vez, incluso despuÃ©s de que se ha brindado ayuda",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

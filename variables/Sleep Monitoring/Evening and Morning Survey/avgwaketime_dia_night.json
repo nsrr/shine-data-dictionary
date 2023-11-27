@@ -1,0 +1,10 @@
+{
+  "id": "avgwaketime_dia_night",
+  "display_name": "Average end time of last rest interval over nighttime periods (hours from midnight)",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "units": "hours (hr)",
+  "labels": [
+    "avgeptrs_im_w7_f3"
+  ]
+}

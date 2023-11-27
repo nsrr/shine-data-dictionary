@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "yes1no0",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_timing"
+  ]
 }

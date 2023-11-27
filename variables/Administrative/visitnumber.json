@@ -3,8 +3,5 @@
   "display_name": "Study Visit",
   "description": "",
   "type": "choices",
-  "domain": "visit",
-  "other": {
-    "tags": null
-  }
+  "domain": "visit"
 }

@@ -1,9 +1,0 @@
-{
-  "id": "avgnwakeintervals_dia_night",
-  "display_name": "Average number of wake intervals over nighttime periods",
-  "description": "Variable sourced from sleep diaries",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
-}

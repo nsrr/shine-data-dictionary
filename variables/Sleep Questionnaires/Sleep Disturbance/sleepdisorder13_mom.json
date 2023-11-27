@@ -4,7 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "yes1no0unk2",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_satisfaction",
+    "subjective_sleepiness"
+  ]
 }

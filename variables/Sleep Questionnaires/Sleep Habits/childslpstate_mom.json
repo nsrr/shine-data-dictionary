@@ -4,7 +4,7 @@
   "description": "",
   "type": "choices",
   "domain": "sleepystate",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_hygiene"
+  ]
 }

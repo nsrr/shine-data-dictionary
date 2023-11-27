@@ -2,8 +2,5 @@
   "id": "infant_waz",
   "display_name": "Infant weight-for-age z-score",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "type": "numeric"
 }

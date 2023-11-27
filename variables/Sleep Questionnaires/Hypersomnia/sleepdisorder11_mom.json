@@ -1,0 +1,11 @@
+{
+  "id": "sleepdisorder11_mom",
+  "display_name": "Child has a problem with sleepiness during the day",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0unk2",
+  "labels": [
+    "sleep_related_impairment",
+    "subjective_sleepiness"
+  ]
+}

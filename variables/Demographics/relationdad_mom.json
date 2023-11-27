@@ -1,0 +1,10 @@
+{
+  "id": "relationdad_mom",
+  "display_name": "Mother's relationship with baby's biological father",
+  "description": "",
+  "type": "choices",
+  "domain": "relo",
+  "labels": [
+    "marital_status"
+  ]
+}

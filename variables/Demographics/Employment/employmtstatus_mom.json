@@ -3,8 +3,5 @@
   "display_name": "Mother's employment status",
   "description": "",
   "type": "choices",
-  "domain": "employ_5choice",
-  "other": {
-    "tags": null
-  }
+  "domain": "employ_5choice"
 }

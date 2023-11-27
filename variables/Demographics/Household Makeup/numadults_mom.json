@@ -2,8 +2,5 @@
   "id": "numadults_mom",
   "display_name": "Mother's number of children under 18 living in the household (excluding study subject)",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "type": "numeric"
 }

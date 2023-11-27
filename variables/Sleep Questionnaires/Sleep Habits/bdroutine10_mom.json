@@ -4,7 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "dis_argee_noneut",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_hygiene",
+    "sleep_environment"
+  ]
 }

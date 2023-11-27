@@ -1,0 +1,7 @@
+{
+  "id": "behavior11_mom",
+  "display_name": "Child becomes upset too easily",
+  "description": "Maternal Reported<br><br>Spanish: Se altera con demasiada facilidad",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

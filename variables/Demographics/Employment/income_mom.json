@@ -3,8 +3,5 @@
   "display_name": "Household annual income (9-level)",
   "description": "Maternal reported",
   "type": "choices",
-  "domain": "inc9",
-  "other": {
-    "tags": null
-  }
+  "domain": "inc9"
 }

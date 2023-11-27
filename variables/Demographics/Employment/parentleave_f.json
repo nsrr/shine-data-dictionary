@@ -3,8 +3,5 @@
   "display_name": "Father took maternity leave (if employed full or part-time)",
   "description": "Father taking paternity leave. ",
   "type": "choices",
-  "domain": "yes0no1",
-  "other": {
-    "tags": null
-  }
+  "domain": "yes0no1"
 }

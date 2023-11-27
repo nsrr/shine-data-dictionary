@@ -1,0 +1,7 @@
+{
+  "id": "behavior57_mom",
+  "display_name": "Child is unaware when he/she does well and not well",
+  "description": "Maternal Reported<br><br>Spanish: No se da cuenta cuando hace las cosas bien ni cuando las hace mal",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

@@ -2,8 +2,5 @@
   "id": "numpplhouse_mom",
   "display_name": "Number of individuals are living in the mother's household with the child (excluding self)",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "type": "numeric"
 }

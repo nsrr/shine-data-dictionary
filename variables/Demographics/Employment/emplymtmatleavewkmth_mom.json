@@ -3,8 +3,5 @@
   "display_name": "Unit of maternity leave duration",
   "description": "Units for :employmtmatleave_mom:.",
   "type": "choices",
-  "domain": "timeunit2",
-  "other": {
-    "tags": null
-  }
+  "domain": "timeunit2"
 }

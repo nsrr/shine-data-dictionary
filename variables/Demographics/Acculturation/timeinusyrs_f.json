@@ -3,8 +3,5 @@
   "display_name": "Total years father has lived in the United States",
   "description": "See :timeinus5yrs_f: for durations over 5 years",
   "type": "choices",
-  "domain": "years",
-  "other": {
-    "tags": null
-  }
+  "domain": "years"
 }

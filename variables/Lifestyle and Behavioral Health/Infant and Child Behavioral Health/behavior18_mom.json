@@ -1,0 +1,7 @@
+{
+  "id": "behavior18_mom",
+  "display_name": "Child acts wilder or sillier than others in the group (i.e. birthday parties, playgroups)",
+  "description": "Maternal Reported<br><br>Spanish: Es mÃ¡s hiperactivo o necio que los demÃ¡s niÃ±os del grupo (por ejemplo, en fiestas de cumpleaÃ±os o cuando juegan en grupo",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "smkduringpreg_mom",
+  "display_name": "Mother smoked any cigarettes during pregnancy",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "smoking"
+  ]
+}

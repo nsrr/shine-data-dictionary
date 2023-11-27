@@ -3,8 +3,5 @@
   "display_name": "Mother's country of bith",
   "description": "",
   "type": "choices",
-  "domain": "born_us",
-  "other": {
-    "tags": null
-  }
+  "domain": "born_us"
 }

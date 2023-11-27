@@ -2,8 +2,5 @@
   "id": "borncountryother_f",
   "display_name": "Country (if 'other')",
   "description": "",
-  "type": "string",
-  "other": {
-    "tags": null
-  }
+  "type": "string"
 }

@@ -3,7 +3,8 @@
   "display_name": "Number of times the child typically wakes during the night",
   "description": "",
   "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_satisfaction",
+    "sleep_quality"
+  ]
 }

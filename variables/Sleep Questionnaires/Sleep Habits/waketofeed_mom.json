@@ -4,7 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "freq_nevroccoftn",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_satisfaction",
+    "sleep_quality"
+  ]
 }

@@ -1,0 +1,10 @@
+{
+  "id": "covsleeptime_dia_night",
+  "display_name": "Coefficient of variation of time spent asleep over nighttime periods",
+  "description": "Variable sourced from sleep diaries",
+  "type": "numeric",
+  "units": "percent (%)",
+  "labels": [
+    "covdursp_im_w7_f3"
+  ]
+}

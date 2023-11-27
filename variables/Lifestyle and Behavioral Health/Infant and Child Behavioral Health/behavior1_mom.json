@@ -1,0 +1,7 @@
+{
+  "id": "behavior1_mom",
+  "display_name": "Child overreacts to small problems",
+  "description": "Maternal Reported<br><br>Spanish: Reacciona de manera exagerada antes los problemas pequeÃ±os",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

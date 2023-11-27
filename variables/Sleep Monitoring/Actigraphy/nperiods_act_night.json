@@ -2,8 +2,5 @@
   "id": "nperiods_act_night",
   "display_name": "Total number of nighttime periods (7PM to 8AM the next day)",
   "description": "Variable sourced from actigraphy data",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "type": "numeric"
 }

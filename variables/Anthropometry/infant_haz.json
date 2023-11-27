@@ -2,8 +2,5 @@
   "id": "infant_haz",
   "display_name": "Infant height-for-age z-score",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "type": "numeric"
 }

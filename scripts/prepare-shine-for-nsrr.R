@@ -1,9 +1,10 @@
 # Prepare SHINE for nsrr #
 
-ver="0.1.0.pre2"
+ver="0.1.0.pre3"
 
 library(haven)
 library(dplyr)
+
 
 setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets")
 
@@ -200,9 +201,32 @@ data$htinch_f <- NULL
 #put visit and nsrrid at the front,
 data <- data[,c("nsrrid", "visitnumber", colnames(data)[!colnames(data)%in%c("nsrrid", "visitnumber")])]
 
+#Harmonized dataset
+harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","race_baby","infantsex")]%>%
+	dplyr::mutate(nsrr_age=infant_agedays/365,
+				  nsrr_bmi=infant_bmi,
+				  nsrr_race=dplyr::case_when(
+				  race_baby==1 ~ "white",
+				  race_baby==2 ~ "black or african american",
+				  race_baby==3 ~ "asian",
+				  race_baby==4 ~ "hispanic",
+				  race_baby==5 ~ "unknown",
+				  TRUE ~ "not reported"
+				  ),
+				  nsrr_sex=dplyr::case_when(
+				  infantsex==1 ~ "male",
+				  infantsex==2 ~ "female",
+				  TRUE ~ "not reported"
+				),
+				visit=visitnumber
+				)%>%
+	select(nsrrid,visit,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
+				
+
+
 setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
 write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")
-
+write.csv(harmonized_data, paste(ver,"/shine-harmonized-dataset-",ver,".csv",sep=""), row.names = F, na="")
 
 
 

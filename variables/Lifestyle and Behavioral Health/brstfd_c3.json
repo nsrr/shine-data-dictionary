@@ -1,0 +1,10 @@
+{
+  "id": "brstfd_c3",
+  "display_name": "Breast feeding mode/categories",
+  "description": "",
+  "type": "choices",
+  "domain": "babyfeed",
+  "labels": [
+    "breastfeeding"
+  ]
+}

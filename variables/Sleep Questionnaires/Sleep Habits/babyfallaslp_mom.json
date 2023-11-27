@@ -4,7 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "fallasleep",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_hygiene",
+    "sleep_environment"
+  ]
 }

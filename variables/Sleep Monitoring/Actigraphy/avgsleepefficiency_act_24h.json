@@ -4,7 +4,7 @@
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "percent (%)",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "avgeffsp_ib_w7_f2"
+  ]
 }

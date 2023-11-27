@@ -1,0 +1,7 @@
+{
+  "id": "behavior34_mom",
+  "display_name": "Child leaves messes that others have to clean up even after instruction",
+  "description": "Maternal Reported<br><br>Spanish: Deja en desorden cosas que otros tienen que arreglar, incluso despuÃ©s de que se le ha ordenado arreglarlas",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

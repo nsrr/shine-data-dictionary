@@ -3,8 +3,5 @@
   "display_name": "Mother's highest level of education completed",
   "description": "",
   "type": "choices",
-  "domain": "educ_mom",
-  "other": {
-    "tags": null
-  }
+  "domain": "educ_mom"
 }

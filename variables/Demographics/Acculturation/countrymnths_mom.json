@@ -3,8 +3,5 @@
   "display_name": "Total months mother has lived in the United States",
   "description": "",
   "type": "numeric",
-  "units": "months",
-  "other": {
-    "tags": null
-  }
+  "units": "months"
 }

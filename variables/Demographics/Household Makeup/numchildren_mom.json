@@ -2,8 +2,5 @@
   "id": "numchildren_mom",
   "display_name": "Mother's number of adults over 18 living in the household (excluding self)",
   "description": "",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "type": "numeric"
 }

@@ -3,8 +3,5 @@
   "display_name": "Father sleeps in the same home as their child at least 1 night a week",
   "description": "",
   "type": "choices",
-  "domain": "yes1no0",
-  "other": {
-    "tags": null
-  }
+  "domain": "yes1no0"
 }

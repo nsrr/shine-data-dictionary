@@ -3,8 +3,5 @@
   "display_name": "Minutes usually awake when the child wakes during the night",
   "description": "",
   "type": "choices",
-  "domain": "minsawake",
-  "other": {
-    "tags": null
-  }
+  "domain": "minsawake"
 }

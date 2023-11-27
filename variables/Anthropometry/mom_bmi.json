@@ -3,8 +3,5 @@
   "display_name": "Maternal BMI",
   "description": "",
   "type": "numeric",
-  "units": "kilograms per meter squared (kg/m2)",
-  "other": {
-    "tags": null
-  }
+  "units": "kilograms per meter squared (kg/m2)"
 }

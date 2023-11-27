@@ -4,7 +4,7 @@
   "description": "See :waketimeampm_mom: for AM/PM",
   "type": "time",
   "units": "hh:mm",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_timing"
+  ]
 }

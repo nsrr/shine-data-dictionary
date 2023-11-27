@@ -2,8 +2,5 @@
   "id": "edindepres1sttri",
   "display_name": "Edinburgh Postnatal Depression Scale (EPDS) 28 week Score",
   "description": "EHR version, currently n/a can check compatibility with epdsscore_mom when have the data",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "type": "numeric"
 }

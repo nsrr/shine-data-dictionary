@@ -4,7 +4,8 @@
   "description": "",
   "type": "choices",
   "domain": "whensnore",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sdb",
+    "snore"
+  ]
 }

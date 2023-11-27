@@ -1,0 +1,10 @@
+{
+  "id": "bpsc_v3_2_mom",
+  "display_name": "The child has a hard time in new places",
+  "description": "Maternal reported<br><br>Question from the BSPC (Baby Pediatric Symptom Checklist) [Scheldrick et. al, 2012 (Pubmed ID: 23092547)](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3763819/)<br><br>[Search for all Baby Peadiatric Symptom Checklist variables within this dataset](https://sleepdata.org/datasets/shine/variables?search=bpsc)",
+  "type": "choices",
+  "domain": "notall_som_very",
+  "labels": [
+    "bpsc"
+  ]
+}

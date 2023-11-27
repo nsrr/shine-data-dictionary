@@ -1,0 +1,10 @@
+{
+  "id": "firstsolidfood_mom",
+  "display_name": "First solid food introduced",
+  "description": "See :firstsolidfoodother_mom: if 'Other'",
+  "type": "choices",
+  "domain": "foodtype",
+  "labels": [
+    "diet"
+  ]
+}

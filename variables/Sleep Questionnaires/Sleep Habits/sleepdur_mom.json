@@ -3,7 +3,7 @@
   "display_name": "Longest stretch of time that the child is asleep during the night without waking up, on a typical night",
   "description": "",
   "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_duration"
+  ]
 }

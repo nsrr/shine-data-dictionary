@@ -3,8 +3,5 @@
   "display_name": "Infant birth weight",
   "description": "",
   "type": "numeric",
-  "units": "kilograms (kg)",
-  "other": {
-    "tags": null
-  }
+  "units": "kilograms (kg)"
 }

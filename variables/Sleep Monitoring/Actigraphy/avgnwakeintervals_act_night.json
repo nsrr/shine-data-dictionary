@@ -3,7 +3,7 @@
   "display_name": "Average number of wake intervals over nighttime periods",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "avgnumwk_im_w7_f2"
+  ]
 }

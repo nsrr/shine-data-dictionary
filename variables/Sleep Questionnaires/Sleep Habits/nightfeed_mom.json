@@ -3,7 +3,8 @@
   "display_name": "Number of times during the night mother feeds the baby, including the time after the baby falls asleep for the night and before s/he wakes for the day",
   "description": "",
   "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_satisfaction",
+    "sleep_quality"
+  ]
 }

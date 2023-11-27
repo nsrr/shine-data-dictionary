@@ -4,7 +4,7 @@
   "description": "AM/PM info for variable: :fallaslp_mom:",
   "type": "choices",
   "domain": "ampm",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_timing"
+  ]
 }

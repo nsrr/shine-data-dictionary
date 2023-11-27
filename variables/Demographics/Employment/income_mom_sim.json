@@ -3,8 +3,5 @@
   "display_name": "Household annual income (3-level)",
   "description": "Recoded mother income question. ",
   "type": "choices",
-  "domain": "inc3",
-  "other": {
-    "tags": null
-  }
+  "domain": "inc3"
 }

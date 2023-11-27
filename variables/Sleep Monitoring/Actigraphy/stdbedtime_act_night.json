@@ -4,7 +4,7 @@
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "hours (hr)",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "stdbptrs_im_w7_f2"
+  ]
 }

@@ -1,9 +1,0 @@
-{
-  "id": "feed1_mom",
-  "display_name": "Child's age when stopped breastfeeding",
-  "description": "See :feed1time_mom: for units",
-  "type": "numeric",
-  "other": {
-    "tags": null
-  }
-}

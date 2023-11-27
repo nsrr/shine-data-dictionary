@@ -3,7 +3,7 @@
   "display_name": "Number of naps does the child takes during a typical day (between 8 in the morning and 7 in the evening)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "nap"
+  ]
 }

@@ -3,8 +3,5 @@
   "display_name": "Infant length",
   "description": "",
   "type": "numeric",
-  "units": "centimeter (cm)",
-  "other": {
-    "tags": null
-  }
+  "units": "centimeter (cm)"
 }

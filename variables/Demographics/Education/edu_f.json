@@ -3,8 +3,5 @@
   "display_name": "Father's highest level of education completed",
   "description": "Recoded to collapse small cells for NSRR.",
   "type": "choices",
-  "domain": "educ_f",
-  "other": {
-    "tags": null
-  }
+  "domain": "educ_f"
 }

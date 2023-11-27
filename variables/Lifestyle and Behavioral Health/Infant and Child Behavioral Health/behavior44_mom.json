@@ -1,0 +1,7 @@
+{
+  "id": "behavior44_mom",
+  "display_name": "Child cannot find things in room or play area even when given specific instructions",
+  "description": "Maternal Reported<br><br>Spanish: No puede encontrar cosas en una habitaciÃ³n o zona de juego aunque le hayan dado instrucciones especÃ­ficas",
+  "type": "choices",
+  "domain": "freq_nevrsomoftn"
+}

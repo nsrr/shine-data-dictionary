@@ -1,10 +1,10 @@
 {
   "id": "babywake_f",
-  "display_name": "Level at which babys night wakings are a problem for the father",
+  "display_name": "Level at which baby's night wakings are a problem for the father",
   "description": "Paternal Reported",
   "type": "choices",
   "domain": "problvl",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_satisfaction"
+  ]
 }

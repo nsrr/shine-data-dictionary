@@ -3,7 +3,8 @@
   "display_name": "Total time the child spend sleeping during the day (between 8 in the morning and 7 in the evening)",
   "description": "",
   "type": "numeric",
-  "other": {
-    "tags": null
-  }
+  "labels": [
+    "sleep_duration",
+    "nap"
+  ]
 }

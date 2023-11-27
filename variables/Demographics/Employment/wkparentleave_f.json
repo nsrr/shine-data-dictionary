@@ -3,8 +3,5 @@
   "display_name": "Father's weeks of paternity leave",
   "description": "The length of paternity leave. ",
   "type": "numeric",
-  "units": "weeks",
-  "other": {
-    "tags": null
-  }
+  "units": "weeks"
 }
