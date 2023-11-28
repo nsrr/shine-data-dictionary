@@ -1,7 +1,7 @@
 {
   "id": "behavior26_mom",
   "display_name": "Small events trigger big reactions in the child",
-  "description": "Maternal Reported<br><br>Spanish: Las cosas sin importancia le provocan reacciones desmedidas",
+  "description": "Maternal Reported<br><br>Spanish: Le molestan los ruidos fuertes, las luces intensas o ciertos olores",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

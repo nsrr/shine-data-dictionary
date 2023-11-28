@@ -1,7 +1,7 @@
 {
   "id": "behavior33_mom",
   "display_name": "Child does not notice when his/her behavior causes negative reactions",
-  "description": "Maternal Reported<br><br>Spanish: No se da cuenta cuando su comportamiento provoca reacciones negativas",
+  "description": "Maternal Reported<br><br>Spanish: Necesita la ayuda de un adulto para concentrarse cuando está realizando una tarea",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

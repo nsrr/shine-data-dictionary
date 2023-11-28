@@ -1,7 +1,7 @@
 {
   "id": "behavior14_mom",
   "display_name": "When sent to get something, forgets what he/she is supposed to get",
-  "description": "Maternal Reported<br><br>Spanish: Cuando se le pide que traiga algo, se olvida de quÃ© es lo que debÃ­a traer",
+  "description": "Maternal Reported<br><br>Spanish: Es necesario supervisarlo más que a sus amiguitos de la misma edad",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

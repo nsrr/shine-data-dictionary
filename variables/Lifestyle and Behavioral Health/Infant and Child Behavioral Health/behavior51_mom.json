@@ -1,7 +1,7 @@
 {
   "id": "behavior51_mom",
   "display_name": "Child has trouble getting started on activities or tasks even after instructed",
-  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para comenzar actividades o tareas, incluso despuÃ©s de haber recibido instrucciones",
+  "description": "Maternal Reported<br><br>Spanish: Las situaciones en que hay mucha gente, mucho ruido o demasiada actividad lo abruman o lo ponen hiperactivo",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

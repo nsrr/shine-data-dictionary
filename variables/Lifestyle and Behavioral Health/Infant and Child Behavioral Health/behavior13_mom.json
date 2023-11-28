@@ -1,7 +1,7 @@
 {
   "id": "behavior13_mom",
   "display_name": "Child has to be more closely supervised than similar playmates",
-  "description": "Maternal Reported<br><br>Spanish: Es necesario supervisarlo mÃ¡s que a sus amiguitos de la misma edad",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para concentrarse en los juegos, los rompecabezas o las actividades relacionadas con el juego",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

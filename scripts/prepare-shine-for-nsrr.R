@@ -16,7 +16,7 @@ act_sum$nsrrid <- act_sum$subject
 act_sum <- act_sum[,colnames(act_sum)[!colnames(act_sum)%in%c("act_sheet_id", "dia_sheet_id", 
                      "startdate_dia","enddate_dia",  "startdate_act","enddate_act","subject", "timepoint")]]
 
-intake_main <- read_sas("intake_main.sas7bdat")
+intake_main <- read_sas("intake_main_112823.sas7bdat")
 intake_dad <- read_sas("intake_dad.sas7bdat")
 
 mom_anthro <- read_sas("mom_anthro.sas7bdat")
@@ -42,7 +42,7 @@ colnames(v2_dad) <- gsub("employment_f_int",
 child_anthro <- read_sas("child_anthro_100623.sas7bdat")
 child_anthro$visitnumber <- NA
 child_anthro$visitnumber[child_anthro$visit=="birth data"] <- 0
-child_anthro$visitnumber[child_anthro$visitr=="visit 1"] <- 1
+child_anthro$visitnumber[child_anthro$visit=="visit 1"] <- 1
 child_anthro$visitnumber[child_anthro$visit=="visit 2"] <- 2
 child_anthro$visitnumber[child_anthro$visit=="visit 3"] <- 3
 child_anthro$visitnumber[child_anthro$visit=="visit 4"] <- 4
@@ -103,7 +103,7 @@ colnames(v3_main) <- gsub("employmntstatus_mom","employmtstatus_mom",colnames(v3
 colnames(v1_main) <- gsub("takebabybed_mom","takechildbed_mom",colnames(v1_main))
 colnames(v2_main) <- gsub("takebabybed_mom","takechildbed_mom",colnames(v2_main))
 
-allvars <- data.frame(matrix(ncol = 621, nrow = 433))
+allvars <- data.frame(matrix(ncol = 622, nrow = 433))
 x <- unique(c( colnames(intake_main),
   colnames(mom_anthro_0),
   colnames(intake_dad), 
@@ -154,11 +154,10 @@ all_data <- left_join(all_data, child_anthro, by=c("nsrrid", "visitnumber"))
 
 all_data <- all_data[,sort(colnames(all_data))]
 
-dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictionary-0.1.0.pre-variables.csv")
+# File path needs to be edited for specific user
+dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictionary-0.1.0.pre3-variables.csv")
 
-dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictionary-0.1.0.pre2-variables.csv")
-
-
+#restrict to data that's in the current dictionary
 data_select <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
               all_data[,c("httfeet_f","htinch_f")])
 
@@ -201,6 +200,13 @@ data$htinch_f <- NULL
 #put visit and nsrrid at the front,
 data <- data[,c("nsrrid", "visitnumber", colnames(data)[!colnames(data)%in%c("nsrrid", "visitnumber")])]
 
+#pull race and sex across from intake to all visits
+data <- data %>%
+  group_by(nsrrid) %>%
+  mutate(race_baby = unique(race_baby)[1],
+         infantsex = unique(infantsex)[1])
+
+
 #Harmonized dataset
 harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","race_baby","infantsex")]%>%
 	dplyr::mutate(nsrr_age=infant_agedays/365,
@@ -217,10 +223,8 @@ harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","
 				  infantsex==1 ~ "male",
 				  infantsex==2 ~ "female",
 				  TRUE ~ "not reported"
-				),
-				visit=visitnumber
-				)%>%
-	select(nsrrid,visit,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
+				))%>%
+	select(nsrrid,visitnumber,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
 				
 
 

@@ -1,7 +1,7 @@
 {
   "id": "behavior62_mom",
   "display_name": "Child plays carelessly or recklessly in situations where he/she could be hurt (such as playground, swimming pool)",
-  "description": "Maternal Reported<br><br>Spanish: Juega de manera descuidada o imprudente en situaciones en las que podrÃ­a hacerse daÃ±o (por ejemplo, en la zona de columpios y toboganes o en la piscina)",
+  "description": "Maternal Reported<br><br>Spanish: Su capacidad de concentración es muy baja",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

@@ -1,7 +1,7 @@
 {
   "id": "behavior24_mom",
   "display_name": "Child has trouble following established routines for sleeping, eating, or play activities",
-  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para realizar las actividades habituales relacionadas con la hora de dormir, las comidas o el juego",
+  "description": "Maternal Reported<br><br>Spanish: Es inquieto, impaciente o se mueve mucho",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

@@ -1,7 +1,7 @@
 {
   "id": "behavior4_mom",
   "display_name": "When instructed to clean up, the child puts things away in a disorganized, random way",
-  "description": "Maternal Reported<br><br>Spanish: Cuando se le ordena recoger sus cosas, las guarda de manera desorganizada y desordenada",
+  "description": "Maternal Reported<br><br>Spanish: No termina las tareas, incluso después de haber recibido instrucciones",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

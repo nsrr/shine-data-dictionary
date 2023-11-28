@@ -1,7 +1,7 @@
 {
   "id": "behavior53_mom",
   "display_name": "Child does not try as hard as his/her ability on activities",
-  "description": "Maternal Reported<br><br>Spanish: Al realizar actividades no se esfuerza lo suficiente para su capacidad",
+  "description": "Maternal Reported<br><br>Spanish: Actúa desenfrenadamente o sin control",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

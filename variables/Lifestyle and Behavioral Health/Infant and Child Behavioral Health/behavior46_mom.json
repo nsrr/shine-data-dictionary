@@ -1,7 +1,7 @@
 {
   "id": "behavior46_mom",
   "display_name": "After having a problem, the child will stay disappointed for a long time",
-  "description": "Maternal Reported<br><br>Spanish: DespuÃ©s de haber tenido un problema, queda fastidiado por mucho tiempo",
+  "description": "Maternal Reported<br><br>Spanish: Se resiste a los cambios de rutina, alimentos, lugares, etc.",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

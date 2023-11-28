@@ -1,7 +1,7 @@
 {
   "id": "behavior56_mom",
   "display_name": "Child completes tasks or activities too quickly",
-  "description": "Maternal Reported<br><br>Spanish: Termina las tareas o actividades con demasiada rapidez",
+  "description": "Maternal Reported<br><br>Spanish: No puede terminar de explicar un hecho, de describir a una persona o de contar un cuento",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

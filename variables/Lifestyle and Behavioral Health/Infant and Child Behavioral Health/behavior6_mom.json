@@ -1,7 +1,7 @@
 {
   "id": "behavior6_mom",
   "display_name": "Child has explosive, angry outbursts",
-  "description": "Maternal Reported<br><br>Spanish: Tiene arranques explosivos de ira",
+  "description": "Maternal Reported<br><br>Spanish: No se da cuenta cuando realiza bien o mal una tarea",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

@@ -1,7 +1,7 @@
 {
   "id": "behavior52_mom",
   "display_name": "Child acts too wild or out of control",
-  "description": "Maternal Reported<br><br>Spanish: ActÃºa desenfrenadamente o sin control",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para comenzar actividades o tareas, incluso después de haber recibido instrucciones",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

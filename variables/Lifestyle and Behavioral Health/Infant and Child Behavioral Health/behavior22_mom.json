@@ -1,7 +1,7 @@
 {
   "id": "behavior22_mom",
   "display_name": "Child makes silly mistakes on things he/she can do",
-  "description": "Maternal Reported<br><br>Spanish: Comete errores tontos en cosas que sabe hacer",
+  "description": "Maternal Reported<br><br>Spanish: Tiene cambios frecuentes de humor",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

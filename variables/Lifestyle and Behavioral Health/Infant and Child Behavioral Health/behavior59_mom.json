@@ -1,7 +1,7 @@
 {
   "id": "behavior59_mom",
   "display_name": "Child has trouble remembering something, even after a brief period of time",
-  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para recordar las cosas, incluso cuando ha transcurrido muy poco tiempo",
+  "description": "Maternal Reported<br><br>Spanish: Se distrae con facilidad durante las actividades",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

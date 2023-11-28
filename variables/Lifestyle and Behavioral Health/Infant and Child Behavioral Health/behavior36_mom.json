@@ -1,7 +1,7 @@
 {
   "id": "behavior36_mom",
   "display_name": "Child reacts more strongly to situations than other children",
-  "description": "Maternal Reported<br><br>Spanish: Reacciona ante las situaciones con mayor intensidad que los demÃ¡s niÃ±os",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para cambiar de actividad",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

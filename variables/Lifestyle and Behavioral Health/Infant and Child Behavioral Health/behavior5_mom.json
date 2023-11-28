@@ -1,7 +1,7 @@
 {
   "id": "behavior5_mom",
   "display_name": "Child becomes upset with new situations",
-  "description": "Maternal Reported<br><br>Spanish: Se altera frente a situaciones nuevas",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para recordar las cosas, incluso cuando ha transcurrido muy poco tiempo",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

@@ -1,0 +1,7 @@
+{
+  "id": "infantsex",
+  "display_name": "Infant's sex",
+  "description": "",
+  "type": "choices",
+  "domain": "sex"
+}

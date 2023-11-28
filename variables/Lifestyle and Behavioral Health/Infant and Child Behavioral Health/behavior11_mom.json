@@ -1,7 +1,7 @@
 {
   "id": "behavior11_mom",
   "display_name": "Child becomes upset too easily",
-  "description": "Maternal Reported<br><br>Spanish: Se altera con demasiada facilidad",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para adaptarse a personas desconocidas (como una niñera, un maestro, un nuevo amigo o un trabajador de la guardería infantil)",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

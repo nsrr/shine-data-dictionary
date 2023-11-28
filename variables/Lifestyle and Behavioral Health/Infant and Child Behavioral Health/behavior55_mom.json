@@ -1,7 +1,7 @@
 {
   "id": "behavior55_mom",
   "display_name": "Child is unable to finish describing an event, person, or story",
-  "description": "Maternal Reported<br><br>Spanish: No puede terminar de explicar un hecho, de describir a una persona o de contar un cuento",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para refrenarse, incluso después de que se le ha pedido que lo haga",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

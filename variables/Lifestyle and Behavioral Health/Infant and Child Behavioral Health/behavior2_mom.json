@@ -1,7 +1,7 @@
 {
   "id": "behavior2_mom",
   "display_name": "Child when given two things to do, remembers only the first or last",
-  "description": "Maternal Reported<br><br>Spanish: Cuando se le dan dos cosas para hacer, recuerda Ãºnicamente la primera o la Ãºltima",
+  "description": "Maternal Reported<br><br>Spanish: Cuando se queda atascado, tiene dificultades para pensar en cómo resolver un problema o terminar una actividad de manera diferente",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

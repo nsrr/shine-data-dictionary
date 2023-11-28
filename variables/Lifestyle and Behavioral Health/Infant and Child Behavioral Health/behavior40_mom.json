@@ -1,7 +1,7 @@
 {
   "id": "behavior40_mom",
   "display_name": "Child has trouble \"joining in\" at unfamiliar social events (such as birthday parties, picnics, holiday gatherings)",
-  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para \"adaptarse\" en los eventos sociales que no le son familiares (como las fiestas de cumpleaÃ±os,  los picnics y las reuniones de ocasiones festivas)",
+  "description": "Maternal Reported<br><br>Spanish: Cuando se le ordena recoger sus cosas, las guarda de manera desorganizada y desordenada",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

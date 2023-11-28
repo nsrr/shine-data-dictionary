@@ -1,7 +1,7 @@
 {
   "id": "behavior38_mom",
   "display_name": "Child does not realize that certain actions bother others",
-  "description": "Maternal Reported<br><br>Spanish: No se da cuenta de que algunas acciones molestan a los demÃ¡s",
+  "description": "Maternal Reported<br><br>Spanish: En plena actividad, se olvida de lo que estaba haciendo",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

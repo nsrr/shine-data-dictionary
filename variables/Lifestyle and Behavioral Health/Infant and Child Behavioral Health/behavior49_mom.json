@@ -1,7 +1,7 @@
 {
   "id": "behavior49_mom",
   "display_name": "Child does not complete tasks even after given directions",
-  "description": "Maternal Reported<br><br>Spanish: No termina las tareas, incluso despuÃ©s de haber recibido instrucciones",
+  "description": "Maternal Reported<br><br>Spanish: Es muy bullicioso para hablar o para jugar",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

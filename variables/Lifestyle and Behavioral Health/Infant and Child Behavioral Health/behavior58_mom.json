@@ -1,7 +1,7 @@
 {
   "id": "behavior58_mom",
   "display_name": "Child gets sidetracked during activities",
-  "description": "Maternal Reported<br><br>Spanish: Se distrae con facilidad durante las actividades",
+  "description": "Maternal Reported<br><br>Spanish: No se da cuenta cuando hace las cosas bien ni cuando las hace mal",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

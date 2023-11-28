@@ -1,7 +1,7 @@
 {
   "id": "behavior37_mom",
   "display_name": "Child forgets what he/she is doing in middle of an activity",
-  "description": "Maternal Reported<br><br>Spanish: En plena actividad, se olvida de lo que estaba haciendo",
+  "description": "Maternal Reported<br><br>Spanish: Reacciona ante las situaciones con mayor intensidad que los demás niños",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

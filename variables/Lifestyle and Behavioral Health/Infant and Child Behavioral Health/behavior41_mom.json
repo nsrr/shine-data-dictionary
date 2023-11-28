@@ -1,7 +1,7 @@
 {
   "id": "behavior41_mom",
   "display_name": "Child is easily overwhelmed or overstimulated by typical daily activities",
-  "description": "Maternal Reported<br><br>Spanish: Las actividades cotidianas comunes lo abruman o lo hiperestimulan con facilidad",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para \"adaptarse\" en los eventos sociales que no le son familiares (como las fiestas de cumpleaños,  los picnics y las reuniones de ocasiones festivas)",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

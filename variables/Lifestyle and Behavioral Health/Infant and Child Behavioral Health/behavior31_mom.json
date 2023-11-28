@@ -1,7 +1,7 @@
 {
   "id": "behavior31_mom",
   "display_name": "Child's angry or tearful outbursts are intense but end suddenly",
-  "description": "Maternal Reported<br><br>Spanish: Tiene arranques intensos de ira o de llanto, pero estos terminan repentinamente",
+  "description": "Maternal Reported<br><br>Spanish: Le molestan los cambios en su entorno (como muebles nuevos, cosas que han cambiado de lugar en la habitación o ropa nueva)",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }
