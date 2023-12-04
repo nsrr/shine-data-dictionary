@@ -1,7 +1,7 @@
 {
   "id": "infant_weight",
-  "display_name": "Infant birth weight",
-  "description": "",
+  "display_name": "Infant weight",
+  "description": "For 'intake' visit this variable represents infant birth weight",
   "type": "numeric",
   "units": "kilograms (kg)"
 }

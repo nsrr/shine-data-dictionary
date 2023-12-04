@@ -3,5 +3,6 @@
   "display_name": "Height of baby's biological father (according to mother)",
   "description": "",
   "type": "numeric",
+  "domain": "numeric_missing",
   "units": "centimeter (cm)"
 }

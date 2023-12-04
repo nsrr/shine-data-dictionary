@@ -1,7 +1,7 @@
 {
   "id": "countrymnths_mom",
   "display_name": "Total months mother has lived in the United States",
-  "description": "",
+  "description": "For those with 'Other' country of birth in: :country_mom:",
   "type": "numeric",
   "units": "months"
 }

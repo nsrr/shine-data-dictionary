@@ -1,6 +1,6 @@
 # Prepare SHINE for nsrr #
 
-ver="0.1.0.pre3"
+ver="0.1.0.pre4"
 
 library(haven)
 library(dplyr)
@@ -205,6 +205,22 @@ data <- data %>%
   group_by(nsrrid) %>%
   mutate(race_baby = unique(race_baby)[1],
          infantsex = unique(infantsex)[1])
+
+# add missing code to missing maternal-reported father's height & weight
+data$biofathht_cm[is.na(data$biofathht_cm)] <- "DK"
+data$biofathwght_kg[is.na(data$biofathwght_kg)] <- "DK"
+
+data$biofathwtyn_mom <- NULL
+data$biofathhtyn_mom <- NULL
+
+# combine months in US and years in US to 1 month's variable
+# if we have both, multiply & add
+data$countrymnths_mom[!is.na(data$countryyrs_mom)&!is.na(data$countrymnths_mom)] <- data$countrymnths_mom[!is.na(data$countryyrs_mom)&!is.na(data$countrymnths_mom)] +
+  12*data$countryyrs_mom[!is.na(data$countryyrs_mom)&!is.na(data$countrymnths_mom)]
+# if we only have year multiply
+data$countrymnths_mom[!is.na(data$countryyrs_mom)&is.na(data$countrymnths_mom)] <- 12*data$countryyrs_mom[!is.na(data$countryyrs_mom)&is.na(data$countrymnths_mom)]
+#drop years variable
+data$countryyrs_mom <- NULL
 
 
 #Harmonized dataset

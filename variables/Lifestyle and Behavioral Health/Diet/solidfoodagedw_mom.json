@@ -1,6 +1,6 @@
 {
   "id": "solidfoodagedw_mom",
-  "display_name": "Time untis for age of baby receiving solid food",
+  "display_name": "Time units for age of baby receiving solid food",
   "description": "Units for variable: :solidfoodage_mom:",
   "type": "choices",
   "domain": "timeunit3",

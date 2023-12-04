@@ -1,6 +1,6 @@
 {
   "id": "country_mom",
-  "display_name": "Mother's country of bith",
+  "display_name": "Mother's country of birth",
   "description": "",
   "type": "choices",
   "domain": "born_us"
