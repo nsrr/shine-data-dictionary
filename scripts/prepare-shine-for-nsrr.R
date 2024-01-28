@@ -1,6 +1,6 @@
 # Prepare SHINE for nsrr #
 
-ver="0.1.0.pre4"
+ver="0.1.0.pre5"
 
 library(haven)
 library(dplyr)
@@ -10,13 +10,17 @@ setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/
 
 act_sum <- read_sas("shinechildsleepsummary_nsrr.sas7bdat")
 act_sum$visitnumber <- act_sum$timepoint
-act_sum$nsrrid <- act_sum$subject
+
+#match subject to NSRR ID with Key
+key <- read.csv("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets/NSRR_RiseandSHINE_randomid_key.csv")
+colnames(key) <- c("subject", "nsrrid")
+act_sum <- full_join(act_sum, key, by="subject")
 
 #drop some variables, slice ID's and dates
 act_sum <- act_sum[,colnames(act_sum)[!colnames(act_sum)%in%c("act_sheet_id", "dia_sheet_id", 
                      "startdate_dia","enddate_dia",  "startdate_act","enddate_act","subject", "timepoint")]]
 
-intake_main <- read_sas("intake_main_112823.sas7bdat")
+intake_main <- read_sas("intake_main.sas7bdat")
 intake_dad <- read_sas("intake_dad.sas7bdat")
 
 mom_anthro <- read_sas("mom_anthro.sas7bdat")
@@ -103,7 +107,7 @@ colnames(v3_main) <- gsub("employmntstatus_mom","employmtstatus_mom",colnames(v3
 colnames(v1_main) <- gsub("takebabybed_mom","takechildbed_mom",colnames(v1_main))
 colnames(v2_main) <- gsub("takebabybed_mom","takechildbed_mom",colnames(v2_main))
 
-allvars <- data.frame(matrix(ncol = 622, nrow = 433))
+
 x <- unique(c( colnames(intake_main),
   colnames(mom_anthro_0),
   colnames(intake_dad), 
@@ -117,6 +121,7 @@ x <- unique(c( colnames(intake_main),
   colnames(v3_dad),
   colnames(v3_main),
   colnames(v4_main)))
+allvars <- data.frame(matrix(ncol = length(x), nrow = 433))
 colnames(allvars) <- x
 allvars$nsrrid <- unique(intake_main$nsrrid)
 
@@ -159,7 +164,7 @@ dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictio
 
 #restrict to data that's in the current dictionary
 data_select <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
-              all_data[,c("httfeet_f","htinch_f")])
+              all_data[,c("httfeet_f","htinch_f", "mom_height", "mom_weight")])
 
 data <- full_join(data_select, act_sum, by=c("visitnumber", "nsrrid"))
 
@@ -221,6 +226,10 @@ data$countrymnths_mom[!is.na(data$countryyrs_mom)&!is.na(data$countrymnths_mom)]
 data$countrymnths_mom[!is.na(data$countryyrs_mom)&is.na(data$countrymnths_mom)] <- 12*data$countryyrs_mom[!is.na(data$countryyrs_mom)&is.na(data$countrymnths_mom)]
 #drop years variable
 data$countryyrs_mom <- NULL
+
+#sort by ID
+
+data <- data[order(data$nsrrid),]
 
 
 #Harmonized dataset

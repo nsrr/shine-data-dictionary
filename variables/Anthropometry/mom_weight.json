@@ -1,0 +1,8 @@
+{
+  "id": "mom_weight",
+  "display_name": "Weight of baby's mother",
+  "description": "",
+  "type": "numeric",
+  "domain": "numeric_missing",
+  "units": "kilograms (kg)"
+}
