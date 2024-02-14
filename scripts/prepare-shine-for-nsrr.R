@@ -16,6 +16,8 @@ key <- read.csv("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/
 colnames(key) <- c("subject", "nsrrid")
 act_sum <- full_join(act_sum, key, by="subject")
 
+#drop 49 blank rows
+act_sum <- act_sum[!is.na(act_sum$visitnumber),]
 #drop some variables, slice ID's and dates
 act_sum <- act_sum[,colnames(act_sum)[!colnames(act_sum)%in%c("act_sheet_id", "dia_sheet_id", 
                      "startdate_dia","enddate_dia",  "startdate_act","enddate_act","subject", "timepoint")]]
@@ -50,9 +52,13 @@ child_anthro$visitnumber[child_anthro$visit=="visit 1"] <- 1
 child_anthro$visitnumber[child_anthro$visit=="visit 2"] <- 2
 child_anthro$visitnumber[child_anthro$visit=="visit 3"] <- 3
 child_anthro$visitnumber[child_anthro$visit=="visit 4"] <- 4
-child_anthro$visitnumber[child_anthro$visit=="EHR data"] <- 99
+child_anthro$visitnumber[child_anthro$visit==("survey data")] <- 97
+child_anthro$visitnumber[child_anthro$visit==("")] <- 98
+child_anthro$visitnumber[child_anthro$visit==("EHR data")] <- 99
 
 child_anthro$visitnumber <- as.numeric(child_anthro$visitnumber)
+child_anthro <- child_anthro[,c("nsrrid", "visitnumber", colnames(child_anthro)[!colnames(child_anthro)%in%c("nsrrid", "visitnumber")])]
+child_anthro$visit <- NULL
 
 
 v2_main <- read_sas("v2_main.sas7bdat")     
@@ -149,7 +155,7 @@ v3$visitnumber <- 3
 v4$visitnumber <- 4
 
 all_data <- rbind(v0, v1, v2, v3, v4)
-all_data <- left_join(all_data, child_anthro, by=c("nsrrid", "visitnumber"))
+all_data <- left_join(all_data, child_anthro[child_anthro$visitnumber%in%0:4,], by=c("nsrrid", "visitnumber"))
 
 #fix emplotmeny status consistency
 #colnames(all_data) <- gsub("employmntstatus_mom","employmtstatus_mom",colnames(all_data))
@@ -159,16 +165,17 @@ all_data <- left_join(all_data, child_anthro, by=c("nsrrid", "visitnumber"))
 
 all_data <- all_data[,sort(colnames(all_data))]
 
-# File path needs to be edited for specific user
-dict <- read.csv("C:/Users/mkt27/shine-data-dictionary/imports/shine-data-dictionary-0.1.0.pre3-variables.csv")
+# Up-to-date Data dictionary can be generated and moved to this location
+dict <- read.csv("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/shine-data-dictionary-0.1.0.pre5-variables.csv")
 
 #restrict to data that's in the current dictionary
 data_select <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
-              all_data[,c("httfeet_f","htinch_f", "mom_height", "mom_weight")])
+              all_data[,c("httfeet_f","htinch_f")])
 
 data <- full_join(data_select, act_sum, by=c("visitnumber", "nsrrid"))
 
-# not req in needed dataset
+# not required in current dataset"
+#
 # time w baby variables should be numeric, units tbd
 # make_numeric <- c("timeinusyrs_f",
 #   "timewbaby10_f",
@@ -252,12 +259,12 @@ harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","
 	select(nsrrid,visitnumber,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
 				
 
-
 setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
 write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")
 write.csv(harmonized_data, paste(ver,"/shine-harmonized-dataset-",ver,".csv",sep=""), row.names = F, na="")
 
-
+names(child_anthro)[names(child_anthro) == 'visitnumber'] <- 'visitanthro'
+write.csv(child_anthro, paste(ver,"/shine-child-anthropometry-dataset-",ver,".csv",sep=""), row.names = F, na="")
 
 
 
