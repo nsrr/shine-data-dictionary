@@ -1,0 +1,42 @@
+[
+  {
+    "value": "0",
+    "display_name": "Birth Data",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Visit 1",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Visit 2",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Visit 3",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Visit 4",
+    "description": ""
+  },
+  {
+    "value": "97",
+    "display_name": "Survey Data",
+    "description": ""
+  },
+  {
+    "value": "98",
+    "display_name": "NA",
+    "description": ""
+  },
+  {
+    "value": "99",
+    "display_name": "EHR Data",
+    "description": ""
+  }
+]

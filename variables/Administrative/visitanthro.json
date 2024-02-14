@@ -1,0 +1,7 @@
+{
+  "id": "visitanthro",
+  "display_name": "Study Visit - Anthropometry Only",
+  "description": "Study visit identifier for extended anthropometry dataset only",
+  "type": "choices",
+  "domain": "visitanthro"
+}
