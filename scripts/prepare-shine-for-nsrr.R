@@ -1,6 +1,6 @@
 # Prepare SHINE for nsrr #
 
-ver="0.1.0.pre5"
+ver="0.1.0"
 
 library(haven)
 library(dplyr)
