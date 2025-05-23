@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepfragmentationindex_wd_father",
+  "display_name": "Average sleep fragmentation index per main sleep in weekdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%) "
+}

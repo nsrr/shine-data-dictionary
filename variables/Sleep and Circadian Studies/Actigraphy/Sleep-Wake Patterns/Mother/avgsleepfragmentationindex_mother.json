@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepfragmentationindex_mother",
+  "display_name": "Average sleep fragmentation index per main sleep in all days from actigraphy ",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%) "
+}

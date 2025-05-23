@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepduration24_wd_father",
+  "display_name": "Average time spent asleep per day in weekdays from actigraphy",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

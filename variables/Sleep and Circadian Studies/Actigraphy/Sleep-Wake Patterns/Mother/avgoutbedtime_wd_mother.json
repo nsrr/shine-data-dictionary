@@ -1,0 +1,7 @@
+{
+  "id": "avgoutbedtime_wd_mother",
+  "display_name": "Average out-bed time per main sleep in weekdays from actigraphy",
+  "description": "",
+  "type": "time",
+  "units": "HH:mm:ss "
+}

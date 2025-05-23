@@ -1,7 +1,7 @@
 {
   "id": "behavior31_mom",
   "display_name": "Child's angry or tearful outbursts are intense but end suddenly",
-  "description": "Maternal Reported<br><br>Spanish: Le molestan los cambios en su entorno (como muebles nuevos, cosas que han cambiado de lugar en la habitación o ropa nueva)",
+  "description": "Maternal Reported<br><br>Spanish: Le molestan los cambios en su entorno (como muebles nuevos, cosas que han cambiado de lugar en la habitacin o ropa nueva)",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

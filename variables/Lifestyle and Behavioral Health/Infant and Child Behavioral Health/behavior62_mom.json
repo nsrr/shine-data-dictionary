@@ -1,7 +1,7 @@
 {
   "id": "behavior62_mom",
   "display_name": "Child plays carelessly or recklessly in situations where he/she could be hurt (such as playground, swimming pool)",
-  "description": "Maternal Reported<br><br>Spanish: Su capacidad de concentración es muy baja",
+  "description": "Maternal Reported<br><br>Spanish: Su capacidad de concentracin es muy baja",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

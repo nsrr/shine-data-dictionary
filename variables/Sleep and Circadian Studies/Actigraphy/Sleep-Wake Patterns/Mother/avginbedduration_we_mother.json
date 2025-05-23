@@ -1,0 +1,7 @@
+{
+  "id": "avginbedduration_we_mother",
+  "display_name": "Average in-bed duration per main sleep in weekends from actigraphy",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

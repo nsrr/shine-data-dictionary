@@ -1,0 +1,7 @@
+{
+  "id": "avgnawakenings_father",
+  "display_name": "Average number of awakenings per main sleep in all days from actigraphy",
+  "description": "",
+  "type": "integer",
+  "units": "number of events"
+}

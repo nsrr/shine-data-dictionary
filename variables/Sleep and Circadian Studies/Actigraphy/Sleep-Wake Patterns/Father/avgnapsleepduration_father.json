@@ -1,0 +1,7 @@
+{
+  "id": "avgnapsleepduration_father",
+  "display_name": "Average time spent asleep in naps per day in all days from actigraphy ",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "avgmovementindex_wd_mother",
+  "display_name": "Average movement index per main sleep in weekdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%) "
+}

@@ -1,7 +1,7 @@
 {
   "id": "behavior30_mom",
   "display_name": "Child is disturbed by changes in the environment (such as new furniture, things in room moved around, or new clothes)",
-  "description": "Maternal Reported<br><br>Spanish: No se da cuenta de cómo su comportamiento afecta o molesta a los demás",
+  "description": "Maternal Reported<br><br>Spanish: No se da cuenta de cmo su comportamiento afecta o molesta a los dems",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

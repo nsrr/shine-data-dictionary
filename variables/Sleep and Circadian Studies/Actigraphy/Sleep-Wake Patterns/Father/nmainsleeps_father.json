@@ -1,0 +1,7 @@
+{
+  "id": "nmainsleeps_father",
+  "display_name": "Number of main sleep intervals in all days from actigraphy",
+  "description": "",
+  "type": "integer",
+  "units": "number of events"
+}

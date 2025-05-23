@@ -1,0 +1,7 @@
+{
+  "id": "avginbedtime_father",
+  "display_name": "Average in-bed time per main sleep in all days from actigraphy ",
+  "description": "",
+  "type": "time",
+  "units": "HH:mm:ss "
+}

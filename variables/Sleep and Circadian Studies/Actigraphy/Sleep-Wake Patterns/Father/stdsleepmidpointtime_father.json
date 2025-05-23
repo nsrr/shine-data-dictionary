@@ -1,0 +1,7 @@
+{
+  "id": "stdsleepmidpointtime_father",
+  "display_name": "Standard deviation of mid asleep time per main sleep in all days from actigraphy ",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "time",
+  "units": "HH:mm:ss "
+}

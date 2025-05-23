@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepduration_we_father",
+  "display_name": "Average time spent asleep per main sleep in weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

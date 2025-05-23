@@ -1,0 +1,7 @@
+{
+  "id": "avginbedduration_father",
+  "display_name": "Average in-bed duration per main sleep in all days from actigraphy ",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

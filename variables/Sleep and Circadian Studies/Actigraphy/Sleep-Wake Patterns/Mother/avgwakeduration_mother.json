@@ -1,0 +1,7 @@
+{
+  "id": "avgwakeduration_mother",
+  "display_name": "Average wake duration after sleep onset (waso) per main sleep in all days from actigraphy ",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

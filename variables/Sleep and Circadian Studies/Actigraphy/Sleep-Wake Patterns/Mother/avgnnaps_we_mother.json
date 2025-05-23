@@ -1,0 +1,7 @@
+{
+  "id": "avgnnaps_we_mother",
+  "display_name": "Average number of naps per day in weekends from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "number of events per day "
+}

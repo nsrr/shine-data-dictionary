@@ -1,0 +1,7 @@
+{
+  "id": "avgefficiency_father",
+  "display_name": "Average sleep efficiency per main sleep in all days from actigraphy ",
+  "description": "",
+  "type": "numeric",
+  "units": "percent (%) "
+}

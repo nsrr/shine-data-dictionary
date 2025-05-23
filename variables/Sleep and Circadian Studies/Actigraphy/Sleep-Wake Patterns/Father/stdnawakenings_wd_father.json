@@ -1,0 +1,6 @@
+{
+  "id": "stdnawakenings_wd_father",
+  "display_name": "Standard deviation of number of awakenings per main sleep in weekdays from actigraphy",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "integer"
+}

@@ -1,7 +1,7 @@
 {
   "id": "behavior1_mom",
   "display_name": "Child overreacts to small problems",
-  "description": "Maternal Reported<br><br>Spanish: No logra encontrar la ropa, los zapatos, los juguetes o los libros, incluso cuando se le han dado instrucciones específicas.",
+  "description": "Maternal Reported<br><br>Spanish: No logra encontrar la ropa, los zapatos, los juguetes o los libros, incluso cuando se le han dado instrucciones especficas.",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

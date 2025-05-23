@@ -1,7 +1,7 @@
 {
   "id": "behavior10_mom",
   "display_name": "Child has trouble adjusting to new people (such as a babysitter, teacher, friend, or daycare worker)",
-  "description": "Maternal Reported<br><br>Spanish: Reacciona de manera exagerada antes los problemas pequeños",
+  "description": "Maternal Reported<br><br>Spanish: Reacciona de manera exagerada antes los problemas pequeos",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

@@ -1,0 +1,7 @@
+{
+  "id": "stdsleeponsettime_we_mother",
+  "display_name": "Standard deviation of sleep onset time per main sleep in weekends from actigraphy",
+  "description": "Missing if the number of main sleep <= 1",
+  "type": "time",
+  "units": "HH:mm:ss "
+}

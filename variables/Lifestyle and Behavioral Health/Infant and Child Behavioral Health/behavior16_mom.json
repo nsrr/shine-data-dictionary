@@ -1,7 +1,7 @@
 {
   "id": "behavior16_mom",
   "display_name": "Child has outbursts for little reason",
-  "description": "Maternal Reported<br><br>Spanish: Se altera si hay un cambio en los planes o las actividades habituales (por ejemplo, si cambia el orden de las actividades diarias, si se agregan mandados de último minuto a lo que se había programado o si se toma un camino distinto del acostumbrado para ir a una tienda)",
+  "description": "Maternal Reported<br><br>Spanish: Se altera si hay un cambio en los planes o las actividades habituales (por ejemplo, si cambia el orden de las actividades diarias, si se agregan mandados de ltimo minuto a lo que se haba programado o si se toma un camino distinto del acostumbrado para ir a una tienda)",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

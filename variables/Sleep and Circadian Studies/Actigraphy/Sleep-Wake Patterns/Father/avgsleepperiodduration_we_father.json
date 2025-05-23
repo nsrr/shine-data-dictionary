@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepperiodduration_we_father",
+  "display_name": "Average sleep period duration per main sleep in weekends from actigraphy",
+  "description": "",
+  "type": "integer",
+  "units": "minutes (min)"
+}

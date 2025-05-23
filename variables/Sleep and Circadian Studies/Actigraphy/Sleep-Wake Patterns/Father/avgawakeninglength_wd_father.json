@@ -1,0 +1,7 @@
+{
+  "id": "avgawakeninglength_wd_father",
+  "display_name": "Average mean length of awakenings per main sleep in weekdays from actigraphy",
+  "description": "",
+  "type": "numeric",
+  "units": "minutes (min)"
+}

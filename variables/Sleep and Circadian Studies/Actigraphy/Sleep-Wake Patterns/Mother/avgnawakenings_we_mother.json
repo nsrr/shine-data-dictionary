@@ -1,0 +1,7 @@
+{
+  "id": "avgnawakenings_we_mother",
+  "display_name": "Average number of awakenings per main sleep in weekends from actigraphy",
+  "description": "",
+  "type": "integer",
+  "units": "number of events"
+}

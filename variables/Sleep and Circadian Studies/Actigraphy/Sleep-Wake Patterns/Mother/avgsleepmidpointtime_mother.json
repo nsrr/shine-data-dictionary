@@ -1,0 +1,7 @@
+{
+  "id": "avgsleepmidpointtime_mother",
+  "display_name": "Average mid asleep time per main sleep in all days from actigraphy ",
+  "description": "",
+  "type": "time",
+  "units": "HH:mm:ss "
+}
