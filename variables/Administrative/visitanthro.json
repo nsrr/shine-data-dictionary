@@ -3,5 +3,5 @@
   "display_name": "Study Visit - Anthropometry Only",
   "description": "Study visit identifier for extended anthropometry dataset only",
   "type": "string",
-  "domain": "visit_anthro"
+  "domain": "visitanthro"
 }
