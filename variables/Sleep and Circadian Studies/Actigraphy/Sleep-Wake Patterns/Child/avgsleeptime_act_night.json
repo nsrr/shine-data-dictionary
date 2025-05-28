@@ -1,6 +1,6 @@
 {
   "id": "avgsleeptime_act_night",
-  "display_name": "Average time spent asleep over nighttime periods in minutes",
+  "display_name": "Average sleep duration (i.e., time spent asleep) over nighttime periods in minutes from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "minutes (min)",

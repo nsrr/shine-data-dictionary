@@ -1,7 +1,10 @@
 {
   "id": "avgsleepmidpointtime_we_father",
-  "display_name": "Average mid asleep time per main sleep in weekends from actigraphy",
+  "display_name": "Average mid-point of sleep duration (i.e., time spent asleep) per main sleep in weekends from actigraphy",
   "description": "",
   "type": "time",
-  "units": "HH:mm:ss "
+  "units": "HH:mm:ss ",
+  "labels": [
+    "avgmptsp_im_w2_f2"
+  ]
 }

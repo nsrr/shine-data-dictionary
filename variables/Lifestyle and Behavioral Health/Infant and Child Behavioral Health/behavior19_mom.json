@@ -1,7 +1,7 @@
 {
   "id": "behavior19_mom",
   "display_name": "Child cannot find clothes, shoes, toys or books even when he/she has been given specific instructions",
-  "description": "Maternal Reported<br><br>Spanish: Es ms hiperactivo o necio que los dems nios del grupo (por ejemplo, en fiestas de cumpleaos o cuando juegan en grupo",
+  "description": "Maternal Reported<br><br>Spanish: Es mÂs hiperactivo o necio que los demÂs niÂos del grupo (por ejemplo, en fiestas de cumpleaÂos o cuando juegan en grupo",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

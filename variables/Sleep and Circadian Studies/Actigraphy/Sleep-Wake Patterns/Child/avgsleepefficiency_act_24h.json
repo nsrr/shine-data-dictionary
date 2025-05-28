@@ -1,6 +1,6 @@
 {
   "id": "avgsleepefficiency_act_24h",
-  "display_name": "Average proportion of rest interval spent asleep over 24-hour time windows",
+  "display_name": "Average proportion of sleep duration (i.e., rest interval spent asleep) over 24-hour time windows from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "percent (%)",

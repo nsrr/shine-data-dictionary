@@ -1,6 +1,6 @@
 {
   "id": "avgsleeptime_dia_day",
-  "display_name": "Average time spent asleep over daytime periods in minutes",
+  "display_name": "Average sleep duration (i.e., time spent asleep) over daytime periods in minutes from survey questionnaires",
   "description": "Variable sourced from sleep diaries",
   "type": "numeric",
   "units": "minutes (min)",

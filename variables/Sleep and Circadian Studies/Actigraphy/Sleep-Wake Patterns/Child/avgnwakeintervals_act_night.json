@@ -1,6 +1,6 @@
 {
   "id": "avgnwakeintervals_act_night",
-  "display_name": "Average number of wake intervals over nighttime periods",
+  "display_name": "Average number of wake intervals over nighttime periods from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "labels": [

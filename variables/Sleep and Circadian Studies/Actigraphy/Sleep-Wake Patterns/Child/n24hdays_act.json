@@ -1,6 +1,9 @@
 {
   "id": "n24hdays_act",
-  "display_name": "Total number of 24-hour time window with both daytime and nighttime sleep periods",
+  "display_name": "Total number of 24-hour time window with both daytime and nighttime sleep periods from actigraphy",
   "description": "Variable sourced from actigraphy data",
-  "type": "numeric"
+  "type": "numeric",
+  "labels": [
+    "ttlnumsp_ib_w7_f2"
+  ]
 }

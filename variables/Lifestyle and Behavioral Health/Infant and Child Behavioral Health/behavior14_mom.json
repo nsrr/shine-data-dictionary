@@ -1,7 +1,7 @@
 {
   "id": "behavior14_mom",
   "display_name": "When sent to get something, forgets what he/she is supposed to get",
-  "description": "Maternal Reported<br><br>Spanish: Es necesario supervisarlo ms que a sus amiguitos de la misma edad",
+  "description": "Maternal Reported<br><br>Spanish: Es necesario supervisarlo mÂs que a sus amiguitos de la misma edad",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

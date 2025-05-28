@@ -1,7 +1,7 @@
 {
   "id": "behavior35_mom",
   "display_name": "Child has trouble changing activities",
-  "description": "Maternal Reported<br><br>Spanish: Deja en desorden cosas que otros tienen que arreglar, incluso despus de que se le ha ordenado arreglarlas",
+  "description": "Maternal Reported<br><br>Spanish: Deja en desorden cosas que otros tienen que arreglar, incluso despuÂs de que se le ha ordenado arreglarlas",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

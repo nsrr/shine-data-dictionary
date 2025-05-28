@@ -1,7 +1,10 @@
 {
   "id": "covsleepduration24_father",
-  "display_name": "Coefficient of variation of time spent asleep per day in all days from actigraphy ",
+  "display_name": "Coefficient of variation of sleep duration (i.e., time spent asleep) per day in all days from actigraphy ",
   "description": "Missing if the number of main sleep <= 1",
   "type": "numeric",
-  "units": "percent (%) "
+  "units": "percent (%) ",
+  "labels": [
+    "covdursp_ib_w7_f2"
+  ]
 }

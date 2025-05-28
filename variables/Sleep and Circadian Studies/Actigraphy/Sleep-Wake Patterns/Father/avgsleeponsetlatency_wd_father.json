@@ -3,5 +3,8 @@
   "display_name": "Average sleep onset latency per main sleep in weekdays from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "avglatsp_im_w5_f2"
+  ]
 }

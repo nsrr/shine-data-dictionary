@@ -1,6 +1,6 @@
 {
   "id": "avgsleepduration_we_mother",
-  "display_name": "Average time spent asleep per main sleep in weekends from actigraphy",
+  "display_name": "Average sleep duration (i.e., time spent asleep) per main sleep in weekends from actigraphy",
   "description": "",
   "type": "numeric",
   "units": "minutes (min)"

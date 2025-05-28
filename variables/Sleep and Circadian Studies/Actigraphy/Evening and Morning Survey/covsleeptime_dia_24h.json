@@ -1,6 +1,6 @@
 {
   "id": "covsleeptime_dia_24h",
-  "display_name": "Coefficient of variation of time spent asleep over 24-hour time windows",
+  "display_name": "Coefficient of variation of sleep duration (i.e., time spent asleep) over 24-hour time windows from survey questionnaires",
   "description": "Variable sourced from sleep diaries",
   "type": "numeric",
   "units": "percent (%)",

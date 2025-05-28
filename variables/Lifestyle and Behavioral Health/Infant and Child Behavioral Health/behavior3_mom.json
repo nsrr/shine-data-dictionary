@@ -1,7 +1,7 @@
 {
   "id": "behavior3_mom",
   "display_name": "Child is unaware of how his/her behavior affects or bothers others",
-  "description": "Maternal Reported<br><br>Spanish: Queda atrapado en los detalles sin importancia de una tarea o situacin, y pierde de vista la idea central",
+  "description": "Maternal Reported<br><br>Spanish: Queda atrapado en los detalles sin importancia de una tarea o situaciÂn, y pierde de vista la idea central",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

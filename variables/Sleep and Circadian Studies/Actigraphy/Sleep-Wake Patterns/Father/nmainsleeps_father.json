@@ -3,5 +3,8 @@
   "display_name": "Number of main sleep intervals in all days from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumsp_im_w7_f2"
+  ]
 }

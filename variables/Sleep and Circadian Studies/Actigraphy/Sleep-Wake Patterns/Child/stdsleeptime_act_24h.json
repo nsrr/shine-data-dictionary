@@ -1,6 +1,6 @@
 {
   "id": "stdsleeptime_act_24h",
-  "display_name": "Standard deviation of time spent asleep over 24-hour time windows in minutes",
+  "display_name": "Standard deviation of sleep duration (i.e., time spent asleep) over 24-hour time windows in minutes from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "minutes (min)",

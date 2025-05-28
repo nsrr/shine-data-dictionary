@@ -3,5 +3,8 @@
   "display_name": "Standard deviation of sleep efficiency per main sleep in weekdays from actigraphy",
   "description": "Missing if the number of main sleep <= 1",
   "type": "numeric",
-  "units": "percent (%) "
+  "units": "percent (%) ",
+  "labels": [
+    "stdeffsp_im_w5_f2"
+  ]
 }

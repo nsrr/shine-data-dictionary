@@ -1,6 +1,6 @@
 {
   "id": "stdbedtime_dia_night",
-  "display_name": "Standard deviation of start time of first rest interval over nighttime periods (hours from midnight)",
+  "display_name": "Standard deviation of start time of the first rest interval over nighttime periods (hours from midnight) from survey questionnaires",
   "description": "Variable sourced from sleep diaries",
   "type": "numeric",
   "units": "hours (hr)",

@@ -1,6 +1,6 @@
 {
   "id": "covsleeptime_act_day",
-  "display_name": "Coefficient of variation of of time spent asleep over daytime periods",
+  "display_name": "Coefficient of variation of of sleep duration (i.e., time spent asleep) over daytime periods from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "percent (%)",

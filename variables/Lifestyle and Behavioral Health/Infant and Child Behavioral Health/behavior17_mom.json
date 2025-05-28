@@ -1,7 +1,7 @@
 {
   "id": "behavior17_mom",
   "display_name": "Child repeats the same mistake over and over even after help is given",
-  "description": "Maternal Reported<br><br>Spanish: Le dan arrebatos sin mucha razn",
+  "description": "Maternal Reported<br><br>Spanish: Le dan arrebatos sin mucha razÂn",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

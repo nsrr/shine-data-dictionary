@@ -3,5 +3,8 @@
   "display_name": "Number of weekday days main sleep intervals",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumsp_im_w5_f2"
+  ]
 }

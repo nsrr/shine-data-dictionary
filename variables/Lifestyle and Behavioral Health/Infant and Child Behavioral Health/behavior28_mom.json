@@ -1,7 +1,7 @@
 {
   "id": "behavior28_mom",
   "display_name": "Child is impulsive",
-  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para realizar tareas o actividades que requieren ms de un paso",
+  "description": "Maternal Reported<br><br>Spanish: Tiene dificultades para realizar tareas o actividades que requieren mÂs de un paso",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

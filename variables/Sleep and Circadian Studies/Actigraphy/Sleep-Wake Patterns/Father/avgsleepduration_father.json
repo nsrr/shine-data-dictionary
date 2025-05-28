@@ -1,7 +1,10 @@
 {
   "id": "avgsleepduration_father",
-  "display_name": "Average time spent asleep per main sleep in all days from actigraphy ",
+  "display_name": "Average sleep duration (i.e., time spent asleep) per main sleep in all days from actigraphy ",
   "description": "",
   "type": "numeric",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "avgdursp_im_w7_f2"
+  ]
 }

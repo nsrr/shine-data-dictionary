@@ -1,6 +1,6 @@
 {
   "id": "avgnapsleepduration_wd_mother",
-  "display_name": "Average time spent asleep in naps per day in weekdays from actigraphy",
+  "display_name": "Average sleep duration (i.e., time spent asleep) in naps per day in weekdays from actigraphy",
   "description": "",
   "type": "integer",
   "units": "minutes (min)"

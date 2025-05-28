@@ -3,5 +3,8 @@
   "display_name": "Average out-bed time per main sleep in weekdays from actigraphy",
   "description": "",
   "type": "time",
-  "units": "HH:mm:ss "
+  "units": "HH:mm:ss ",
+  "labels": [
+    "avgeptbd_im_w5_f2"
+  ]
 }

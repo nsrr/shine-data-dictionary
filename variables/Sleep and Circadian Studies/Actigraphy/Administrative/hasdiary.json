@@ -1,6 +1,6 @@
 {
   "id": "hasdiary",
-  "display_name": "Child has diary data",
+  "display_name": "Child has sleep diary data",
   "description": "",
   "type": "choices",
   "domain": "yes1no0"

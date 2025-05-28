@@ -1,6 +1,6 @@
 {
   "id": "covsleeptime_dia_day",
-  "display_name": "Coefficient of variation of time spent asleep over daytime periods",
+  "display_name": "Coefficient of variation of sleep duration (i.e., time spent asleep) over daytime periods from survey questionnaires",
   "description": "Variable sourced from sleep diaries",
   "type": "numeric",
   "units": "percent (%)",
