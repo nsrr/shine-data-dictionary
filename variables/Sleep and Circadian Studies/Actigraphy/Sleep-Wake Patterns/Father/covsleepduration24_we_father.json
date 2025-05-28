@@ -1,6 +1,6 @@
 {
   "id": "covsleepduration24_we_father",
-  "display_name": "Coefficient of variation of sleep duration (i.e., time spent asleep) per day in weekends from actigraphy",
+  "display_name": "[Father] Coefficient of variation of sleep duration (i.e., time spent asleep) per day in weekends from actigraphy",
   "description": "Missing if the number of main sleep <= 1",
   "type": "numeric",
   "units": "percent (%) ",

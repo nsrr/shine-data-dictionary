@@ -1,7 +1,7 @@
 {
   "id": "behavior47_mom",
   "display_name": "Child cannot stay on topic when talking",
-  "description": "Maternal Reported<br><br>Spanish: DespuÂs de haber tenido un problema, queda fastidiado por mucho tiempo",
+  "description": "Maternal Reported<br><br>Spanish: DespuÃÂs de haber tenido un problema, queda fastidiado por mucho tiempo",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

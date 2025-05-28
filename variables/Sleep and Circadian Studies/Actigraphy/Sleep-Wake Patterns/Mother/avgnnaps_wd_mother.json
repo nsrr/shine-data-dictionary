@@ -1,7 +1,10 @@
 {
   "id": "avgnnaps_wd_mother",
-  "display_name": "Average number of naps per day in weekdays from actigraphy",
+  "display_name": "[Mother] Average number of naps per day in weekdays from actigraphy",
   "description": "",
   "type": "numeric",
-  "units": "number of events per day "
+  "units": "number of events per day ",
+  "labels": [
+    "avgnumnp_ib_w5_f2"
+  ]
 }

@@ -1,6 +1,6 @@
 {
   "id": "avgsleeptime_act_24h",
-  "display_name": "Average sleep duration (i.e., time spent asleep) over 24-hour time windows in minutes from actigraphy",
+  "display_name": "[Child] Average sleep duration (i.e., time spent asleep) over 24-hour time windows in minutes from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "minutes (min)",

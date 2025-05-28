@@ -1,7 +1,7 @@
 {
   "id": "behavior45_mom",
   "display_name": "Child resists change of routine, foods, places, etc.",
-  "description": "Maternal Reported<br><br>Spanish: No puede encontrar cosas en una habitaciÂn o zona de juego aunque le hayan dado instrucciones especÂficas",
+  "description": "Maternal Reported<br><br>Spanish: No puede encontrar cosas en una habitaciÃÂn o zona de juego aunque le hayan dado instrucciones especÃÂficas",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

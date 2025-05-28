@@ -1,6 +1,6 @@
 {
   "id": "avgsleepefficiency_act_night",
-  "display_name": "Average proportion of sleep duration (i.e., rest interval spent asleep) over nighttime periods from actigraphy",
+  "display_name": "[Child] Average proportion of sleep duration (i.e., rest interval spent asleep) over nighttime periods from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "percent (%)",

@@ -1,6 +1,6 @@
 {
   "id": "nperiods_act_night",
-  "display_name": "Total number of nighttime periods (7PM to 8AM the next day) from actigraphy",
+  "display_name": "[Child] Total number of nighttime periods (7PM [Child] To 8AM the next day) from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric"
 }

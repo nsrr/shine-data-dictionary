@@ -1,6 +1,6 @@
 {
   "id": "stdmaintefficiency_we_father",
-  "display_name": "Standard deviation of sleep maintainance efficiency per main sleep in weekends from actigraphy",
+  "display_name": "[Father] Standard deviation of sleep maintainance efficiency per main sleep in weekends from actigraphy",
   "description": "Missing if the number of main sleep <= 1",
   "type": "numeric",
   "units": "percent (%) ",

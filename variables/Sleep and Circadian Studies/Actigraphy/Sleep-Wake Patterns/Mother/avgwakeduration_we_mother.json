@@ -1,7 +1,10 @@
 {
   "id": "avgwakeduration_we_mother",
-  "display_name": "Average duration of wake after sleep onset (waso) per main sleep in weekends from actigraphy",
+  "display_name": "[Mother] Average duration of wake after sleep onset (waso) per main sleep in weekends from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "avgdurws_im_w2_f2"
+  ]
 }

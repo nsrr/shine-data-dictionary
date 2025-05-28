@@ -1,6 +1,6 @@
 {
   "id": "avginbedduration_wd_father",
-  "display_name": "Average in-bed period per main sleep in weekdays from actigraphy",
+  "display_name": "[Father] Average in-bed period per main sleep in weekdays from actigraphy",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",

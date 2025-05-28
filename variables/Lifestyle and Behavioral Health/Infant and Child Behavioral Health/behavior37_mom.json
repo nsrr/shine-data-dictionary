@@ -1,7 +1,7 @@
 {
   "id": "behavior37_mom",
   "display_name": "Child forgets what he/she is doing in middle of an activity",
-  "description": "Maternal Reported<br><br>Spanish: Reacciona ante las situaciones con mayor intensidad que los demÂs niÂos",
+  "description": "Maternal Reported<br><br>Spanish: Reacciona ante las situaciones con mayor intensidad que los demÃÂs niÃÂos",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

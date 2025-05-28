@@ -1,6 +1,6 @@
 {
   "id": "avgsleepperiodduration_we_father",
-  "display_name": "Average sleep period (i.e., the interval between sleep onset and offset) per main sleep in weekends from actigraphy",
+  "display_name": "[Father] Average sleep period (i.e., the interval between sleep onset and offset) per main sleep in weekends from actigraphy",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",

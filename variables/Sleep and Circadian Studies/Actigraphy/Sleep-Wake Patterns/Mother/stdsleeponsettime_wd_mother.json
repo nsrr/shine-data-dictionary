@@ -1,7 +1,10 @@
 {
   "id": "stdsleeponsettime_wd_mother",
-  "display_name": "Standard deviation of sleep onset time per main sleep in weekdays from actigraphy",
+  "display_name": "[Mother] Standard deviation of sleep onset time per main sleep in weekdays from actigraphy",
   "description": "Missing if the number of main sleep <= 1",
   "type": "time",
-  "units": "HH:mm:ss "
+  "units": "HH:mm:ss ",
+  "labels": [
+    "stdbptsp_im_w5_f2"
+  ]
 }

@@ -1,7 +1,10 @@
 {
   "id": "avgsleepduration24_we_mother",
-  "display_name": "Average sleep duration (i.e., time spent asleep) per day in weekends from actigraphy",
+  "display_name": "[Mother] Average sleep duration (i.e., time spent asleep) per day in weekends from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "avgdursp_ib_w2_f2"
+  ]
 }

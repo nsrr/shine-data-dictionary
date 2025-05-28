@@ -1,6 +1,6 @@
 {
   "id": "stdsleeptime_act_day",
-  "display_name": "Standard deviation of sleep duration (i.e., time spent asleep) over daytime periods in minutes from actigraphy",
+  "display_name": "[Child] Standard deviation of sleep duration (i.e., time spent asleep) over daytime periods in minutes from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "minutes (min)",

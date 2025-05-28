@@ -1,6 +1,6 @@
 {
   "id": "covsleeptime_act_night",
-  "display_name": "Coefficient of variation of sleep duration (i.e., time spent asleep) over nighttime periods from actigraphy",
+  "display_name": "[Child] Coefficient of variation of sleep duration (i.e., time spent asleep) over nighttime periods from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "percent (%)",

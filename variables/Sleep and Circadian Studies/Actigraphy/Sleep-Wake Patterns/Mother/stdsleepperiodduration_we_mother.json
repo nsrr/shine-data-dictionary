@@ -1,7 +1,10 @@
 {
   "id": "stdsleepperiodduration_we_mother",
-  "display_name": "Standard deviation of sleep period duration per main sleep in weekends from actigraphy",
+  "display_name": "[Mother] Standard deviation of sleep period (i.e., the interval between sleep onset and offset) per main sleep in weekends from actigraphy",
   "description": "Missing if the number of main sleep <= 1",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "stdprdsp_im_w2_f2"
+  ]
 }

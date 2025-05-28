@@ -1,6 +1,6 @@
 {
   "id": "stdwaketime_act_night",
-  "display_name": "Standard deviation of end time of the last rest interval over nighttime periods (hours from midnight) from actigraphy",
+  "display_name": "[Child] Standard deviation of end time of the la[Child] St re[Child] St interval over nighttime periods (hours from midnight) from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "hours (hr)",

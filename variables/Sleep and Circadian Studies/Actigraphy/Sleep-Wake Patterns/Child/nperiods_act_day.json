@@ -1,6 +1,6 @@
 {
   "id": "nperiods_act_day",
-  "display_name": "Total number of daytime periods (8AM to 7PM within the same day) from actigraphy",
+  "display_name": "[Child] Total number of daytime periods (8AM [Child] To 7PM within the same day) from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric"
 }

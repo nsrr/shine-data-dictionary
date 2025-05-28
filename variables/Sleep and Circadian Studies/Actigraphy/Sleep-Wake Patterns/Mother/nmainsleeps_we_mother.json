@@ -1,7 +1,10 @@
 {
   "id": "nmainsleeps_we_mother",
-  "display_name": "Number of weekend days main sleep intervals",
+  "display_name": "[Mother] Number of weekend days main sleep intervals",
   "description": "",
   "type": "integer",
-  "units": "number of events"
+  "units": "number of events",
+  "labels": [
+    "ttlnumsp_im_w2_f2"
+  ]
 }

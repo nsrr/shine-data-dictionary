@@ -1,7 +1,10 @@
 {
   "id": "avgsleeponsetlatency_we_mother",
-  "display_name": "Average sleep onset latency per main sleep in weekends from actigraphy",
+  "display_name": "[Mother] Average sleep onset latency per main sleep in weekends from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "avglatsp_im_w2_f2"
+  ]
 }

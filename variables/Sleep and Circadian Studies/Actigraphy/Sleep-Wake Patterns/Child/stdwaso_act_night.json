@@ -1,6 +1,6 @@
 {
   "id": "stdwaso_act_night",
-  "display_name": "Standard deviation of total wake time in the sleep periods across all rest intervals at nighttime periods  from actigraphy",
+  "display_name": "[Child] Standard deviation of [Child] Total wake time in the sleep periods across all re[Child] St intervals at nighttime periods  from actigraphy",
   "description": "Variable sourced from actigraphy data",
   "type": "numeric",
   "units": "minutes (min)",

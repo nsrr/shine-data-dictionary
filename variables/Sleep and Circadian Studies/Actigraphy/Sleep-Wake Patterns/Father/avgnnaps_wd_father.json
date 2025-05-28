@@ -1,6 +1,6 @@
 {
   "id": "avgnnaps_wd_father",
-  "display_name": "Average number of naps per day in weekdays from actigraphy",
+  "display_name": "[Father] Average number of naps per day in weekdays from actigraphy",
   "description": "",
   "type": "numeric",
   "units": "number of events per day ",

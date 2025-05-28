@@ -1,6 +1,6 @@
 {
   "id": "stdinbedtime_wd_father",
-  "display_name": "Standard deviation of in-bed time per main sleep in weekdays from actigraphy",
+  "display_name": "[Father] Standard deviation of in-bed time per main sleep in weekdays from actigraphy",
   "description": "Missing if the number of main sleep <= 1",
   "type": "time",
   "units": "HH:mm:ss ",

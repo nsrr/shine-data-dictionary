@@ -1,6 +1,6 @@
 {
   "id": "nmainsleeps_we_father",
-  "display_name": "Number of weekend days main sleep intervals",
+  "display_name": "[Father] Number of weekend days main sleep intervals",
   "description": "",
   "type": "integer",
   "units": "number of events",

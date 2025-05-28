@@ -1,7 +1,10 @@
 {
   "id": "avgsleepperiodduration_we_mother",
-  "display_name": "Average sleep period duration per main sleep in weekends from actigraphy",
+  "display_name": "[Mother] Average sleep period (i.e., the interval between sleep onset and offset) per main sleep in weekends from actigraphy",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "avgprdsp_im_w2_f2"
+  ]
 }

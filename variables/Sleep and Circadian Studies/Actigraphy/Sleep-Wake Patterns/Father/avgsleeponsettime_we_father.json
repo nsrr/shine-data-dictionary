@@ -1,6 +1,6 @@
 {
   "id": "avgsleeponsettime_we_father",
-  "display_name": "Average sleep onset time per main sleep in weekends from actigraphy",
+  "display_name": "[Father] Average sleep onset time per main sleep in weekends from actigraphy",
   "description": "",
   "type": "time",
   "units": "HH:mm:ss ",

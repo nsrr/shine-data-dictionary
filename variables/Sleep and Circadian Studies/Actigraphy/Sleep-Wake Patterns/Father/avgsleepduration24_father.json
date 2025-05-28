@@ -1,6 +1,6 @@
 {
   "id": "avgsleepduration24_father",
-  "display_name": "Average sleep duration (i.e., time spent asleep) per day in all days from actigraphy ",
+  "display_name": "[Father] Average sleep duration (i.e., time spent asleep) per day in all days from actigraphy ",
   "description": "",
   "type": "integer",
   "units": "minutes (min)",

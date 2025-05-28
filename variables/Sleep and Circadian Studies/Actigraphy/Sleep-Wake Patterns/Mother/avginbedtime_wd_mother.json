@@ -1,7 +1,10 @@
 {
   "id": "avginbedtime_wd_mother",
-  "display_name": "Average in-bed time per main sleep in weekdays from actigraphy",
+  "display_name": "[Mother] Average in-bed time per main sleep in weekdays from actigraphy",
   "description": "",
   "type": "time",
-  "units": "HH:mm:ss "
+  "units": "HH:mm:ss ",
+  "labels": [
+    "avgbptbd_im_w5_f2"
+  ]
 }

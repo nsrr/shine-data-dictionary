@@ -1,7 +1,7 @@
 {
   "id": "behavior18_mom",
   "display_name": "Child acts wilder or sillier than others in the group (i.e. birthday parties, playgroups)",
-  "description": "Maternal Reported<br><br>Spanish: Comete el mismo error una y otra vez, incluso despuÂs de que se ha brindado ayuda",
+  "description": "Maternal Reported<br><br>Spanish: Comete el mismo error una y otra vez, incluso despuÃÂs de que se ha brindado ayuda",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

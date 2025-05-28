@@ -1,6 +1,6 @@
 {
   "id": "stdsleepperiodduration_father",
-  "display_name": "Standard deviation of sleep period (i.e., the interval between sleep onset and offset) per main sleep in all days from actigraphy ",
+  "display_name": "[Father] Standard deviation of sleep period (i.e., the interval between sleep onset and offset) per main sleep in all days from actigraphy ",
   "description": "Missing if the number of main sleep <= 1",
   "type": "integer",
   "units": "minutes (min)",

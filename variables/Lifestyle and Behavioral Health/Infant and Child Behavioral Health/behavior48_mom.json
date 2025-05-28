@@ -1,7 +1,7 @@
 {
   "id": "behavior48_mom",
   "display_name": "Child talks or plays too loudly",
-  "description": "Maternal Reported<br><br>Spanish: No puede concentrarse en el tema de la conversaciÂn",
+  "description": "Maternal Reported<br><br>Spanish: No puede concentrarse en el tema de la conversaciÃÂn",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

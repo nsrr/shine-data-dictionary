@@ -1,7 +1,10 @@
 {
   "id": "avgnapsleepduration_mother",
-  "display_name": "Average sleep duration (i.e., time spent asleep) in naps per day in all days from actigraphy ",
+  "display_name": "[Mother] Average sleep duration (i.e., time spent asleep) in naps per day in all days from actigraphy ",
   "description": "",
   "type": "integer",
-  "units": "minutes (min)"
+  "units": "minutes (min)",
+  "labels": [
+    "avgdursp_in_w7_f2"
+  ]
 }
