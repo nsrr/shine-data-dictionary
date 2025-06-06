@@ -1,18 +1,18 @@
 # Prepare SHINE for nsrr #
 
-ver="0.1.0"
+ver="0.2.0"
 
 library(haven)
 library(dplyr)
 
 
-setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets")
+setwd("/Volumes/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets")
 
 act_sum <- read_sas("shinechildsleepsummary_nsrr.sas7bdat")
 act_sum$visitnumber <- act_sum$timepoint
 
 #match subject to NSRR ID with Key
-key <- read.csv("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets/NSRR_RiseandSHINE_randomid_key.csv")
+key <- read.csv("/Volumes/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_datasets/NSRR_RiseandSHINE_randomid_key.csv")
 colnames(key) <- c("subject", "nsrrid")
 act_sum <- full_join(act_sum, key, by="subject")
 
@@ -166,7 +166,7 @@ all_data <- left_join(all_data, child_anthro[child_anthro$visitnumber%in%0:4,], 
 all_data <- all_data[,sort(colnames(all_data))]
 
 # Up-to-date Data dictionary can be generated and moved to this location
-dict <- read.csv("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/shine-data-dictionary-0.1.0.pre5-variables.csv")
+dict <- read.csv("/Volumes/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/shine-data-dictionary-0.1.0.pre5-variables.csv")
 
 #restrict to data that's in the current dictionary
 data_select <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
@@ -283,7 +283,7 @@ shine_father <- add_suffix(shine_father, "_father", exclude_cols = c("nsrrid"))
 shine_mother <- shine_mother %>%
   select(-subjectidfull_mother, -paq_which_parent_mother) %>%
   rename(visitnumber = paq_visit_mother) %>%
-  select(nsrrid, everything())  # Move nsrrid to first position
+  select(nsrrid, everything()) 
 
 shine_father <- shine_father %>%
   select(-subjectidfull_father, -paq_which_parent_father) %>%
@@ -293,7 +293,14 @@ shine_father <- shine_father %>%
 write.csv(shine_mother,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinemothersleepsummary_nsrr.csv",row.names = F, na = '')
 write.csv(shine_father,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinefathersleepsummary_nsrr.csv",row.names = F, na = '')
 
-
+data_with_mother <- data %>%
+  left_join(shine_mother, by = c("nsrrid", "visitnumber"))
+data_final <- data_with_mother %>%
+  left_join(shine_father, by = c("nsrrid", "visitnumber"))
+write.csv(data_final, 
+          "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_releases/0.2.0.pre/shine-dataset-0.2.0.pre.csv",
+          row.names = FALSE, 
+          na = '')
 
 #Harmonized dataset
 harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","race_baby","infantsex")]%>%
@@ -315,14 +322,12 @@ harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","
 	select(nsrrid,visitnumber,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
 				
 
-setwd("//rfawin.partners.org/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
+setwd("/Volumes/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
 write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")
 write.csv(harmonized_data, paste(ver,"/shine-harmonized-dataset-",ver,".csv",sep=""), row.names = F, na="")
 
 names(child_anthro)[names(child_anthro) == 'visitnumber'] <- 'visitanthro'
 write.csv(child_anthro, paste(ver,"/shine-child-anthropometry-dataset-",ver,".csv",sep=""), row.names = F, na="")
-
-
 
 
 
