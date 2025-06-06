@@ -239,6 +239,62 @@ data$countryyrs_mom <- NULL
 data <- data[order(data$nsrrid),]
 
 
+# seperate shineparentsleepsummary to mother and father datasets and add suffixes
+# match _subject with nsrrid
+
+library(haven)      
+library(dplyr)
+library(readr) 
+
+sas_file_path <- "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shineparentsleepsummary_nsrr.sas7bdat"
+key_file_path <- "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/NSRR_RiseandSHINE_randomid_key.csv"
+
+
+shine_parent <- read_sas(sas_file_path)
+nsrr_key <- read_csv(key_file_path)
+
+shine_parent <- shine_parent %>%
+  rename(participant_id = `_subject`)
+
+shine_parent <- shine_parent %>%
+  left_join(nsrr_key, by = "participant_id") %>%
+  select(-participant_id) 
+
+shine_mother <- shine_parent %>% 
+  filter(paq_which_parent == 1)  
+
+shine_father <- shine_parent %>% 
+  filter(paq_which_parent == 2)  
+
+add_suffix <- function(df, suffix, exclude_cols = c("nsrrid")) {
+  col_names <- names(df)
+  for (i in seq_along(col_names)) {
+    if (!col_names[i] %in% exclude_cols) {
+      col_names[i] <- paste0(col_names[i], suffix)
+    }
+  }
+  names(df) <- col_names
+  return(df)
+}
+
+shine_mother <- add_suffix(shine_mother, "_mother", exclude_cols = c("nsrrid"))
+shine_father <- add_suffix(shine_father, "_father", exclude_cols = c("nsrrid"))
+
+shine_mother <- shine_mother %>%
+  select(-subjectidfull_mother, -paq_which_parent_mother) %>%
+  rename(visitnumber = paq_visit_mother) %>%
+  select(nsrrid, everything())  # Move nsrrid to first position
+
+shine_father <- shine_father %>%
+  select(-subjectidfull_father, -paq_which_parent_father) %>%
+  rename(visitnumber = paq_visit_father) %>%
+  select(nsrrid, everything())  
+
+write.csv(shine_mother,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinemothersleepsummary_nsrr.csv",row.names = F, na = '')
+write.csv(shine_father,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinefathersleepsummary_nsrr.csv",row.names = F, na = '')
+
+
+
 #Harmonized dataset
 harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","race_baby","infantsex")]%>%
 	dplyr::mutate(nsrr_age=infant_agedays/365,
