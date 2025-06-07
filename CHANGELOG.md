@@ -1,4 +1,4 @@
-## 0.2.0
+## 0.2.0 (June 6, 2025)
 
 - Revise variable folder structure
 - Add parent actigraphy variables
