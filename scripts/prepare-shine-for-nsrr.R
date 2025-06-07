@@ -290,6 +290,13 @@ shine_father <- shine_father %>%
   rename(visitnumber = paq_visit_father) %>%
   select(nsrrid, everything())  
 
+rename_sleepfrag <- function(df) {
+  names(df) <- gsub("sleepfragmentation", "slpfrag", names(df))
+  return(df)
+}
+
+shine_mother <- rename_sleepfrag(shine_mother)
+shine_father <- rename_sleepfrag(shine_father)
 write.csv(shine_mother,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinemothersleepsummary_nsrr.csv",row.names = F, na = '')
 write.csv(shine_father,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinefathersleepsummary_nsrr.csv",row.names = F, na = '')
 
@@ -323,7 +330,7 @@ harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","
 				
 
 setwd("/Volumes/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
-write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")
+#write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")
 write.csv(harmonized_data, paste(ver,"/shine-harmonized-dataset-",ver,".csv",sep=""), row.names = F, na="")
 
 names(child_anthro)[names(child_anthro) == 'visitnumber'] <- 'visitanthro'
