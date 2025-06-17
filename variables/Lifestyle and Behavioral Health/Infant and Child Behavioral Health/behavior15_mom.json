@@ -1,7 +1,7 @@
 {
   "id": "behavior15_mom",
   "display_name": "Child is upset by a change in plans or routine (for example, order of daily activities, adding last minute errands to schedule, change in driving routine to store)",
-  "description": "Maternal Reported<br><br>Spanish: Cuando se le pide que traiga algo, se olvida de quÃÂ es lo que debÃÂa traer",
+  "description": "Maternal Reported<br><br>Spanish: Cuando se le pide que traiga algo, se olvida de quÃÂÃÂ es lo que debÃÂÃÂa traer",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }

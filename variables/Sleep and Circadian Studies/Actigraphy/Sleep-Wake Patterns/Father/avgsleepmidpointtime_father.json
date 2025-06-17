@@ -1,7 +1,7 @@
 {
   "id": "avgsleepmidpointtime_father",
   "display_name": "[Father] Average mid-point of sleep duration (i.e., time spent asleep) per main sleep in all days from actigraphy ",
-  "description": "",
+  "description": "The actigraphy data was collected on the non-dominant wrist via a tri-axis solid state accelerometer on the ActiGraph wGT3X-BT® Activity Monitor, sampled at 100 Hz and consolidated into 60-second epochs. Missing data due to non-wear was excluded, with days considered valid if the device was worn for 10 or more hours not during sleep. After manually defined the rest intervals guided by the sleep diary, the ActiLife software applied an automatic scoring algorithm (Cole-Kripke algorithm) to classify each 60-second epoch within that interval as either \"sleep\" or \"wake\". Non-wear was detected by participant self-report in the sleep diary, and visual inspection of the data by trained scorers.",
   "type": "time",
   "units": "HH:mm:ss ",
   "labels": [

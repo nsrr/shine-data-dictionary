@@ -1,7 +1,7 @@
 {
   "id": "covwaso_act_night",
   "display_name": "[Child] Coefficient of variation of [Child] Total wake time in the sleep periods across all re[Child] St intervals at nighttime periods from actigraphy",
-  "description": "Variable sourced from actigraphy data",
+  "description": "The actigraphy data was collected on the ankle via a solid-state piezo-electric accelerometer on  the Philips Actiwatch 2, sampled at 32 Hz and consolidated into 30-second epochs. Missing data due to non-wear was excluded, with days considered valid if the device was worn for 10 or more hours. After manually defined the rest intervals guided by the sleep diary, the Actiware software applied an automatic scoring algorithm (Oakley algorithm) to classify each 30-second epoch within that interval as either \"sleep\" or \"wake\" . If sleep intervals were designated \"sleep in motion\" on the sleep diary, the exact sleep diary times were used to set the rest interval. Non-wear was detected by participant self-report in the sleep journal and visual inspection of the data.",
   "type": "numeric",
   "units": "minutes (min)",
   "labels": [

@@ -1,7 +1,7 @@
 {
   "id": "behavior9_mom",
   "display_name": "Child needs to be told to begin a task even when willing to do it",
-  "description": "Maternal Reported<br><br>Spanish: Es necesario ordenarle que empiece a hacer una tarea, incluso cuando estÃÂ dispuesto a hacerla",
+  "description": "Maternal Reported<br><br>Spanish: Es necesario ordenarle que empiece a hacer una tarea, incluso cuando estÃÂÃÂ dispuesto a hacerla",
   "type": "choices",
   "domain": "freq_nevrsomoftn"
 }
