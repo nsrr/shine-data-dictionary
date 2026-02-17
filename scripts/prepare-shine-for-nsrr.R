@@ -1,6 +1,6 @@
 # Prepare SHINE for nsrr #
 
-ver="0.2.0"
+ver="0.3.0"
 
 library(haven)
 library(dplyr)
@@ -98,6 +98,10 @@ colnames(v3_main) <- gsub("swyc", "swyc_v3_", colnames(v3_main))
 colnames(v2_dad) <- gsub("employment_f", "employment_f3", colnames(v2_dad))
 colnames(v3_dad) <- gsub("employment_f", "employment_f5", colnames(v3_dad))
 colnames(intake_dad) <- gsub("employment_f", "employment_f5", colnames(intake_dad))
+
+colnames(v1_main) <- gsub("maternleave_mom", "employmtmatleave_mom", colnames(v1_main))
+colnames(v1_main) <- gsub("matleavetime_mom", "employmtmatleavenum_mom", colnames(v1_main))
+colnames(v1_main) <- gsub("matleavwkmo_mom", "emplymtmatleavewkmth_mom", colnames(v1_main))
 
 colnames(v2_main) <- gsub("maternleave_mom", "employmtmatleave_mom", colnames(v2_main))
 colnames(v2_main) <- gsub("matleavetime_mom", "employmtmatleavenum_mom", colnames(v2_main))
@@ -305,7 +309,7 @@ data_with_mother <- data %>%
 data_final <- data_with_mother %>%
   left_join(shine_father, by = c("nsrrid", "visitnumber"))
 write.csv(data_final, 
-          "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_releases/0.2.0.pre/shine-dataset-0.2.0.pre.csv",
+          "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_releases/0.3.0.pre/shine-dataset-0.3.0.pre.csv",
           row.names = FALSE, 
           na = '')
 
