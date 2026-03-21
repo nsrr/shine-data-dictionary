@@ -1,0 +1,7 @@
+{
+  "id": "childactivity1_f",
+  "display_name": "My family uses mobile or screen-based devices during meals",
+  "description": "Screen parenting scale (Davison, Haines etc)",
+  "type": "choices",
+  "domain": "disagree_agree4"
+}

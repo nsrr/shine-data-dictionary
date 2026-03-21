@@ -1,0 +1,10 @@
+{
+  "id": "milktype3mo_mom",
+  "display_name": "What kind of milk do you plan to feed your baby at 3 months of age?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "milktype5",
+  "labels": [
+    "diet"
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "bronch_mom",
+  "display_name": "Has your child had bronchitis",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "yes1no0"
+}

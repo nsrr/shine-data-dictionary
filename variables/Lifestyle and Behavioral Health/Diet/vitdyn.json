@@ -1,0 +1,10 @@
+{
+  "id": "vitdyn",
+  "display_name": "Does additional liquid include vitamin D drops?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "diet"
+  ]
+}

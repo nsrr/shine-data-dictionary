@@ -1,0 +1,7 @@
+{
+  "id": "wheeze_mom",
+  "display_name": "Since birth, has your baby had wheezing",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "yes1no0"
+}

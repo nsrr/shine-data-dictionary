@@ -1,0 +1,7 @@
+{
+  "id": "mice_mom",
+  "display_name": "how often have you seen mice/rodents in the last 12 months",
+  "description": "",
+  "type": "choices",
+  "domain": "never_everyday5"
+}

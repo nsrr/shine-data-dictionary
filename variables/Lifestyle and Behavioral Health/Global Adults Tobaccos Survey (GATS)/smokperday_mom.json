@@ -1,0 +1,7 @@
+{
+  "id": "smokperday_mom",
+  "display_name": "On average, how many cigarettes per day do you currently smoke?",
+  "description": "Participants answered this question only if they chose \"Yes\" in currntsmoke_mom_v1.",
+  "type": "choices",
+  "domain": "dom_less_than"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "phq1_f",
+  "display_name": "Little interest or pleasure in doing things",
+  "description": "Patient Health Questionnaire-2 (PHQ2)",
+  "type": "choices",
+  "domain": "phq4freq"
+}

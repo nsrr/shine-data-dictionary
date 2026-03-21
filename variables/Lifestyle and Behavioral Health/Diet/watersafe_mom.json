@@ -1,0 +1,10 @@
+{
+  "id": "watersafe_mom",
+  "display_name": "To what extent do you agree or disagree with the following statement: My local tap water is safe to drink.",
+  "description": "Onufrak, 2014",
+  "type": "choices",
+  "domain": "likert5_neutral",
+  "labels": [
+    "diet"
+  ]
+}

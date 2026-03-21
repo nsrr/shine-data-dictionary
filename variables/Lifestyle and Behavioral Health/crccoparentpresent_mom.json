@@ -1,0 +1,7 @@
+{
+  "id": "crccoparentpresent_mom",
+  "display_name": "Was partner present while completing Co-Parent measure?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0"
+}

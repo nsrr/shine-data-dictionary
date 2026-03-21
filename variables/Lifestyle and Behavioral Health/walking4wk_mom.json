@@ -1,0 +1,7 @@
+{
+  "id": "walking4wk_mom",
+  "display_name": "Thinking back on the LAST 4 WEEKS of your pregnancy, on average, how many hours per week did you spend walking (include walking for fun or exercise, walking to work or school)?",
+  "description": "Project Viva",
+  "type": "numeric",
+  "units": "hours"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "alcintakeday_mom",
+  "display_name": "On the days that you drank during the past 30 days, how many drinks did you usually have each day?",
+  "description": "Question from 2009 National Survey on Drug Use and Health - PhenX Toolkit",
+  "type": "choices",
+  "domain": "drinks_per_day8"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "event10_f",
+  "display_name": "Anything else bad happened to you that upset you a lot",
+  "description": "Sternthal Acute Life events #2 - modified (past 1 year vs 5 years)",
+  "type": "choices",
+  "domain": "yes1no0refdk2"
+}

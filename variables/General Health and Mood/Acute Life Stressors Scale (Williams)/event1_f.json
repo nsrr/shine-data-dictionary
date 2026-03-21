@@ -1,0 +1,7 @@
+{
+  "id": "event1_f",
+  "display_name": "Life-threatening illness or accidental injury to someone close to you",
+  "description": "Sternthal Acute Life events #2 - modified (past 1 year vs 5 years)",
+  "type": "choices",
+  "domain": "yes1no0refdk2"
+}

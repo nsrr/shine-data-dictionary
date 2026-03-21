@@ -1,0 +1,10 @@
+{
+  "id": "feed3_mom",
+  "display_name": "In the past week, on average, how many ounces does each bottle contain?",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "dom_less_than_2",
+  "labels": [
+    "diet"
+  ]
+}

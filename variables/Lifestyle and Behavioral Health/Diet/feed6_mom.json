@@ -1,0 +1,10 @@
+{
+  "id": "feed6_mom",
+  "display_name": "In the past week, how many times was your baby usually fed breast milk in a 24-hour period?",
+  "description": "IFPS version for 6month olds  NOTE: see item on first page (We took a subset of foods/beverages listed)",
+  "type": "choices",
+  "domain": "times_1to8plus7",
+  "labels": [
+    "diet"
+  ]
+}

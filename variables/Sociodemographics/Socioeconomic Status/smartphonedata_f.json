@@ -1,0 +1,7 @@
+{
+  "id": "smartphonedata_f",
+  "display_name": "Own a smartphone w/data plan?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0"
+}

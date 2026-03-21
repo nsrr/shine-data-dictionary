@@ -1,0 +1,7 @@
+{
+  "id": "slpapnea_mom",
+  "display_name": "Sleep Apnea during pregnancy",
+  "description": "",
+  "type": "choices",
+  "domain": "yes0no1"
+}

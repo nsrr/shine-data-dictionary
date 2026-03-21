@@ -1,0 +1,10 @@
+{
+  "id": "drinksodas_f",
+  "display_name": "In the past 4 weeks, on average, how often did you drink any regular sodas or soft drinks, including Manzanita, Penafiel, Coke, Pepsi, Dr. Pepper, or Mountain Dew?",
+  "description": "",
+  "type": "choices",
+  "domain": "freq_never_day",
+  "labels": [
+    "diet"
+  ]
+}

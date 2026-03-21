@@ -1,0 +1,7 @@
+{
+  "id": "devicesleep_mom",
+  "display_name": "My child falls asleep while using a mobile device",
+  "description": "Screen parenting scale (Davison, Haines etc)",
+  "type": "choices",
+  "domain": "disagree_agree4"
+}

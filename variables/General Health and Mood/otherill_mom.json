@@ -1,0 +1,7 @@
+{
+  "id": "otherill_mom",
+  "display_name": "Since birth, has your baby had other illness",
+  "description": "Infant sympotoms",
+  "type": "choices",
+  "domain": "yes1no0"
+}

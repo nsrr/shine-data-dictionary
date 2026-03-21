@@ -1,0 +1,10 @@
+{
+  "id": "formulaoz_mom",
+  "display_name": "In the past week, how many ounces of formula did your child drink in an average day (24-hour period)?",
+  "description": "IFPS (modified)",
+  "type": "choices",
+  "domain": "ounces0_32plus5",
+  "labels": [
+    "diet"
+  ]
+}

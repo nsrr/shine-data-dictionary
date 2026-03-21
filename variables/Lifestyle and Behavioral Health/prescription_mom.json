@@ -1,0 +1,7 @@
+{
+  "id": "prescription_mom",
+  "display_name": "In the past 12 months, how often have you used any prescription medications just for the feeling, more than prescribed or that were not prescribed for you?",
+  "description": "Tobacco, Alcohol, Prescription medications, and other Substance (TAPS)  - female",
+  "type": "choices",
+  "domain": "daily_to_never5"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "event2_mom",
+  "display_name": "Death of someone close to you",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0refdk2"
+}

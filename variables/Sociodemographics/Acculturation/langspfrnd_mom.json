@@ -1,0 +1,7 @@
+{
+  "id": "langspfrnd_mom",
+  "display_name": "What language(s) do you usually speak with your friends?",
+  "description": "Norris 1996 4-pt Brief Acculturation Scale for Hispanics (BASH)",
+  "type": "choices",
+  "domain": "english_otherlang5"
+}

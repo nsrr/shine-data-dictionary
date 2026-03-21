@@ -1,0 +1,10 @@
+{
+  "id": "formula_mom",
+  "display_name": "Are you now feeding your baby any infant formula?",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "diet"
+  ]
+}

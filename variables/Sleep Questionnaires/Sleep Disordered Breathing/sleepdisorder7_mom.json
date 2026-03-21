@@ -1,0 +1,7 @@
+{
+  "id": "sleepdisorder7_mom",
+  "display_name": "Does your child tend to breathe through the mouth during the day?",
+  "description": "Pediatric Sleep Questionnaire: Sleep-Disordered Breathing Subscale, Copyright 2007 The Regents of the University of Michigan",
+  "type": "choices",
+  "domain": "yes1no0unk2"
+}

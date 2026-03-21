@@ -1,0 +1,7 @@
+{
+  "id": "strexercise_f",
+  "display_name": "strenuous exercise (heart beats rapidly)",
+  "description": "",
+  "type": "choices",
+  "domain": "times_per_week16"
+}

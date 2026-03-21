@@ -1,0 +1,10 @@
+{
+  "id": "mealtime_mom",
+  "display_name": "My child looks forward to mealtime",
+  "description": "subscale enjoyment of food",
+  "type": "choices",
+  "domain": "disagree_agree4",
+  "labels": [
+    "diet"
+  ]
+}

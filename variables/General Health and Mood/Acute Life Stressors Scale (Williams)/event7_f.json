@@ -1,0 +1,7 @@
+{
+  "id": "event7_f",
+  "display_name": "Being robbed or having home burglarized",
+  "description": "Sternthal Acute Life events #2 - modified (past 1 year vs 5 years)",
+  "type": "choices",
+  "domain": "yes1no0refdk2"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "prob1_mom",
+  "display_name": "Little interest or pleasure in doing things",
+  "description": "Patient Health Questionnaire-2 (PHQ2) question 1.",
+  "type": "choices",
+  "domain": "phq4freq"
+}

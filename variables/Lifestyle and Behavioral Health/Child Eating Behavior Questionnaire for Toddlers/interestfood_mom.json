@@ -1,0 +1,10 @@
+{
+  "id": "interestfood_mom",
+  "display_name": "My child is interested in food",
+  "description": "subscale enjoyment of food",
+  "type": "choices",
+  "domain": "disagree_agree4",
+  "labels": [
+    "diet"
+  ]
+}

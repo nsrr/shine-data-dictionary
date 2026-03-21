@@ -1,0 +1,17 @@
+[
+  {
+    "value": "1",
+    "display_name": "Breast only",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Bottle only",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Both breast and bottle",
+    "description": ""
+  }
+]

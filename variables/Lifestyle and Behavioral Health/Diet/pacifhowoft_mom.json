@@ -1,0 +1,10 @@
+{
+  "id": "pacifhowoft_mom",
+  "display_name": "If yes, how often does your baby use a pacifier (binky, dummy, bobo) to go to sleep?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "nights_per_week8",
+  "labels": [
+    "diet"
+  ]
+}

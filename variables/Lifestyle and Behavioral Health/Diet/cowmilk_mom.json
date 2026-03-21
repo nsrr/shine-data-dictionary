@@ -1,0 +1,10 @@
+{
+  "id": "cowmilk_mom",
+  "display_name": "In the past 7 days, how often was your child fed cow's milk?",
+  "description": "IFPS (modified)",
+  "type": "integer",
+  "units": "number of servings",
+  "labels": [
+    "diet"
+  ]
+}

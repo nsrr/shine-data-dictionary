@@ -1,0 +1,7 @@
+{
+  "id": "sleepdisorder8_mom",
+  "display_name": "Does your child have a dry mouth on waking up in the morning?",
+  "description": "Pediatric Sleep Questionnaire: Sleep-Disordered Breathing Subscale, Copyright 2007 The Regents of the University of Michigan",
+  "type": "choices",
+  "domain": "yes1no0unk2"
+}

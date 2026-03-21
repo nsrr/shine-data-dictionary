@@ -1,0 +1,6 @@
+{
+  "id": "phq_mom",
+  "display_name": "PHQ-2 Score (V#3)",
+  "description": "Patient Health Questionnaire-2 (PHQ2) score",
+  "type": "numeric"
+}

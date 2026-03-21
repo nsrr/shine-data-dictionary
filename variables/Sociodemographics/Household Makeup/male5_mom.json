@@ -1,0 +1,7 @@
+{
+  "id": "male5_mom",
+  "display_name": "What is the total number of hours he spent with your baby last week without you being present?",
+  "description": "",
+  "type": "numeric",
+  "units": "hours"
+}

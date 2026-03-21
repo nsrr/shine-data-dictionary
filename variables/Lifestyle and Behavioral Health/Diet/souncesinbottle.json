@@ -1,0 +1,10 @@
+{
+  "id": "souncesinbottle",
+  "display_name": "On average, how many ounces does each bottle contain?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "dom_less_than_2",
+  "labels": [
+    "diet"
+  ]
+}

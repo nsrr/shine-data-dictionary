@@ -1,0 +1,11 @@
+{
+  "id": "sdrnkall",
+  "display_name": "How often is your baby encouraged to finish a bottle if he or she stops drinking before the formula or breastmilk is gone?",
+  "description": "IFPS II",
+  "type": "choices",
+  "domain": "never_always_na6",
+  "labels": [
+    "diet",
+    "breastfeeding"
+  ]
+}

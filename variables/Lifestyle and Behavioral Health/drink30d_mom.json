@@ -1,0 +1,7 @@
+{
+  "id": "drink30d_mom",
+  "display_name": "During the past 30 days, on how many days did you drink one or more drinks of an alcoholic beverage?",
+  "description": "Question from 2008 National Survey on Drug Use and Health - PhenX Toolkit",
+  "type": "numeric",
+  "units": "days"
+}

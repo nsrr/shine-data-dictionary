@@ -1,0 +1,10 @@
+{
+  "id": "vitdage_day",
+  "display_name": "How old was your baby when you first gave him/her vitamin D drops?",
+  "description": "",
+  "type": "numeric",
+  "units": "days",
+  "labels": [
+    "diet"
+  ]
+}

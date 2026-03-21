@@ -1,0 +1,7 @@
+{
+  "id": "htinch_f",
+  "display_name": "Father height in inches.",
+  "description": "",
+  "type": "choices",
+  "domain": "inches0_11_12"
+}

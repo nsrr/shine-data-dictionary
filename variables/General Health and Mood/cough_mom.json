@@ -1,0 +1,7 @@
+{
+  "id": "cough_mom",
+  "display_name": "Since birth, has your baby had a cough",
+  "description": "Infant sympotoms",
+  "type": "choices",
+  "domain": "yes1no0"
+}

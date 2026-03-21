@@ -1,7 +1,7 @@
 {
   "id": "income_dad_sim",
   "display_name": "Household annual income (3-level)",
-  "description": "Paternal reported. Recoded to collapse small cells for NSRR. ",
+  "description": "Paternal reported. Recoded to collapse small cells for NSRR.",
   "type": "choices",
   "domain": "inc3"
 }

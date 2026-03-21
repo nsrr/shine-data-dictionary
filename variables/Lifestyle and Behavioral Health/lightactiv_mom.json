@@ -1,0 +1,7 @@
+{
+  "id": "lightactiv_mom",
+  "display_name": "Hours/week in light or moderate recreational activities in the 12 months before pregnancy (e.g. bowling, yoga, skating; excluding walking)",
+  "description": "Project Viva",
+  "type": "numeric",
+  "units": "hours"
+}

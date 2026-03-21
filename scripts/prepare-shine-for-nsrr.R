@@ -1,6 +1,6 @@
 # Prepare SHINE for nsrr #
 
-ver="0.3.0"
+ver="0.3.0.pre"
 
 library(haven)
 library(dplyr)
@@ -20,7 +20,7 @@ act_sum <- full_join(act_sum, key, by="subject")
 act_sum <- act_sum[!is.na(act_sum$visitnumber),]
 #drop some variables, slice ID's and dates
 act_sum <- act_sum[,colnames(act_sum)[!colnames(act_sum)%in%c("act_sheet_id", "dia_sheet_id", 
-                     "startdate_dia","enddate_dia",  "startdate_act","enddate_act","subject", "timepoint")]]
+                                                              "startdate_dia","enddate_dia",  "startdate_act","enddate_act","subject", "timepoint")]]
 
 intake_main <- read_sas("intake_main.sas7bdat")
 intake_dad <- read_sas("intake_dad.sas7bdat")
@@ -119,18 +119,18 @@ colnames(v2_main) <- gsub("takebabybed_mom","takechildbed_mom",colnames(v2_main)
 
 
 x <- unique(c( colnames(intake_main),
-  colnames(mom_anthro_0),
-  colnames(intake_dad), 
-  colnames(mom_anthro_1),
-  colnames(mom_anthro_2),
-  colnames(mom_anthro_3), 
-  colnames(mom_anthro_4),
-  colnames(v1_main),
-  colnames(v2_dad),
-  colnames(v2_main),
-  colnames(v3_dad),
-  colnames(v3_main),
-  colnames(v4_main)))
+               colnames(mom_anthro_0),
+               colnames(intake_dad), 
+               colnames(mom_anthro_1),
+               colnames(mom_anthro_2),
+               colnames(mom_anthro_3), 
+               colnames(mom_anthro_4),
+               colnames(v1_main),
+               colnames(v2_dad),
+               colnames(v2_main),
+               colnames(v3_dad),
+               colnames(v3_main),
+               colnames(v4_main)))
 allvars <- data.frame(matrix(ncol = length(x), nrow = 433))
 colnames(allvars) <- x
 allvars$nsrrid <- unique(intake_main$nsrrid)
@@ -140,7 +140,7 @@ v2_main$feed1_mom <- as.numeric(v2_main$feed1_mom)
 
 #make 1 dataset per visit, with a full set of variables, so we can rowbind
 v0 <-intake_main %>% full_join(intake_dad, by="nsrrid") %>%
-     full_join(mom_anthro_0, by="nsrrid") 
+  full_join(mom_anthro_0, by="nsrrid") 
 v1 <-mom_anthro_1 %>% full_join(v1_main, by="nsrrid")
 v2 <-mom_anthro_2 %>%  full_join(v2_main, by="nsrrid") %>%  full_join(v2_dad, by="nsrrid") 
 v3 <-mom_anthro_3 %>% full_join(v3_dad, by="nsrrid")  %>% full_join(v3_main, by="nsrrid") 
@@ -169,15 +169,7 @@ all_data <- left_join(all_data, child_anthro[child_anthro$visitnumber%in%0:4,], 
 
 all_data <- all_data[,sort(colnames(all_data))]
 
-# Up-to-date Data dictionary can be generated and moved to this location
-dict <- read.csv("/Volumes/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/shine-data-dictionary-0.1.0.pre5-variables.csv")
-
-#restrict to data that's in the current dictionary
-data_select <- cbind(all_data[, c(colnames(all_data)%in%c(dict$id))],
-              all_data[,c("httfeet_f","htinch_f")])
-
-data <- full_join(data_select, act_sum, by=c("visitnumber", "nsrrid"))
-
+data <- full_join(all_data, act_sum, by=c("visitnumber", "nsrrid"))
 # not required in current dataset"
 #
 # time w baby variables should be numeric, units tbd
@@ -301,13 +293,39 @@ rename_sleepfrag <- function(df) {
 
 shine_mother <- rename_sleepfrag(shine_mother)
 shine_father <- rename_sleepfrag(shine_father)
-write.csv(shine_mother,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinemothersleepsummary_nsrr.csv",row.names = F, na = '')
-write.csv(shine_father,"/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinefathersleepsummary_nsrr.csv",row.names = F, na = '')
+
+write.csv(shine_mother, "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinemothersleepsummary_nsrr.csv", row.names = F, na = '')
+write.csv(shine_father, "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_datasets/shinefathersleepsummary_nsrr.csv", row.names = F, na = '')
 
 data_with_mother <- data %>%
   left_join(shine_mother, by = c("nsrrid", "visitnumber"))
 data_final <- data_with_mother %>%
   left_join(shine_father, by = c("nsrrid", "visitnumber"))
+
+# match timepoint
+id_timepoint_ref <- read.csv("/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/shine-dropped-variables-with-timepoint.csv") %>%
+  mutate(visitnumber = case_when(
+    timepoint %in% c("int", "v0", 0) ~ 0,
+    timepoint %in% c("v1", 1)        ~ 1,
+    timepoint %in% c("v2", 2)        ~ 2,
+    timepoint %in% c("v3", 3)        ~ 3,
+    timepoint %in% c("v4", 4)        ~ 4
+  )) %>%
+  rename(nsrrid = id) %>%
+  select(nsrrid, visitnumber)
+
+data_final <- data_final %>%
+  left_join(id_timepoint_ref, by = c("nsrrid", "visitnumber"))
+# Remove v1 prefix and _v1/_V1 suffix from variable names
+colnames(data_final) <- gsub("^v1", "", colnames(data_final))
+colnames(data_final) <- gsub("_[vV]1$", "", colnames(data_final))
+# Split water_mom into v2 and v3 specific columns
+data_final <- data_final %>%
+  mutate(
+    water_mom_v2 = ifelse(visitnumber == 2, water_mom, NA),
+    water_mom_v3 = ifelse(visitnumber == 3, water_mom, NA)
+  ) %>%
+  select(-water_mom)
 write.csv(data_final, 
           "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_releases/0.3.0.pre/shine-dataset-0.3.0.pre.csv",
           row.names = FALSE, 
@@ -315,23 +333,23 @@ write.csv(data_final,
 
 #Harmonized dataset
 harmonized_data<-data[,c("nsrrid", "visitnumber","infant_agedays","infant_bmi","race_baby","infantsex")]%>%
-	dplyr::mutate(nsrr_age=infant_agedays/365,
-				  nsrr_bmi=infant_bmi,
-				  nsrr_race=dplyr::case_when(
-				  race_baby==1 ~ "white",
-				  race_baby==2 ~ "black or african american",
-				  race_baby==3 ~ "asian",
-				  race_baby==4 ~ "hispanic",
-				  race_baby==5 ~ "unknown",
-				  TRUE ~ "not reported"
-				  ),
-				  nsrr_sex=dplyr::case_when(
-				  infantsex==1 ~ "male",
-				  infantsex==2 ~ "female",
-				  TRUE ~ "not reported"
-				))%>%
-	select(nsrrid,visitnumber,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
-				
+  dplyr::mutate(nsrr_age=infant_agedays/365,
+                nsrr_bmi=infant_bmi,
+                nsrr_race=dplyr::case_when(
+                  race_baby==1 ~ "white",
+                  race_baby==2 ~ "black or african american",
+                  race_baby==3 ~ "asian",
+                  race_baby==4 ~ "hispanic",
+                  race_baby==5 ~ "unknown",
+                  TRUE ~ "not reported"
+                ),
+                nsrr_sex=dplyr::case_when(
+                  infantsex==1 ~ "male",
+                  infantsex==2 ~ "female",
+                  TRUE ~ "not reported"
+                ))%>%
+  select(nsrrid,visitnumber,nsrr_age,nsrr_race,nsrr_sex,nsrr_bmi)
+
 
 setwd("/Volumes/bwh-sleepepi-nsrr-staging/20230504-shine/nsrr-prep/_releases")
 #write.csv(data, paste(ver,"/shine-dataset-",ver,".csv",sep=""), row.names = F, na="")

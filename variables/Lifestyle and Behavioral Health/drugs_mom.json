@@ -1,0 +1,7 @@
+{
+  "id": "drugs_mom",
+  "display_name": "In the past 12 months, how often have you used any drugs including marijuana, cocaine or crack, heroin, methamphetamine (crystal meth), hallucinogens, ecstasy/MDMA?",
+  "description": "Tobacco, Alcohol, Prescription medications, and other Substance (TAPS)  - female",
+  "type": "choices",
+  "domain": "daily_to_never5"
+}

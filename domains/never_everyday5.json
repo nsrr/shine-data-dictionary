@@ -1,0 +1,27 @@
+[
+  {
+    "value": "0",
+    "display_name": "Never",
+    "description": ""
+  },
+  {
+    "value": "1",
+    "display_name": "Few times a year",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Few times a month",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Few times a week",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Every day",
+    "description": ""
+  }
+]

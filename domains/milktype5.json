@@ -1,0 +1,27 @@
+[
+  {
+    "value": "1",
+    "display_name": "Breast milk only",
+    "description": ""
+  },
+  {
+    "value": "2",
+    "display_name": "Mostly breast milk, some formula",
+    "description": ""
+  },
+  {
+    "value": "3",
+    "display_name": "Mostly formula, some breast milk",
+    "description": ""
+  },
+  {
+    "value": "4",
+    "display_name": "Formula only",
+    "description": ""
+  },
+  {
+    "value": "5",
+    "display_name": "Don't know yet",
+    "description": ""
+  }
+]

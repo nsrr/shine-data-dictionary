@@ -1,0 +1,10 @@
+{
+  "id": "brstmlktry_mom",
+  "display_name": "Have you tried breastfeeding your baby?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "diet"
+  ]
+}

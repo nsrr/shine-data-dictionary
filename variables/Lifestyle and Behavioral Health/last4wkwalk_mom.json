@@ -1,0 +1,7 @@
+{
+  "id": "last4wkwalk_mom",
+  "display_name": "Thinking back on the last 4 weeks, on average, how many hours per week did you spend walking",
+  "description": "Project Viva",
+  "type": "numeric",
+  "units": "hours"
+}

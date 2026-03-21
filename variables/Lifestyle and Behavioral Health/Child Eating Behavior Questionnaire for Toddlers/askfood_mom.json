@@ -1,0 +1,10 @@
+{
+  "id": "askfood_mom",
+  "display_name": "My child is always asking for food",
+  "description": "subscale food responsiveness",
+  "type": "choices",
+  "domain": "disagree_agree4",
+  "labels": [
+    "diet"
+  ]
+}

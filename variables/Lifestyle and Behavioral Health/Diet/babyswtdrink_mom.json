@@ -1,0 +1,10 @@
+{
+  "id": "babyswtdrink_mom",
+  "display_name": "In the past 7 days, how often was your baby fed sweet drinks: juice drinks, soft drinks, soda, sweet tea, Kool-Aid, etc.?",
+  "description": "IFPS (modified)",
+  "type": "integer",
+  "units": "number of servings",
+  "labels": [
+    "diet"
+  ]
+}

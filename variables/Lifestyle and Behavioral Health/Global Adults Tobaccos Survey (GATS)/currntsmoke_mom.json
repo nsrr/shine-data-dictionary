@@ -1,0 +1,7 @@
+{
+  "id": "currntsmoke_mom",
+  "display_name": "Do you currently smoke cigarettes?",
+  "description": "",
+  "type": "choices",
+  "domain": "smoke_yesfreq3"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "eatmost_mom",
+  "display_name": "Given the choice, my child would eat most of the time",
+  "description": "subscale food responsiveness",
+  "type": "choices",
+  "domain": "disagree_agree4",
+  "labels": [
+    "diet"
+  ]
+}

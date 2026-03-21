@@ -1,0 +1,10 @@
+{
+  "id": "eatirritable_mom",
+  "display_name": "My child eats more when irritable",
+  "description": "subscale food responsiveness",
+  "type": "choices",
+  "domain": "disagree_agree4",
+  "labels": [
+    "diet"
+  ]
+}

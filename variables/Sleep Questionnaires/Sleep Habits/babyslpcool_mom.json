@@ -1,0 +1,7 @@
+{
+  "id": "babyslpcool_mom",
+  "display_name": "Is the room where your baby sleeps cool at night (during the summer)?",
+  "description": "Sleep Environment Scale (SES), IESQ",
+  "type": "choices",
+  "domain": "dom_never_sometimes"
+}

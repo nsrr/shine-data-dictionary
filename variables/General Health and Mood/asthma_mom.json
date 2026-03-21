@@ -1,0 +1,7 @@
+{
+  "id": "asthma_mom",
+  "display_name": "Since birth, has your baby had asthma",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "yes1no0"
+}

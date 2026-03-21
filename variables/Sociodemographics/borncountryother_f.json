@@ -1,6 +1,6 @@
 {
   "id": "borncountryother_f",
-  "display_name": "Country (if 'other')",
+  "display_name": "Father's country of birth (if 'other')",
   "description": "",
-  "type": "string"
+  "type": "text"
 }

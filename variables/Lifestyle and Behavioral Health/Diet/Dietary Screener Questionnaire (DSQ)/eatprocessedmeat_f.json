@@ -1,0 +1,10 @@
+{
+  "id": "eatprocessedmeat_f",
+  "display_name": "In the past 4 weeks, on average, how often did you eat any processed meat, such as bacon, lunch meats, or hot dogs?",
+  "description": "",
+  "type": "choices",
+  "domain": "freq_never_day",
+  "labels": [
+    "diet"
+  ]
+}

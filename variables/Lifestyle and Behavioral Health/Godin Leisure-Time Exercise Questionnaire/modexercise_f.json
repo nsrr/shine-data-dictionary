@@ -1,0 +1,7 @@
+{
+  "id": "modexercise_f",
+  "display_name": "moderate exercise (not exhausting)",
+  "description": "",
+  "type": "choices",
+  "domain": "times_per_week16"
+}

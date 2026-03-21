@@ -1,0 +1,11 @@
+{
+  "id": "sdrnkbottle",
+  "display_name": "How often does your baby drink all of his or her bottle of formula or breastmilk?",
+  "description": "IFPS II",
+  "type": "choices",
+  "domain": "never_always_na6",
+  "labels": [
+    "diet",
+    "breastfeeding"
+  ]
+}

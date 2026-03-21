@@ -1,0 +1,10 @@
+{
+  "id": "ssolidfood",
+  "display_name": "Since birth, have you fed your baby any food other than breastmilk or formula?",
+  "description": "IFPS (modified)",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "diet"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "otherliquiddaywk_mom",
+  "display_name": "Is this in feedings per day or feedings per week?",
+  "description": "IFPS (modified)",
+  "type": "choices",
+  "domain": "feedings_dayweek",
+  "labels": [
+    "diet"
+  ]
+}

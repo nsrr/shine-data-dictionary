@@ -1,0 +1,7 @@
+{
+  "id": "cigexpos_mom",
+  "display_name": "Since your baby was born, on average, how many hours per week has your baby been exposed to cigarette smoke?",
+  "description": "",
+  "type": "choices",
+  "domain": "hours_week5"
+}

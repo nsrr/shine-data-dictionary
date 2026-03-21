@@ -1,0 +1,10 @@
+{
+  "id": "feed9time_mom",
+  "display_name": "Was age that you stopped breastfeeding your baby in days, weeks, or months?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "timeunit3",
+  "labels": [
+    "diet"
+  ]
+}

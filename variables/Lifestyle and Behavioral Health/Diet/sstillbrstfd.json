@@ -1,0 +1,11 @@
+{
+  "id": "sstillbrstfd",
+  "display_name": "Is your baby still being breastfed?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "diet",
+    "breastfeeding"
+  ]
+}

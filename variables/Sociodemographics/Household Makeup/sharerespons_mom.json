@@ -1,0 +1,7 @@
+{
+  "id": "sharerespons_mom",
+  "display_name": "Is there another primary adult who intends to share responsibility for caring for the baby?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes_caregiversex3"
+}

@@ -1,0 +1,11 @@
+{
+  "id": "sagestopbf_week",
+  "display_name": "If No, how old was your baby when you stopped breastfeeding?",
+  "description": "Project Viva",
+  "type": "numeric",
+  "units": "weeks",
+  "labels": [
+    "diet",
+    "breastfeeding"
+  ]
+}

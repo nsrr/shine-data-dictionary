@@ -1,0 +1,7 @@
+{
+  "id": "langreadsp_mom",
+  "display_name": "In general, what language(s) do you read and speak?",
+  "description": "Norris 1996 4-pt Brief Acculturation Scale for Hispanics (BASH)",
+  "type": "choices",
+  "domain": "english_otherlang5"
+}

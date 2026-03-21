@@ -1,0 +1,10 @@
+{
+  "id": "eatfruit_f",
+  "display_name": "In the past 4 weeks, on average, how often did you eat fruit (including fresh, frozen, or canned fruit)?",
+  "description": "",
+  "type": "choices",
+  "domain": "freq_never_day",
+  "labels": [
+    "diet"
+  ]
+}

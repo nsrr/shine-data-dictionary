@@ -1,0 +1,7 @@
+{
+  "id": "alcoholperday_f",
+  "display_name": "On the days that you drank during the last 30 days, how many drinks did you usually have each day?",
+  "description": "Phenx 2-item",
+  "type": "choices",
+  "domain": "drinks_per_day8"
+}

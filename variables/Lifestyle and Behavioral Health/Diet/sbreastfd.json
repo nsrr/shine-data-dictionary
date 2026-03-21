@@ -1,0 +1,11 @@
+{
+  "id": "sbreastfd",
+  "display_name": "Since your baby was born, has your baby been breast fed?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "yes1no0",
+  "labels": [
+    "diet",
+    "breastfeeding"
+  ]
+}

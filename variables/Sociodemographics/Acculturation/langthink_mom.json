@@ -1,0 +1,7 @@
+{
+  "id": "langthink_mom",
+  "display_name": "In which language(s) do you usually think?",
+  "description": "Norris 1996 4-pt Brief Acculturation Scale for Hispanics (BASH)",
+  "type": "choices",
+  "domain": "english_otherlang5"
+}

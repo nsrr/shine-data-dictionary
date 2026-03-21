@@ -1,0 +1,7 @@
+{
+  "id": "satisfydentist_f",
+  "display_name": "If yes, how satisfied were you with the way the dentist and other dental staff interacted with you as a parent?",
+  "description": "",
+  "type": "choices",
+  "domain": "satisfaction4"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "stopbreathe_f",
+  "display_name": "Thinking back on the LAST 4 WEEKS, how often did you stop breathing during your sleep?",
+  "description": "nuMOM2b study",
+  "type": "choices",
+  "domain": "nightfreq5_dk"
+}

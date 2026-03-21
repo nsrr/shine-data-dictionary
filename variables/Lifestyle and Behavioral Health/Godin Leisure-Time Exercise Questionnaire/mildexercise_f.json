@@ -1,0 +1,7 @@
+{
+  "id": "mildexercise_f",
+  "display_name": "mild exercise (minimal effort)",
+  "description": "",
+  "type": "choices",
+  "domain": "times_per_week16"
+}

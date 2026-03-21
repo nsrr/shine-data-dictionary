@@ -1,0 +1,7 @@
+{
+  "id": "internetwork_f",
+  "display_name": "Have internet at work?",
+  "description": "",
+  "type": "choices",
+  "domain": "yesno_na3"
+}

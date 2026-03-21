@@ -1,0 +1,7 @@
+{
+  "id": "smokecigs_f",
+  "display_name": "Do you currently smoke cigarettes?",
+  "description": "Phenx 2-item",
+  "type": "choices",
+  "domain": "smoke_yesfreq3"
+}

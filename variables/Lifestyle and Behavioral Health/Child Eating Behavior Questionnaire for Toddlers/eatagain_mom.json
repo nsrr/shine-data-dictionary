@@ -1,0 +1,10 @@
+{
+  "id": "eatagain_mom",
+  "display_name": "Even when my child has just eaten, s/he is happy to eat again if offered",
+  "description": "subscale food responsiveness",
+  "type": "choices",
+  "domain": "disagree_agree4",
+  "labels": [
+    "diet"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "feed9_mom",
+  "display_name": "How old was your baby when you stopped breastfeeding?",
+  "description": "Project Viva",
+  "type": "numeric",
+  "units": "years",
+  "labels": [
+    "diet"
+  ]
+}

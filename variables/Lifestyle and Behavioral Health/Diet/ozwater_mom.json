@@ -1,0 +1,10 @@
+{
+  "id": "ozwater_mom",
+  "display_name": "In the past week, how many ounces of water did your baby drink in an average day (24-hour period)?",
+  "description": "IFPS (modified)",
+  "type": "choices",
+  "domain": "ounces0_9plus5",
+  "labels": [
+    "diet"
+  ]
+}

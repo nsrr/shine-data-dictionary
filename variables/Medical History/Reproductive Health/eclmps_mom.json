@@ -1,0 +1,7 @@
+{
+  "id": "eclmps_mom",
+  "display_name": "Eclampsia during pregnancy",
+  "description": "",
+  "type": "choices",
+  "domain": "yes0no1"
+}

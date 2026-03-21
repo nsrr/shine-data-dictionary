@@ -1,0 +1,10 @@
+{
+  "id": "milktype1wk_mom",
+  "display_name": "What kind of milk do you plan to feed your baby in the next week ?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "milktype5",
+  "labels": [
+    "diet"
+  ]
+}

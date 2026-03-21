@@ -1,0 +1,10 @@
+{
+  "id": "vitdage2",
+  "display_name": "Was age of baby receiving vitamin D drops in days or weeks?",
+  "description": "",
+  "type": "choices",
+  "domain": "timeunit3",
+  "labels": [
+    "diet"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "formulatry_mom",
+  "display_name": "Has your baby received any formula?",
+  "description": "Project Viva",
+  "type": "choices",
+  "domain": "yes1no0dont",
+  "labels": [
+    "diet"
+  ]
+}

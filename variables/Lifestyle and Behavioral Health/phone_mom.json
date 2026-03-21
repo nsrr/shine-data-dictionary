@@ -1,0 +1,7 @@
+{
+  "id": "phone_mom",
+  "display_name": "Using a smartphone or tablet? (Do NOT include time spent video chatting)",
+  "description": "",
+  "type": "choices",
+  "domain": "hours0_4plus7"
+}

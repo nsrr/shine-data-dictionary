@@ -1,0 +1,7 @@
+{
+  "id": "sleepdisorder3_mom",
+  "display_name": "While sleeping, does your child snore loudly?",
+  "description": "Pediatric Sleep Questionnaire: Sleep-Disordered Breathing Subscale, Copyright 2007 The Regents of the University of Michigan",
+  "type": "choices",
+  "domain": "yes1no0unk2"
+}

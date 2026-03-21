@@ -1,0 +1,7 @@
+{
+  "id": "stridor_mom",
+  "display_name": "Since birth, has your baby had stridor",
+  "description": "Infant sympotoms",
+  "type": "choices",
+  "domain": "yes1no0"
+}

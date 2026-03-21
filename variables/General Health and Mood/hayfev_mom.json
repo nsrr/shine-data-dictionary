@@ -1,0 +1,7 @@
+{
+  "id": "hayfev_mom",
+  "display_name": "Since our last visit, has your baby had hay fever or allergies involving eyes or nose",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "yes1no0"
+}

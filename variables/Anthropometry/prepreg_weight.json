@@ -1,0 +1,7 @@
+{
+  "id": "prepreg_weight",
+  "display_name": "Maternal pre-pregnancy weight",
+  "description": "Maternal pre-pregnancy weight from EHR or self-reported. If both are missing, this is maternal weight measured at the 1st OB visit within the 1st trimester.",
+  "type": "numeric",
+  "units": "kilograms (kg)"
+}

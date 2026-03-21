@@ -1,0 +1,7 @@
+{
+  "id": "gesdiab_mom",
+  "display_name": "Gestational Diabetes during pregnancy",
+  "description": "",
+  "type": "choices",
+  "domain": "yes0no1"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "feed4_mom",
+  "display_name": "What type of formula do you feed your baby?",
+  "description": "",
+  "type": "choices",
+  "domain": "formula_type3",
+  "labels": [
+    "diet"
+  ]
+}

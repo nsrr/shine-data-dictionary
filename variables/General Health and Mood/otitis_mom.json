@@ -1,0 +1,7 @@
+{
+  "id": "otitis_mom",
+  "display_name": "Has your child had otitis media",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "yes1no0"
+}

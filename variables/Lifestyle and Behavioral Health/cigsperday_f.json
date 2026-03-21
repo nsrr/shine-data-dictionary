@@ -1,0 +1,7 @@
+{
+  "id": "cigsperday_f",
+  "display_name": "On average, how many cigarettes per day do you currently smoke?",
+  "description": "Phenx 2-item",
+  "type": "choices",
+  "domain": "dom_less_than"
+}

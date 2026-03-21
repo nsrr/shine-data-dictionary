@@ -1,0 +1,7 @@
+{
+  "id": "preeclmps_mom",
+  "display_name": "Pre-eclampsia during pregnancy",
+  "description": "",
+  "type": "choices",
+  "domain": "yes0no1"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "childdoctor_f",
+  "display_name": "Did you take your child to the doctor in the past year?",
+  "description": "",
+  "type": "choices",
+  "domain": "appt_attend4_doctor"
+}

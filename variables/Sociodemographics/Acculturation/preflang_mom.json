@@ -1,0 +1,7 @@
+{
+  "id": "preflang_mom",
+  "display_name": "Mother's preferred language.",
+  "description": "",
+  "type": "choices",
+  "domain": "lang_esp_other3"
+}

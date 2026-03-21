@@ -1,0 +1,7 @@
+{
+  "id": "sleepdisorder6_mom",
+  "display_name": "Have you ever seen your child stop breathing during the night?",
+  "description": "Pediatric Sleep Questionnaire: Sleep-Disordered Breathing Subscale, Copyright 2007 The Regents of the University of Michigan",
+  "type": "choices",
+  "domain": "yes1no0unk2"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "babyslpdark_mom",
+  "display_name": "Is the room where your baby sleeps dark during the night?",
+  "description": "Infant Environment Sleep Questionnaire",
+  "type": "choices",
+  "domain": "never_always3"
+}

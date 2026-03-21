@@ -1,0 +1,10 @@
+{
+  "id": "babyotherliquid_mom",
+  "display_name": "In the past 7 days, how often was your baby fed other liquids?",
+  "description": "IFPS (modified)",
+  "type": "integer",
+  "units": "number of servings",
+  "labels": [
+    "diet"
+  ]
+}

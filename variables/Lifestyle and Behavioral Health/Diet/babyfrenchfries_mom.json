@@ -1,0 +1,10 @@
+{
+  "id": "babyfrenchfries_mom",
+  "display_name": "In the past 7 days, how often was your baby fed French fries?",
+  "description": "IFPS II",
+  "type": "integer",
+  "units": "number of servings",
+  "labels": [
+    "diet"
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "id": "howlongbrstfd_mom",
+  "display_name": "How long do you plan to breastfeed your baby (Unit: month) ?",
+  "description": "Project Viva",
+  "type": "numeric",
+  "units": "months",
+  "labels": [
+    "diet"
+  ]
+}

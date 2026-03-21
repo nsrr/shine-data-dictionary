@@ -1,0 +1,7 @@
+{
+  "id": "broch_mom",
+  "display_name": "Since our last visit, has your baby had brochiolitis",
+  "description": "Project Viva (adapted)",
+  "type": "choices",
+  "domain": "yes1no0"
+}

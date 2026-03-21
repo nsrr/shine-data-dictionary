@@ -1,0 +1,7 @@
+{
+  "id": "internethome_f",
+  "display_name": "Have internet at home?",
+  "description": "",
+  "type": "choices",
+  "domain": "yes1no0"
+}

@@ -1,0 +1,10 @@
+{
+  "id": "feed5_mom",
+  "display_name": "Do you feed your baby breast milk by breast only, bottle only, or both?",
+  "description": "IFPS (modified)",
+  "type": "choices",
+  "domain": "breast_bottle3",
+  "labels": [
+    "diet"
+  ]
+}

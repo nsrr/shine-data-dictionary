@@ -1,0 +1,7 @@
+{
+  "id": "computer_mom",
+  "display_name": "Using a computer, including laptops? (Do NOT include time spent video chatting)",
+  "description": "",
+  "type": "choices",
+  "domain": "hours0_4plus7"
+}

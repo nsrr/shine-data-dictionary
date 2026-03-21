@@ -1,0 +1,7 @@
+{
+  "id": "walking_mom",
+  "display_name": "During the 12 months before this pregnancy, on average, how many hours per week did you spend engaged in walking (include walking for fun or exercise, walking to work or school)?",
+  "description": "Project Viva",
+  "type": "numeric",
+  "units": "hours"
+}

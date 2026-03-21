@@ -1,0 +1,7 @@
+{
+  "id": "alcohol_f",
+  "display_name": "In the past 12 months, how often have you had 5 or more drinks containing alcohol in one day?",
+  "description": "Tobacco, Alcohol, Prescription medications, and other Substance (TAPS)  - male",
+  "type": "choices",
+  "domain": "daily_to_never5"
+}

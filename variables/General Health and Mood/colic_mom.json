@@ -1,0 +1,7 @@
+{
+  "id": "colic_mom",
+  "display_name": "Since birth, has your baby  had colic",
+  "description": "Infant sympotoms",
+  "type": "choices",
+  "domain": "yes1no0"
+}

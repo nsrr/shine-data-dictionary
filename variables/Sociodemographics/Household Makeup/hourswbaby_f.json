@@ -1,0 +1,7 @@
+{
+  "id": "hourswbaby_f",
+  "display_name": "What is the total number of hours you spent with your baby last week? (hours/week)",
+  "description": "",
+  "type": "integer",
+  "units": "hours per week"
+}

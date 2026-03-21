@@ -1,0 +1,10 @@
+{
+  "id": "yogurt_mom",
+  "display_name": "In the past 4 weeks, on average, how often did you eat yogurt?",
+  "description": "",
+  "type": "choices",
+  "domain": "freq_never_day_ref",
+  "labels": [
+    "diet"
+  ]
+}

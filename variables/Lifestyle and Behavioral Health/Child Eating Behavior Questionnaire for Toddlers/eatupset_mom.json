@@ -1,0 +1,10 @@
+{
+  "id": "eatupset_mom",
+  "display_name": "My child eats more when upset",
+  "description": "subscale food responsiveness",
+  "type": "choices",
+  "domain": "disagree_agree4",
+  "labels": [
+    "diet"
+  ]
+}

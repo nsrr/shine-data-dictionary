@@ -1,0 +1,7 @@
+{
+  "id": "childactivity3_f",
+  "display_name": "My child has access to a mobile or screen-based device (such as an iPad or smartphone) while in bed",
+  "description": "Screen parenting scale (Davison, Haines etc)",
+  "type": "choices",
+  "domain": "disagree_agree4"
+}

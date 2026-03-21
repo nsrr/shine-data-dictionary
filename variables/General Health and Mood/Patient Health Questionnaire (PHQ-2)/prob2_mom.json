@@ -1,0 +1,7 @@
+{
+  "id": "prob2_mom",
+  "display_name": "Feeling down, depressed or hopeless",
+  "description": "Patient Health Questionnaire-2 (PHQ2) question 2.",
+  "type": "choices",
+  "domain": "phq4freq"
+}

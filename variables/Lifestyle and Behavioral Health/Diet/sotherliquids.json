@@ -1,0 +1,11 @@
+{
+  "id": "sotherliquids",
+  "display_name": "Since birth, have you given your baby liquids other than breastmilk or formula to drink?",
+  "description": "IFPS II",
+  "type": "choices",
+  "domain": "yes_waterliquid3",
+  "labels": [
+    "diet",
+    "breastfeeding"
+  ]
+}

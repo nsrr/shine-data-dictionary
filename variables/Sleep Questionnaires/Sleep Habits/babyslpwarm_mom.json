@@ -1,0 +1,7 @@
+{
+  "id": "babyslpwarm_mom",
+  "display_name": "Is the room where your baby sleeps properly heated or warm enough at night (during the winter)?",
+  "description": "Sleep Environment Scale (SES), IEQ",
+  "type": "choices",
+  "domain": "never_always_na4"
+}

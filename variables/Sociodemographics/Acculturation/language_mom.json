@@ -1,0 +1,6 @@
+{
+  "id": "language_mom",
+  "display_name": "What language(s) do you primarily speak?",
+  "description": "Norris 1996 4-pt Brief Acculturation Scale for Hispanics (BASH)",
+  "type": "text"
+}

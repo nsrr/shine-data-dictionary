@@ -1,0 +1,7 @@
+{
+  "id": "daysalcoholdrinks_f",
+  "display_name": "During the last 30 days, on how many days did you drink one or more drinks of an alcoholic beverage?",
+  "description": "Phenx 2-item",
+  "type": "numeric",
+  "units": "days"
+}
