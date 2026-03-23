@@ -1,6 +1,6 @@
 {
   "id": "snapwic_mom___7",
-  "display_name": "In the past 12 months, has your household received any of the following? (Check all that apply) (choice=Not Applicable)",
+  "display_name": "In the past 12 months, has your household received any of the following? (choice=Not Applicable)",
   "description": "",
   "type": "choices",
   "domain": "yes1no0"
