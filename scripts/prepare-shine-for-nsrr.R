@@ -1,6 +1,6 @@
 # Prepare SHINE for nsrr #
 
-ver="0.3.0.pre"
+ver="0.3.0"
 
 library(haven)
 library(dplyr)
@@ -327,7 +327,7 @@ data_final <- data_final %>%
   ) %>%
   select(-water_mom)
 write.csv(data_final, 
-          "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_releases/0.3.0.pre/shine-dataset-0.3.0.pre.csv",
+          "/Volumes/BWH-SLEEPEPI-NSRR-STAGING/20230504-shine/nsrr-prep/_releases/0.3.0/shine-dataset-0.3.0.csv",
           row.names = FALSE, 
           na = '')
 
@@ -357,6 +357,3 @@ write.csv(harmonized_data, paste(ver,"/shine-harmonized-dataset-",ver,".csv",sep
 
 names(child_anthro)[names(child_anthro) == 'visitnumber'] <- 'visitanthro'
 write.csv(child_anthro, paste(ver,"/shine-child-anthropometry-dataset-",ver,".csv",sep=""), row.names = F, na="")
-
-
-

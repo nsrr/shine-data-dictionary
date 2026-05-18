@@ -1,3 +1,7 @@
+## 0.3.0 (May 18, 2026)
+
+- Add more covariates
+
 ## 0.2.0 (June 6, 2025)
 
 - Revise variable folder structure
